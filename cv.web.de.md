@@ -102,15 +102,15 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 
 ## Vorträge
   
-# 2017
+### 2017
 * mit Alejandro Esguerra, Katja Freistein, "Document Analysis as a Black Box: On the Contextualization of Speech Acts in Multilateral Negotiations". Workshop Micro-Moves in International Institutions, Universität Potsdam, Potsdam (2/2017).
 * "Micro-Moves in International Institutions". Workshop Micro-Moves in International Institutions, Universität Potsdam, Potsdam (2/2017).
   
-# 2016
+### 2016
 * "Ambivalenz, Intention und Kompetenz zwischen Linguistischer Anthropologie und Narrationsanalyse". Workshop Narrationsanalyse in der Europäischen Ethnologie, Universität Innsbruck, Innsbruck (09/2016).
 * mit Regina F. Bendix, ",Kultur(-Erbe)‘ als flexibles Konzept in EU-Kulturpolitik und Außenbeziehungen". Institut für Europäische Ethnologie, HU Berlin, Berlin (5/2016).
   
-# 2015
+### 2015
 * "Welche Rolle spielt Gerechtigkeit in Verhandlungen um kulturelles Eigentum?". DIES, Bonn (12/2015).
 * mit Katja Freistein, Alejandro Esguerra, "Observing Micro-Practices, Making Generalizations: A Concept Note". Workshop Studying Micro-Practices in (International) Institutions: Chances and Limitations of Theory-Building, Duisburg (11/2015).
 * "Kein sichereres Mittel existirt zur Abwehr von allem Lupengesindel‘: Zur Technisierung und Legitimierung von Sicherheits- und Kontrollregimen um 1900". Tagung „Der Alltag der (Un)Sicherheit. Ethnographisch-kulturwissenschaftliche Perspektiven auf die Sicherheitsgesellschaft“, Graz (11/2015).
@@ -120,38 +120,38 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * "Culture Concepts and Normative Principles: On the Framing and Justification of Cultural Property in EU-Conventions". Käte Hamburger Kolleg / Centre for Global Cooperation Research, Duisburg (5/2015).
 * "Kultur als “Soft Power”? Zur Rahmung und Rechtfertigung von Kulturerbe in der Europäischen Union". Abteilung Kulturanthropologie / Volkskunde, Bonn (5/2015).
   
-# 2014
+### 2014
 * "Modalities of Normative Claims to Culture in Multilateral Negotiations". Käte Hamburger Kolleg / Centre for Global Cooperation Research, Duisburg (11/2014).
 * "Kooperation als Ressource: Zur Produktion kooperativen Alltagshandelns". Tagung „Zum Umgang mit begrenzten Ressourcen”, Kiel (11/2014).
 * "Producing Stability: On the Pragmatics of Multilateral Negotiations". WISC, Frankfurt (08/2014).
 * "Normative Forderungen über Kultur als Themenfeld transnationaler Kooperation". Workshops "Mosaike der Legitimität", Konstanz (7/2014).
 * "Welche Rolle spielt Gerechtigkeit in Diskussionen um kulturelles Eigentum?". Vortragsreihe der Interdisziplinären DFG-Forschergruppe zu Cultural Property, Göttingen (1/2014).
   
-# 2013
+### 2013
 * "Implicit Ethics: Normative Claims in International Negotiations on Traditional Knowledge". Working Conference “Justice in Discourse”, Göttingen (4/2013).
 * "Perspectives on Traditonal Knowledge: The Involvement of Indigenous and Local Communities in WIPO’s Committee on Intellectual Property and Traditional Knowledge". SOGIP Seminar “Les questions de savoirs et de droit dans l’institutionnalisation internationale des autochtones”, Paris (1/2013).
   
-# 2012
+### 2012
 * "Sprache und Anerkennung: Die Verortung von Subjekten in Diskursen". Workshop Subjektbegriffe der Europäischen Ethnologie, Göttingen (12/2012).
 * "Between Society and Culture: The Theory of Recogniton in Cultural Heritage Contexts". Atelier de Recherche Trinational “Institutions, Territoires et Communautés: Perspectives sur le Patrimoine Culturel Immatériel Translocal, Villa Vigoni (10/2012).
 * "The Indeterminacy of Cultural Heritage and Cultural Property in International Negotiations and Local Configurations". Workshop Local Vocabularies of Heritage, Évora (2/2012).
   
-# 2011
+### 2011
 * "Die Erfindung der Moral: Allmendgemeinschaften und Cultural Commons in der Diskussion um kulturelles Eigentum". 38. Kongress der Deutschen Gesellschaft für Volkskunde (DGV), Tübingen (09/2011).
 * mit Regina F. Bendix, "Speeding, Stalling, Editing: Maximal Communication for Minimal Results?". Internationales Symposium der Interdisziplinären DFG-Forschergruppe zu Cultural Property, Göttingen (6/2011).
 * "Scholarship and Policy – Oppositional Perspectives within Interdisciplinary Cooperation". Internationales Symposium der Interdisziplinären DFG-Forschergruppe zu Cultural Property, Göttingen (6/2011).
   
-# 2010
+### 2010
 * "Metapragmatics on the Global Stage: The Multiplicity of Meaning in International Negotiations". Workshop zur Anthropology of International Institutions: How Ethnography Contributes to Understanding Mechanisms of Global Governance, Paris (6/2010).
 * "Language Ideologies and International Institutions: The Case of the Intergovernmental Committee on Intellectual Property and Traditional Knowledge". Department of Anthropology, UC Santa Cruz, Santa Cruz (4/2010).
 * "Cultural Property als kulturanthropologisches Forschungsthema". Institut für Kulturanthropologie / Europäische Ethnologie der Universität Göttingen, Göttingen (1/2010).
   
-# 2009
+### 2009
 * "Ideologies in Motion: Language, Power and Performance in International Institutions". Konferenz der American Anthropological Association (AAA), Philadelphia (12/2009).
 * "On Tradition and the Politics of Difference". International Symposium on Cultural Property, Interdisciplinary Research Unit on Cultural Property, Göttingen (11/2009).
 * "Negotiating Tradition, Representing Social Structure: Culture, Community, and Language in WIPO’s Committee on Traditional Knowledge and Folklore". International Summer University “Local Knowledge and Open Borders: Creativity and Heritage”, Tartu University, Tartu (7/2009).
 * "Tradition und Folklore in der Weltorganisation für Geistiges Eigentum (WIPO) – Eine kommunikationsethnographische Perspektive". Hamburger Gesellschaft für Volkskunde (HGV), Hamburg (5/2009).
   
-# 2008
+### 2008
 * mit Regina F. Bendix, "Stalling & Speeding: Ways of Speaking at WIPO’s Intergovernmental Committee on Cultural Property". Konferenz der European Association of Social Anthropologists (EASA), Ljubljana (08/2008).
 
