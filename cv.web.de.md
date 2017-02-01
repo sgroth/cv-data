@@ -103,10 +103,10 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Das Konzept des Kulturrelativismus, WS 2009/2010. Institut für Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen.  
 
 ## Vorträge
-* "Document Analysis as a Black Box: On the Contextualization of Speech Acts in Multilateral Negotiations". Workshop Micro-Moves in International Institutions, Universität Potsdam, Potsdam (2/2017).
+* mit Alejandro Esguerra, Katja Freistein, "Document Analysis as a Black Box: On the Contextualization of Speech Acts in Multilateral Negotiations". Workshop Micro-Moves in International Institutions, Universität Potsdam, Potsdam (2/2017).
 * "Micro-Moves in International Institutions". Workshop Micro-Moves in International Institutions, Universität Potsdam, Potsdam (2/2017).
 * "Ambivalenz, Intention und Kompetenz zwischen Linguistischer Anthropologie und Narrationsanalyse". Workshop Narrationsanalyse in der Europäischen Ethnologie, Universität Innsbruck, Innsbruck (09/2016).
-* ",Kultur(-Erbe)‘ als flexibles Konzept in EU-Kulturpolitik und Außenbeziehungen". Institut für Europäische Ethnologie, HU Berlin, Berlin (5/2016).
+* mit Regina F. Bendix, ",Kultur(-Erbe)‘ als flexibles Konzept in EU-Kulturpolitik und Außenbeziehungen". Institut für Europäische Ethnologie, HU Berlin, Berlin (5/2016).
 * "Welche Rolle spielt Gerechtigkeit in Verhandlungen um kulturelles Eigentum?". DIES, Bonn (12/2015).
 * mit Katja Freistein, Alejandro Esguerra, "Observing Micro-Practices, Making Generalizations: A Concept Note". Workshop Studying Micro-Practices in (International) Institutions: Chances and Limitations of Theory-Building, Duisburg (11/2015).
 * "Kein sichereres Mittel existirt zur Abwehr von allem Lupengesindel‘: Zur Technisierung und Legitimierung von Sicherheits- und Kontrollregimen um 1900". Tagung „Der Alltag der (Un)Sicherheit. Ethnographisch-kulturwissenschaftliche Perspektiven auf die Sicherheitsgesellschaft“, Graz (11/2015).
