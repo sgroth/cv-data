@@ -87,18 +87,18 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Organisation mit Nadine Wagener-Böck M.A., Workshop „Subjektbegriffe der Europäischen Ethnologie“ (“Concepts of the ‘Subject’ in European Ethnology”), December 13-14, 2012, Göttingen ([Programm als PDF](https://stefangroth.com/img/subjekt-programm.pdf)). Mit Beiträgen von Prof. em. Dr. Johannes Fabian (Amsterdam), Prof. Dr. Andreas Schmidt (Kiel), PD Dr. Jochen Bonz (Bremen), Christine Öldorp M.A. (Zürich), Dr. Gerrit Herlyn (Hamburg), Julia Butschatskaja M.A. (Sankt Petersburg), Nadine Heymann M.A. (Berlin), Dr. Thomas Dörfler (Lüneburg), Martina Röthl M.A. (Innsbruck), Erdem Evren M.A. (Berlin), Maria Schwertl M.A. (Göttingen).  
 
 ## Lehrerfahrungen
-* Institution und Alltag: Ethnographische Zugänge zu Institutionen (Master), FS 2017. Populäre Kulturen, ISEK - Institute für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
-* Alltagskultur und Normativität (Bachelor), FS 2017. Populäre Kulturen, ISEK - Institute für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
+* Institution und Alltag: Ethnographische Zugänge zu Institutionen (Master), FS 2017. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
+* Alltagskultur und Normativität (Bachelor), FS 2017. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
 * Empirische Kulturanalyse des Alltags, Methodenseminar (Master), SS 2016. Abteilung Kulturanthropologie / Volkskunde, Institut für Archäologie und Kulturanthropologie, Friedrich-Wilhelms-University Bonn.  
-* Projektseminar (Master), WS 2015/2016. Abteilung Kulturanthropologie / Volkskunde, Institut für Archäologie und Kulturanthropologie, Friedrich-Wilhelms-University Bonn.  
+* Projektseminar (Master), WS 2015. Abteilung Kulturanthropologie / Volkskunde, Institut für Archäologie und Kulturanthropologie, Friedrich-Wilhelms-University Bonn.  
 * Projektseminar (Master), SS 2016. Abteilung Kulturanthropologie / Volkskunde, Institut für Archäologie und Kulturanthropologie, Friedrich-Wilhelms-University Bonn.  
-* Kulturerbe und kulturelles Eigentum (Master), WS 2015/2016. Abteilung Kulturanthropologie / Volkskunde, Institut für Archäologie und Kulturanthropologie, Friedrich-Wilhelms-University Bonn.  
-* Kultur und Kommunikation: Einführung in die Ethnographie der Kommunikation und linguistische Anthropologie (Master), WS 2013/2014. Institut für Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen.  
+* Kulturerbe und kulturelles Eigentum (Master), WS 2015. Abteilung Kulturanthropologie / Volkskunde, Institut für Archäologie und Kulturanthropologie, Friedrich-Wilhelms-University Bonn.  
+* Kultur und Kommunikation: Einführung in die Ethnographie der Kommunikation und linguistische Anthropologie (Master), WS 2013. Institut für Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen.  
 * Vorlesung Kulturtheorien (Regina Bendix, Carola Lipp), Übernahme der Vorlesung „Strukturalismus“, SS 2013. Institut für Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen.  
 * Kulturerbe verhandeln: Methodische und theoretische Zugänge, HS 2012. Seminar für Kulturwissenschaft und Europäische Ethnologie, Universität Basel.  
 * Vorlesung Kulturtheorien (Regina Bendix, Carola Lipp), Übernahme der Vorlesung „Frühe Paradigmen der Kulturanthropologie/Europäischen Ethnologie: Evolutionismus, Kulturrelativismus, Funktionalismus“, SS 2012. Institut für Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen.  
 * Kulturtheorien, SS 2011. Institut für Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen.  
-* Das Konzept des Kulturrelativismus, WS 2009/2010. Institut für Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen.  
+* Das Konzept des Kulturrelativismus, WS 2009. Institut für Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen.  
 
 ## Vorträge
   
