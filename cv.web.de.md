@@ -57,6 +57,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
   * Kollegiales Praxisgespräch (11/2013)  
   * Beratung von Studierenden (01/2014)  
 
+
 ## Forschungsinteressen
 * Kulturerbe und kulturelles Eigentum  
 * Sprachanalytische Zugänge  
@@ -67,7 +68,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 
 ## Professionelle Aktivitäten und Mitgliedschaften
 * [DFG-Netzwerk „Wettbewerb und Konkurrenz: Zur kulturellen Logik kompetitiver Figurationen“](http://www.konkurrenz.uni-kiel.de/de) (seit 2014)  
-* H-Folk-Netzwerk, Editor (seit 2013)  
+* [H-Folk-Netzwerk, Editor](https://networks.h-net.org/h-folk) (seit 2013)  
 * [EASA Network “Anthropology of Law and Rights” (LAWNET)](http://easaonline.org/networks/lawnet/index.shtml) (seit 2008)  
 * Zentrum für Theorie und Methodik der Kulturwissenschaften (ZTMK), Göttingen (Vorstand, 2010–2014)  
 * Vorstand Institut für Archäologie und Kulturanthropologie, Universität Bonn (Gruppe der akademischen Mitarbeiter, Stellv.) (2015-2016)  
@@ -82,7 +83,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 
 ## Organisatorische Aktivitäten
 * Organisation mit Dr. Alejandro Esguerra (Potsdam) und Dr. Katja Freistein (Duisburg), Internationaler Workshop Micro-Moves in International Institutions, Standing Group Sociology of International Relations (AK SiB) / Deutsche Vereinigung für Politische Wissenschaft, February 9-10, 2017, Universität Potsdam ([Programm als PDF](https://stefangroth.com/img/micromoves-program.pdf)). Keynotes von Karin Knorr-Cetina (Chicago) und Thomas Scheffer (Frankfurt).  
-* Organisation mit Dr. Katja Freistein (Duisburg) und Dr. Alejandro Esguerra Portocarrero (Duisburg), Interdisziplinärer Workshop Studying Micro-Practices in (International) Institutions: Chances and Limitations of Theory-Building, November 26-27, 2015, Centre for Global Cooperation Research (GCR), Duisburg ([Programm als PDF](https://stefangroth.com/img/micro-programm.pdf)). Mit Beiträgen von Maria Sapignoli (MPI Halle), Birgit Müller (Paris), Chiara Bortolotto (Paris), Shirin Saeidi (Duisburg), Tobias Berger (FU Berlin/MPI Halle), Frank Gadinger (Duisburg), Susanne Buckley Zistel (Duisburg/Marburg).  
+* Organisation mit Dr. Katja Freistein (Duisburg) und Dr. Alejandro Esguerra Portocarrero (Duisburg), Interdisziplinärer Workshop Studying Micro-Practices in (International) Institutions: Chances and Limitations of Theory-Building, November 26-27, 2015, Centre for Global Cooperation Research (GCR), Duisburg ([Programm als PDF](https://stefangroth.com/img/micro-programm.pdf)).  
 * Organisation mit Prof. Dr. Charles Briggs (UC Berkeley) und Prof. Dr. Regina Bendix, International Working Conference Justice in Discourse, April 4–5, 2013, Göttingen ([Programm als PDF](https://stefangroth.com/img/justice-programm.pdf)). Mit Beiträgen von Prof. Dr. Srikant Sarangi (Cardiff), Prof. Dr. Jan Blommaert (Tilburg), Prof. Dr. Patrick Eisenlohr (Göttingen), Prof. Dr. Charles Briggs (Berkeley), Prof. Dr. Regina Bendix (Göttingen), Dr. Stefan Groth (Göttingen), Ruth Goldstein (Berkeley), Ina Lehmann (Bremen). ([Tagungsbericht auf H-Soz-Kult](http://www.hsozkult.de/conferencereport/id/tagungsberichte-4961))  
 * Organisation mit Nadine Wagener-Böck M.A., Workshop „Subjektbegriffe der Europäischen Ethnologie“ (“Concepts of the ‘Subject’ in European Ethnology”), December 13-14, 2012, Göttingen ([Programm als PDF](https://stefangroth.com/img/subjekt-programm.pdf)). Mit Beiträgen von Prof. em. Dr. Johannes Fabian (Amsterdam), Prof. Dr. Andreas Schmidt (Kiel), PD Dr. Jochen Bonz (Bremen), Christine Öldorp M.A. (Zürich), Dr. Gerrit Herlyn (Hamburg), Julia Butschatskaja M.A. (Sankt Petersburg), Nadine Heymann M.A. (Berlin), Dr. Thomas Dörfler (Lüneburg), Martina Röthl M.A. (Innsbruck), Erdem Evren M.A. (Berlin), Maria Schwertl M.A. (Göttingen).  
 
@@ -103,8 +104,9 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 ## Vorträge
   
 ### 2017
+* "Institution und Alltag: Kulturanalytische Zugänge zur Alltäglichkeit von Institutionen". Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich, Zürich (4/2017).
 * mit Alejandro Esguerra, Katja Freistein, "Document Analysis as a Black Box: On the Contextualization of Speech Acts in Multilateral Negotiations". Workshop Micro-Moves in International Institutions, Universität Potsdam, Potsdam (2/2017).
-* "Micro-Moves in International Institutions". Workshop Micro-Moves in International Institutions, Universität Potsdam, Potsdam (2/2017).
+* "Micro to Macro. On Generalizing from Communicative Approaches Towards International Institutions". Workshop Micro-Moves in International Institutions, Universität Potsdam, Potsdam (2/2017).
   
 ### 2016
 * "Ambivalenz, Intention und Kompetenz zwischen Linguistischer Anthropologie und Narrationsanalyse". Workshop Narrationsanalyse in der Europäischen Ethnologie, Universität Innsbruck, Innsbruck (09/2016).
