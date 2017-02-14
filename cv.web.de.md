@@ -105,8 +105,8 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
   
 ### 2017
 * "Institution und Alltag: Kulturanalytische Zugänge zur Alltäglichkeit von Institutionen". Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich, Zürich (4/2017).
-* mit Alejandro Esguerra, Katja Freistein, "Document Analysis as a Black Box: On the Contextualization of Speech Acts in Multilateral Negotiations". Workshop Micro-Moves in International Institutions, Universität Potsdam, Potsdam (2/2017).
-* "Micro to Macro. On Generalizing from Communicative Approaches Towards International Institutions". Workshop Micro-Moves in International Institutions, Universität Potsdam, Potsdam (2/2017).
+* "Document Analysis as a Black Box: On the Contextualization of Speech Acts in Multilateral Negotiations". Workshop Micro-Moves in International Institutions, Universität Potsdam, Potsdam (2/2017).
+* mit Alejandro Esguerra, Katja Freistein, "Micro to Macro. On Generalizing from Communicative Approaches Towards International Institutions". Workshop Micro-Moves in International Institutions, Universität Potsdam, Potsdam (2/2017).
   
 ### 2016
 * "Ambivalenz, Intention und Kompetenz zwischen Linguistischer Anthropologie und Narrationsanalyse". Workshop Narrationsanalyse in der Europäischen Ethnologie, Universität Innsbruck, Innsbruck (09/2016).
