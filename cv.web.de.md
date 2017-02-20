@@ -58,13 +58,12 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
   * Beratung von Studierenden (01/2014)  
 
 
-## Forschungsinteressen
-* Kulturerbe und kulturelles Eigentum  
-* Sprachanalytische Zugänge  
-* Politische Anthropologie und Organisationsforschung  
-* Sport als kulturelle Praktik  
+## Forschungsschwerpunkte
 * Normative Dimensionen der Alltagskultur  
-* Kulturtheorien  
+* Sprachanalytische Ansätze  
+* Politische Anthropologie und Organisationsforschung  
+* Kulturerbe und kulturelles Eigentum  
+* Kulturwissenschaftliche Sportforschung  
 
 ## Professionelle Aktivitäten und Mitgliedschaften
 * [DFG-Netzwerk „Wettbewerb und Konkurrenz: Zur kulturellen Logik kompetitiver Figurationen“](http://www.konkurrenz.uni-kiel.de/de) (seit 2014)  
