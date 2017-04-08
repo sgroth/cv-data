@@ -66,6 +66,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Kulturwissenschaftliche Sportforschung  
 
 ## Professionelle Aktivitäten und Mitgliedschaften
+* Delegierter des Mittelbaus in der Kommission für Forschung und Nachwuchsförderung, Philosophische Fakultät der Universität Zürich (seit 2017)  
 * [DFG-Netzwerk „Wettbewerb und Konkurrenz: Zur kulturellen Logik kompetitiver Figurationen“](http://www.konkurrenz.uni-kiel.de/de) (seit 2014)  
 * [H-Folk-Netzwerk, Editor](https://networks.h-net.org/h-folk) (seit 2013)  
 * [EASA Network “Anthropology of Law and Rights” (LAWNET)](http://easaonline.org/networks/lawnet/index.shtml) (seit 2008)  
