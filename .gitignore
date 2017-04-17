@@ -1,5 +1,6 @@
 .DS_Store
 *~
+private/*
 cv.de.md
 cv.de.tex
 cv.en.md
