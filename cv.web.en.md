@@ -73,7 +73,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Zentrum für Theorie und Methodik der Kulturwissenschaften (ZTMK), Göttingen, Vorstand (2010--2014)  
 * Vorstand Institut für Archäologie und Kulturanthropologie, Universität Bonn (Gruppe der akademischen Mitarbeiter, Stellv.) (2015--2016)  
 * Schweizerische Gesellschaft für Volkskunde, Sektion Zürich  
-* Deutsche Gesellschaft für Volkskunde (DGV)  
+* Deutsche Gesellschaft für Volkskunde (DGV) und DGV-Komission Arbeitskulturen  
 * European Association of Social Anthropologists (EASA)  
 * Societé Internationale d´Ethnologie et de Folklore (SIEF)  
 * Rheinische Vereinigung für Volkskunde (RVV)  
@@ -90,6 +90,8 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Organisation mit Nadine Wagener-Böck M.A., Workshop „Subjektbegriffe der Europäischen Ethnologie“ (“Concepts of the ‘Subject’ in European Ethnology”), December 13-14, 2012, Göttingen ([Programm als PDF](https://stefangroth.com/img/subjekt-programm.pdf)). Mit Beiträgen von Prof. em. Dr. Johannes Fabian (Amsterdam), Prof. Dr. Andreas Schmidt (Kiel), PD Dr. Jochen Bonz (Bremen), Christine Öldorp M.A. (Zürich), Dr. Gerrit Herlyn (Hamburg), Julia Butschatskaja M.A. (Sankt Petersburg), Nadine Heymann M.A. (Berlin), Dr. Thomas Dörfler (Lüneburg), Martina Röthl M.A. (Innsbruck), Erdem Evren M.A. (Berlin), Maria Schwertl M.A. (Göttingen).  
 
 ## Teaching Experiences
+* Projektseminar Black Mountain College (Master), HS 2017. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
+* Qualitative Methoden (Alltagskulturen) (Bachelor), HS 2017. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
 * Institution und Alltag: Ethnographische Zugänge zu Institutionen (Master), FS 2017. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
 * Alltagskultur und Normativität (Bachelor), FS 2017. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
 * Empirische Kulturanalyse des Alltags, Methodenseminar (Master), SS 2016. Abteilung Kulturanthropologie / Volkskunde, Institut für Archäologie und Kulturanthropologie, Friedrich-Wilhelms-University Bonn.  
