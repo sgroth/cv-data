@@ -90,7 +90,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Organisation mit Nadine Wagener-Böck M.A., Workshop „Subjektbegriffe der Europäischen Ethnologie“ (“Concepts of the ‘Subject’ in European Ethnology”), December 13-14, 2012, Göttingen ([Programm als PDF](https://stefangroth.com/img/subjekt-programm.pdf)). Mit Beiträgen von Prof. em. Dr. Johannes Fabian (Amsterdam), Prof. Dr. Andreas Schmidt (Kiel), PD Dr. Jochen Bonz (Bremen), Christine Öldorp M.A. (Zürich), Dr. Gerrit Herlyn (Hamburg), Julia Butschatskaja M.A. (Sankt Petersburg), Nadine Heymann M.A. (Berlin), Dr. Thomas Dörfler (Lüneburg), Martina Röthl M.A. (Innsbruck), Erdem Evren M.A. (Berlin), Maria Schwertl M.A. (Göttingen).  
 
 ## Lehrerfahrungen
-* Projektseminar Black Mountain College (Master), HS 2017. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
+* Projektseminar Black Mountain College (Master), HS 2017. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft (Kooperationsprojekt mit der Zürcher Hochschule der Künste, ZHdK), Universität Zürich.  
 * Qualitative Methoden (Alltagskulturen) (Bachelor), HS 2017. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
 * Institution und Alltag: Ethnographische Zugänge zu Institutionen (Master), FS 2017. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
 * Alltagskultur und Normativität (Bachelor), FS 2017. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
