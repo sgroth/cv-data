@@ -92,7 +92,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 
 ## Lehrerfahrungen
 * Zyklen, Strukturen und Rhythmen: Ordnungen in Alltag und Gesellschaft, Vorlesung mit wechselnden ReferentInnen in Kooperation mit dem Seminar für Kulturwissenschaft und Europäische Ethnologie der Universität Basel, inklusive Coaching für vortragende DoktorandInnen und Publikation (Organisation und Vorträge) (Bachelor), FS 2018. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
-* mit Dr. Christian Ritter: Projektseminar Wissensorte – ReVisiting Black Mountain College (Master), HS/FS 2017/2018. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft (Kooperationsprojekt mit der Zürcher Hochschule der Künste, ZHdK), Universität Zürich.  
+* mit Christian Ritter, Projektseminar Wissensorte – ReVisiting Black Mountain College (Master), HS/FS 2017/2018. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft (Kooperationsprojekt mit der Zürcher Hochschule der Künste, ZHdK), Universität Zürich.  
 * Qualitative Methoden (Alltagskulturen) (Bachelor), HS 2017. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
 * Institution und Alltag: Ethnographische Zugänge zu Institutionen (Master), FS 2017. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
 * Alltagskultur und Normativität (Bachelor), FS 2017. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
