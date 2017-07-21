@@ -70,8 +70,8 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * [DFG-Netzwerk „Wettbewerb und Konkurrenz: Zur kulturellen Logik kompetitiver Figurationen“](http://www.konkurrenz.uni-kiel.de/de) (seit 2014)  
 * [H-Folk-Netzwerk, Editor](https://networks.h-net.org/h-folk) (seit 2013)  
 * [EASA Network “Anthropology of Law and Rights” (LAWNET)](http://easaonline.org/networks/lawnet/index.shtml) (seit 2008)  
-* Zentrum für Theorie und Methodik der Kulturwissenschaften (ZTMK), Göttingen, Vorstand (2010--2014)  
 * Vorstand Institut für Archäologie und Kulturanthropologie, Universität Bonn (Gruppe der akademischen Mitarbeiter, Stellv.) (2015--2016)  
+* Zentrum für Theorie und Methodik der Kulturwissenschaften (ZTMK), Göttingen, Vorstand (2010--2014)  
 * Schweizerische Gesellschaft für Volkskunde, Sektion Zürich  
 * Deutsche Gesellschaft für Volkskunde (DGV) und DGV-Komission Arbeitskulturen  
 * European Association of Social Anthropologists (EASA)  
@@ -83,7 +83,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 
 ## Organisatorische Aktivitäten
 * Organisation mit Dr. Sarah May und Dr. Johannes Müske, Digital, entgrenzt, prekär? Zum Wandel von Arbeit in gesellschaftlicher Verhandlung. Empirisch-kulturwissenschaftliche Perspektiven. 18. Tagung der Kommission Arbeitskulturen in der Deutschen Gesellschaft für Volkskunde, geplant für September 2018 ([Call for Papers als PDF](http://www.stefangroth.com/assets/pdf/CfP_Zusammenarbeiten_Zürich.pdf)).  
-* Organisation mit Dr. Christian Ritter (Collegium Helveticum, Zürich), Workshop Zusammenarbeit(en). Praktiken der Koordination, Kooperation und Repräsentation in kollaborativen Prozessen, 5.-6. Oktober 2017, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich / Collegium Helveticum, Zürich ([Call for Papers als PDF](http://www.stefangroth.com/assets/pdf/CfP_Zusammenarbeiten_Zürich.pdf)).  
+* Organisation mit Dr. Christian Ritter (Collegium Helveticum, Zürich), Workshop Zusammenarbeit(en). Praktiken der Koordination, Kooperation und Repräsentation in kollaborativen Prozessen, 5.-6. Oktober 2017, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich / Collegium Helveticum, Zürich ([Call for Papers als PDF](http://www.stefangroth.com/assets/pdf/CfP_Zusammenarbeiten_Zürich.pdf) / [Programm als PDF](http://www.stefangroth.com/assets/pdf/CfP_Zusammenarbeiten_Zürich.pdf)).  
 * In-House Workshop Perspektiven ethnographischer Kulturanalyse, 4.-5. Mai 2017, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
 * Organisation mit Dr. Alejandro Esguerra (Potsdam) und Dr. Katja Freistein (Duisburg), Internationaler Workshop Micro-Moves in International Institutions, Standing Group Sociology of International Relations (AK SiB) / Deutsche Vereinigung für Politische Wissenschaft, February 9-10, 2017, Universität Potsdam ([Programm als PDF](https://stefangroth.com/img/micromoves-program.pdf)). Keynotes von Karin Knorr-Cetina (Chicago) und Thomas Scheffer (Frankfurt).  
 * Organisation mit Dr. Katja Freistein (Duisburg) und Dr. Alejandro Esguerra Portocarrero (Duisburg), Interdisziplinärer Workshop Studying Micro-Practices in (International) Institutions: Chances and Limitations of Theory-Building, November 26-27, 2015, Centre for Global Cooperation Research (GCR), Duisburg ([Programm als PDF](https://stefangroth.com/img/micro-programm.pdf)).  
@@ -108,6 +108,9 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Das Konzept des Kulturrelativismus, WS 2009. Institut für Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen.  
 
 ## Vorträge
+  
+### 2018
+* "Angemessen, maßvoll, ausreichend: Handlungsorientierungen an der „Mitte“ und ihre alltagskulturellen Dimensionen". Institut für Europäische Ethnologie, Universität Wien, Wien (1/2018).
   
 ### 2017
 * "Makro-Trends als Forschungsthema? Europäisch-ethnologische Themenbegrenzung am Beispiel der «Mitte»". Tagung „Wie kann man nur dazu forschen?“ Themenpolitik in der Europäischen Ethnologie, Innsbruck (11/2017).
