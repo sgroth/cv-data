@@ -110,11 +110,11 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 ## Vorträge
   
 ### 2018
-* "Anstehend: Angemessen, maßvoll, ausreichend: Handlungsorientierungen an der „Mitte“ und ihre alltagskulturellen Dimensionen". Institut für Europäische Ethnologie, Universität Wien, Wien (1/2018).
+* "Angemessen, maßvoll, ausreichend: Handlungsorientierungen an der „Mitte“ und ihre alltagskulturellen Dimensionen". Institut für Europäische Ethnologie, Universität Wien, Wien (1/2018).
   
 ### 2017
-* "Anstehend: Makro-Trends als Forschungsthema? Europäisch-ethnologische Themenbegrenzung am Beispiel der «Mitte»". Tagung „Wie kann man nur dazu forschen?“ Themenpolitik in der Europäischen Ethnologie, Innsbruck (11/2017).
-* "Anstehend: Zwischen Ermöglichung und Begrenzung: Zur subjektiven Plausibilisierung des Mittelmaßes als normative Orientierung". Kongress der Deutschen Gesellschaft für Volkskunde (DGV), Marburg (09/2017).
+* "Makro-Trends als Forschungsthema? Europäisch-ethnologische Themenbegrenzung am Beispiel der «Mitte»". Tagung „Wie kann man nur dazu forschen?“ Themenpolitik in der Europäischen Ethnologie, Innsbruck (11/2017).
+* "Zwischen Ermöglichung und Begrenzung: Zur subjektiven Plausibilisierung des Mittelmaßes als normative Orientierung". Kongress der Deutschen Gesellschaft für Volkskunde (DGV), Marburg (09/2017).
 * "Institution und Alltag: Kulturanalytische Zugänge zur Alltäglichkeit von Institutionen". Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich, Zürich (4/2017).
 * "Of “Good Averages” and “Happy Mediums”: Normative Orientations towards an “Average” in Urban Housing". SIEF-Kongress, Göttingen (3/2017).
 * "Document Analysis as a Black Box: On the Contextualization of Speech Acts in Multilateral Negotiations". Workshop Micro-Moves in International Institutions, Universität Potsdam, Potsdam (2/2017).
