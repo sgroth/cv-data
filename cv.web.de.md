@@ -72,8 +72,8 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * [EASA Network “Anthropology of Law and Rights” (LAWNET)](http://easaonline.org/networks/lawnet/index.shtml) (seit 2008)  
 * Vorstand Institut für Archäologie und Kulturanthropologie, Universität Bonn (Gruppe der akademischen Mitarbeiter, Stellv.) (2015--2016)  
 * Zentrum für Theorie und Methodik der Kulturwissenschaften (ZTMK), Göttingen, Vorstand (2010--2014)  
-* Schweizerische Gesellschaft für Volkskunde, Sektion Zürich  
 * Deutsche Gesellschaft für Volkskunde (DGV) und DGV-Komission Arbeitskulturen  
+* Schweizerische Gesellschaft für Volkskunde, Sektion Zürich  
 * European Association of Social Anthropologists (EASA)  
 * Societé Internationale d´Ethnologie et de Folklore (SIEF)  
 * Rheinische Vereinigung für Volkskunde (RVV)  
@@ -82,7 +82,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * International Journal of Heritage Studies  
 
 ## Organisatorische Aktivitäten
-* Organisation mit Dr. Sarah May und Dr. Johannes Müske, Digital, entgrenzt, prekär? Zum Wandel von Arbeit in gesellschaftlicher Verhandlung. Empirisch-kulturwissenschaftliche Perspektiven. 18. Tagung der Kommission Arbeitskulturen in der Deutschen Gesellschaft für Volkskunde, geplant für September 2018 ([Call for Papers als PDF](http://www.stefangroth.com/assets/pdf/CfP_Zusammenarbeiten_Zürich.pdf)).  
+* Organisation mit Dr. Sarah May und Dr. Johannes Müske, Digital, entgrenzt, prekär? Zum Wandel von Arbeit in gesellschaftlicher Verhandlung. Empirisch-kulturwissenschaftliche Perspektiven. 18. Tagung der Kommission Arbeitskulturen in der Deutschen Gesellschaft für Volkskunde, geplant für September 2018.  
 * Organisation mit Dr. Christian Ritter (Collegium Helveticum, Zürich), Workshop Zusammenarbeit(en). Praktiken der Koordination, Kooperation und Repräsentation in kollaborativen Prozessen, 5.-6. Oktober 2017, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich / Collegium Helveticum, Zürich ([Call for Papers als PDF](http://www.stefangroth.com/assets/pdf/CfP_Zusammenarbeiten_Zürich.pdf) / [Programm als PDF](http://www.stefangroth.com/assets/pdf/CfP_Zusammenarbeiten_Zürich.pdf)).  
 * In-House Workshop Perspektiven ethnographischer Kulturanalyse, 4.-5. Mai 2017, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
 * Organisation mit Dr. Alejandro Esguerra (Potsdam) und Dr. Katja Freistein (Duisburg), Internationaler Workshop Micro-Moves in International Institutions, Standing Group Sociology of International Relations (AK SiB) / Deutsche Vereinigung für Politische Wissenschaft, February 9-10, 2017, Universität Potsdam ([Programm als PDF](https://stefangroth.com/img/micromoves-program.pdf)). Keynotes von Karin Knorr-Cetina (Chicago) und Thomas Scheffer (Frankfurt).  
