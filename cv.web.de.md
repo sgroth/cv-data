@@ -60,8 +60,9 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 
 ## Forschungsschwerpunkte
 * Normative Dimensionen der Alltagskultur  
+* Methoden der Europäischen Ethnologie  
 * Sprachanalytische Ansätze  
-* Politische Anthropologie und Organisationsforschung  
+* Politische Anthropologie und Organisationsethnographie  
 * Kulturerbe und kulturelles Eigentum  
 * Kulturwissenschaftliche Sportforschung  
 
