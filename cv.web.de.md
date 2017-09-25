@@ -72,6 +72,8 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * [DFG-Netzwerk „Wettbewerb und Konkurrenz: Zur kulturellen Logik kompetitiver Figurationen“](http://www.konkurrenz.uni-kiel.de/de) (seit 2014)  
 * [H-Folk-Netzwerk, Editor](https://networks.h-net.org/h-folk) (seit 2013)  
 * [EASA Network “Anthropology of Law and Rights” (LAWNET)](http://easaonline.org/networks/lawnet/index.shtml) (seit 2008)  
+* Vorstand Institut für Archäologie und Kulturanthropologie, Universität Bonn (Gruppe der akademischen Mitarbeiter, Stellv.) (2015--2016)  
+* Zentrum für Theorie und Methodik der Kulturwissenschaften (ZTMK), Göttingen, Vorstand (2010--2014)  
 * Deutsche Gesellschaft für Volkskunde (DGV), Schweizerische Gesellschaft für Volkskunde, Sektion Zürich, European Association of Social Anthropologists (EASA), Societé Internationale d´Ethnologie et de Folklore (SIEF), SIEF Working Group Cultural Heritage and Property, Rheinische Vereinigung für Volkskunde (RVV)  
 
 ### Gutachtertätigkeiten
