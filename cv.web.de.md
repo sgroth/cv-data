@@ -68,16 +68,11 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 
 ## Professionelle Aktivitäten und Mitgliedschaften
 * Delegierter des Mittelbaus in der Kommission für Forschung und Nachwuchsförderung, Philosophische Fakultät der Universität Zürich (seit 2017)  
+* Sprecher der Kommission Arbeitskulturen in der Deutschen Gesellschaft für Volkskunde, zusammen mit Irene Götz (München), Sarah May (Freiburg), Johannes Müske (Zürich) und Manfred Seifert (Marburg) (seit 2017)  
 * [DFG-Netzwerk „Wettbewerb und Konkurrenz: Zur kulturellen Logik kompetitiver Figurationen“](http://www.konkurrenz.uni-kiel.de/de) (seit 2014)  
 * [H-Folk-Netzwerk, Editor](https://networks.h-net.org/h-folk) (seit 2013)  
 * [EASA Network “Anthropology of Law and Rights” (LAWNET)](http://easaonline.org/networks/lawnet/index.shtml) (seit 2008)  
-* Vorstand Institut für Archäologie und Kulturanthropologie, Universität Bonn (Gruppe der akademischen Mitarbeiter, Stellv.) (2015--2016)  
-* Zentrum für Theorie und Methodik der Kulturwissenschaften (ZTMK), Göttingen, Vorstand (2010--2014)  
-* Deutsche Gesellschaft für Volkskunde (DGV) und DGV-Komission Arbeitskulturen  
-* Schweizerische Gesellschaft für Volkskunde, Sektion Zürich  
-* European Association of Social Anthropologists (EASA)  
-* Societé Internationale d´Ethnologie et de Folklore (SIEF)  
-* Rheinische Vereinigung für Volkskunde (RVV)  
+* Deutsche Gesellschaft für Volkskunde (DGV), Schweizerische Gesellschaft für Volkskunde, Sektion Zürich, European Association of Social Anthropologists (EASA), Societé Internationale d´Ethnologie et de Folklore (SIEF), SIEF Working Group Cultural Heritage and Property, Rheinische Vereinigung für Volkskunde (RVV)  
 
 ### Gutachtertätigkeiten
 * International Journal of Heritage Studies  
@@ -117,7 +112,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 ### 2017
 * "Hierarchie und Imitation. Ethnographie als Methode und Mode". Ludwig-Uhland-Institut für Empirische Kulturwissenschaft, Universität Tübingen, Tübingen (11/2017).
 * "Makro-Trends als Forschungsthema? Europäisch-ethnologische Themenbegrenzung am Beispiel der «Mitte»". Tagung „Wie kann man nur dazu forschen?“ Themenpolitik in der Europäischen Ethnologie, Innsbruck (11/2017).
-* "Zusammenarbeit(en). Praktiken der Koordination, Kooperation und Repräsentation in kollaborativen Prozessen. Eine Einführung". Workshop Zusammenarbeit(en). Praktiken der Koordination, Kooperation und Repräsentation in kollaborativen Prozessen, Zürich (10/2017).
+* mit Christian Ritter, "Zusammenarbeit(en). Praktiken der Koordination, Kooperation und Repräsentation in kollaborativen Prozessen. Eine Einführung". Workshop Zusammenarbeit(en). Praktiken der Koordination, Kooperation und Repräsentation in kollaborativen Prozessen, Zürich (10/2017).
 * "Zwischen Ermöglichung und Begrenzung: Zur subjektiven Plausibilisierung des Mittelmaßes als normative Orientierung". Kongress der Deutschen Gesellschaft für Volkskunde (DGV), Marburg (09/2017).
 * "Institution und Alltag: Kulturanalytische Zugänge zur Alltäglichkeit von Institutionen". Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich, Zürich (4/2017).
 * "Of “Good Averages” and “Happy Mediums”: Normative Orientations towards an “Average” in Urban Housing". SIEF-Kongress, Göttingen (3/2017).
