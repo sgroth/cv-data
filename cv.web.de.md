@@ -74,7 +74,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * [EASA Network “Anthropology of Law and Rights” (LAWNET)](http://easaonline.org/networks/lawnet/index.shtml) (seit 2008)  
 * Vorstand Institut für Archäologie und Kulturanthropologie, Universität Bonn (Gruppe der akademischen Mitarbeiter, Stellv.) (2015--2016)  
 * Zentrum für Theorie und Methodik der Kulturwissenschaften (ZTMK), Göttingen, Vorstand (2010--2014)  
-* Deutsche Gesellschaft für Volkskunde (DGV), Schweizerische Gesellschaft für Volkskunde, Sektion Zürich, European Association of Social Anthropologists (EASA), Societé Internationale d´Ethnologie et de Folklore (SIEF), SIEF Working Group Cultural Heritage and Property, Rheinische Vereinigung für Volkskunde (RVV)  
+* Deutsche Gesellschaft für Volkskunde (DGV); Schweizerische Gesellschaft für Volkskunde, Sektion Zürich; European Association of Social Anthropologists (EASA); Societé Internationale d´Ethnologie et de Folklore (SIEF); SIEF Working Group Cultural Heritage and Property; Rheinische Vereinigung für Volkskunde (RVV)  
 
 ### Gutachtertätigkeiten
 * International Journal of Heritage Studies  
@@ -109,6 +109,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 ## Vorträge
   
 ### 2018
+* "Narratologisches Doppel: Text und Kontext in Online-Archiven und Interaktionssituationen". Forschungsdesign 4.0. Datengenerierung und Wissenstransfer in interdisziplinärer Perspektive, Dresden (4/2018).
 * "Angemessen, maßvoll, ausreichend: Handlungsorientierungen an der „Mitte“ und ihre alltagskulturellen Dimensionen". Institut für Europäische Ethnologie, Universität Wien, Wien (1/2018).
   
 ### 2017
