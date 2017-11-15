@@ -112,7 +112,6 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * "Angemessen, maßvoll, ausreichend: Handlungsorientierungen an der „Mitte“ und ihre alltagskulturellen Dimensionen". Institut für Europäische Ethnologie, Universität Wien, Wien (1/2018).
   
 ### 2017
-* "Hierarchie und Imitation. Ethnographie als Methode und Mode". Ludwig-Uhland-Institut für Empirische Kulturwissenschaft, Universität Tübingen, Tübingen (11/2017).
 * "Makro-Trends als Forschungsthema? Europäisch-ethnologische Themenbegrenzung am Beispiel der «Mitte»". Tagung „Wie kann man nur dazu forschen?“ Themenpolitik in der Europäischen Ethnologie, Innsbruck (11/2017).
 * mit Christian Ritter, "Zusammenarbeit(en). Praktiken der Koordination, Kooperation und Repräsentation in kollaborativen Prozessen. Eine Einführung". Workshop Zusammenarbeit(en). Praktiken der Koordination, Kooperation und Repräsentation in kollaborativen Prozessen, Zürich (10/2017).
 * "Zwischen Ermöglichung und Begrenzung: Zur subjektiven Plausibilisierung des Mittelmaßes als normative Orientierung". Kongress der Deutschen Gesellschaft für Volkskunde (DGV), Marburg (09/2017).
