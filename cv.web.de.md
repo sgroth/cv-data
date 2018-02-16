@@ -43,6 +43,7 @@ Erasmus Teaching Staff Mobility Grant, Seminar für Kulturwissenschaft und Europ
 Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.  
 
 ## Weiterbildungen und Qualifikationen
+* Auftrittskompetenz, Universität Zürich, 02/2018.
 * Leadership Skills for Postdocs, Universität Zürich, 05/2017.
 * Project Management for Successful Postdocs, Universität Zürich, 01/2017.
 * Workshop Gendersensible Didaktik, Universität Göttingen, 10/2013.
@@ -108,6 +109,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 ## Vorträge
   
 ### 2018
+* "Antizipierender Vergleich. Zur zeitlichen Dimensionierung von Vergleichen am Beispiel von Handlungsorientierungen am Mittelmaß". DGV-Hochschultagung Planen – Hoffen – Befürchten: Zukunft als Gegenstand und Herausforderung der Alltagskulturforschung, Bonn (09/2018).
 * "Narratologisches Doppel: Text und Kontext in Online-Archiven und Interaktionssituationen". Forschungsdesign 4.0. Datengenerierung und Wissenstransfer in interdisziplinärer Perspektive, Dresden (4/2018).
 * "Angemessen, maßvoll, ausreichend: Handlungsorientierungen an der „Mitte“ und ihre alltagskulturellen Dimensionen". Institut für Europäische Ethnologie, Universität Wien, Wien (1/2018).
   
