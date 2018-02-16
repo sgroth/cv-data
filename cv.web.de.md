@@ -109,8 +109,8 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 ## Vorträge
   
 ### 2018
-* "Antizipierender Vergleich. Zur zeitlichen Dimensionierung von Vergleichen am Beispiel von Handlungsorientierungen am Mittelmaß". DGV-Hochschultagung Planen – Hoffen – Befürchten: Zukunft als Gegenstand und Herausforderung der Alltagskulturforschung, Bonn (09/2018).
-* "Narratologisches Doppel: Text und Kontext in Online-Archiven und Interaktionssituationen". Forschungsdesign 4.0. Datengenerierung und Wissenstransfer in interdisziplinärer Perspektive, Dresden (4/2018).
+* Anstehend: "Antizipierender Vergleich. Zur zeitlichen Dimensionierung von Vergleichen am Beispiel von Handlungsorientierungen am Mittelmaß". DGV-Hochschultagung Planen – Hoffen – Befürchten: Zukunft als Gegenstand und Herausforderung der Alltagskulturforschung, Bonn (09/2018).
+* Anstehend: "Narratologisches Doppel: Text und Kontext in Online-Archiven und Interaktionssituationen". Forschungsdesign 4.0. Datengenerierung und Wissenstransfer in interdisziplinärer Perspektive, Dresden (4/2018).
 * "Angemessen, maßvoll, ausreichend: Handlungsorientierungen an der „Mitte“ und ihre alltagskulturellen Dimensionen". Institut für Europäische Ethnologie, Universität Wien, Wien (1/2018).
   
 ### 2017
