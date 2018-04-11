@@ -81,6 +81,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * International Journal of Heritage Studies  
 
 ## Organisatorische Aktivitäten
+* Leitung Labor Populäre Kulturen [Website](URL), Elemente auflisten  
 * Organisation mit Dr. Sarah May und Dr. Johannes Müske, Vernetzt, entgrenzt, prekär? Arbeit im Wandel und in gesellschaftlicher Diskussion – kulturwissenschaftliche Perspektiven. 18. Arbeitstagung der dgv-Kommission Arbeitskulturen, 13. bis 14. September 2018 ([Call for Papers als PDF](http://www.stefangroth.com/assets/pdf/w07-arbeitskulturen-2018-program.pdf)).  
 * Organisation mit Dr. Christian Ritter (Collegium Helveticum, Zürich), Workshop Zusammenarbeit(en). Praktiken der Koordination, Kooperation und Repräsentation in kollaborativen Prozessen, 5.-6. Oktober 2017, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich / Collegium Helveticum, Zürich ([Call for Papers als PDF](http://www.stefangroth.com/assets/pdf/w06-zusammenarbeiten-2017-cfp.pdf) / [Programm als PDF](http://www.stefangroth.com/assets/pdf/w06-zusammenarbeiten-2017-program.pdf)).  
 * In-House Workshop Perspektiven ethnographischer Kulturanalyse, 4.-5. Mai 2017, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
@@ -90,7 +91,9 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Organisation mit Nadine Wagener-Böck M.A., Workshop „Subjektbegriffe der Europäischen Ethnologie“ (“Concepts of the ‘Subject’ in European Ethnology”), December 13-14, 2012, Göttingen ([Programm als PDF](https://stefangroth.com/assets/pdf/w01-subjektbegriffe-2012-program.pdf)). Mit Beiträgen von Prof. em. Dr. Johannes Fabian (Amsterdam), Prof. Dr. Andreas Schmidt (Kiel), PD Dr. Jochen Bonz (Bremen), Christine Öldorp M.A. (Zürich), Dr. Gerrit Herlyn (Hamburg), Julia Butschatskaja M.A. (Sankt Petersburg), Nadine Heymann M.A. (Berlin), Dr. Thomas Dörfler (Lüneburg), Martina Röthl M.A. (Innsbruck), Erdem Evren M.A. (Berlin), Maria Schwertl M.A. (Göttingen).  
 
 ## Lehrerfahrungen
-* Zyklen, Strukturen und Rhythmen: Ordnungen in Alltag und Gesellschaft, Vorlesung mit wechselnden ReferentInnen in Kooperation mit dem Seminar für Kulturwissenschaft und Europäische Ethnologie der Universität Basel, inklusive Coaching für vortragende DoktorandInnen und Publikation (Organisation und Vorträge) (Bachelor), FS 2018. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
+* Vorlesung Methodendialoge (Bachelor / Master), HS 2018. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
+* Stadt und Wohnen (Bachelor), HS 2018. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
+* Vorlesung Zyklen, Strukturen und Rhythmen: Ordnungen in Alltag und Gesellschaft, mit wechselnden ReferentInnen in Kooperation mit dem Seminar für Kulturwissenschaft und Europäische Ethnologie der Universität Basel, inklusive Coaching für vortragende DoktorandInnen und Publikation (Organisation und Vorträge) (Bachelor), FS 2018. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
 * mit Christian Ritter, Projektseminar Wissensorte – ReVisiting Black Mountain College (Master), HS/FS 2017/2018. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft (Kooperationsprojekt mit der Zürcher Hochschule der Künste, ZHdK), Universität Zürich.  
 * Qualitative Methoden (Alltagskulturen) (Bachelor), HS 2017. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
 * Institution und Alltag: Ethnographische Zugänge zu Institutionen (Master), FS 2017. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
@@ -110,6 +113,8 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
   
 ### 2018
 * Anstehend: "Antizipierender Vergleich. Zur zeitlichen Dimensionierung von Vergleichen am Beispiel von Handlungsorientierungen am Mittelmaß". DGV-Hochschultagung Planen – Hoffen – Befürchten: Zukunft als Gegenstand und Herausforderung der Alltagskulturforschung, Bonn (09/2018).
+* Anstehend: "Wissen, Ort, Vergleich. Praktiken des Wissens als Komparativ und Verortung". Institut für Kulturanthropologie / Europäische Ethnologie, Universität Göttingen, Göttingen (6/2018).
+* Anstehend: "Optimierung bis zum Mittelmaß? Sozialkomparative Orientierungen an der Mitte aus alltagskultureller Perspektive". FRIAS Workshop Selbstoptimierung, Freiburg (6/2018).
 * Anstehend: "Narratologisches Doppel: Text und Kontext in Online-Archiven und Interaktionssituationen". Forschungsdesign 4.0. Datengenerierung und Wissenstransfer in interdisziplinärer Perspektive, Dresden (4/2018).
 * "Angemessen, maßvoll, ausreichend: Handlungsorientierungen an der „Mitte“ und ihre alltagskulturellen Dimensionen". Institut für Europäische Ethnologie, Universität Wien, Wien (1/2018).
   
