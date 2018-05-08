@@ -113,7 +113,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 ### 2018
 * Anstehend: "Antizipierender Vergleich. Zur zeitlichen Dimensionierung von Vergleichen am Beispiel von Handlungsorientierungen am Mittelmaß". DGV-Hochschultagung Planen – Hoffen – Befürchten: Zukunft als Gegenstand und Herausforderung der Alltagskulturforschung, Bonn (09/2018).
 * Anstehend: "Wissen, Ort, Vergleich. Praktiken des Wissens als Komparativ und Verortung". Institut für Kulturanthropologie / Europäische Ethnologie, Universität Göttingen, Göttingen (6/2018).
-* Anstehend: "Kommentar". Ländliche Alltagskulturen regieren. Perspektiven der Kulturanalyse politischer Prozesse in ländlichen Regionen (Workshop des DFG-Projekts Partizipative Entwicklung ländlicher Regionen), Bonn (6/2018).
+* Anstehend: "Kommentar". Workshop des DFG-Projekts Partizipative Entwicklung ländlicher Regionen: Ländliche Alltagskulturen regieren. Perspektiven der Kulturanalyse politischer Prozesse in ländlichen Regionen, Bonn (6/2018).
 * Anstehend: "Optimierung bis zum Mittelmaß? Sozialkomparative Orientierungen an der Mitte aus alltagskultureller Perspektive". FRIAS Workshop Selbstoptimierung, Freiburg (6/2018).
 * "Narratologisches Doppel: Text und Kontext in Online-Archiven und Interaktionssituationen". Forschungsdesign 4.0. Datengenerierung und Wissenstransfer in interdisziplinärer Perspektive, Dresden (4/2018).
 * "Angemessen, maßvoll, ausreichend: Handlungsorientierungen an der „Mitte“ und ihre alltagskulturellen Dimensionen". Institut für Europäische Ethnologie, Universität Wien, Wien (1/2018).
