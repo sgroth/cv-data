@@ -36,7 +36,7 @@ Erasmus-Programm, Fächer: Public Relations, Università degli Studi di Udine (I
 
 ## Aufenthalte im Ausland
 * **03/2010--04/2010**  
-DAAD-Kurzstipendium für Doktoranden, Forschungsaufenthalte an der University of Chicago, University of California at Santa Cruz, School for Advanced Research in Santa Fe, USA.  
+DAAD-Kurzstipendium für Doktoranden, Forschungsaufenthalte an der University of Chicago, University of California at Santa Cruz, School for Advanced Research in Santa Fe, USA.  
 * **2012**  
 Erasmus Teaching Staff Mobility Grant, Seminar für Kulturwissenschaft und Europäische Ethnologie, Universität Basel, Schweiz.  
 * **10/2006--01/2007**  
@@ -48,7 +48,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Project Management for Successful Postdocs, Universität Zürich, 01/2017.
 * Workshop Gendersensible Didaktik, Universität Göttingen, 10/2013.
 * Zertifikatsprogramm Hochschuldidaktik, Georg-August-Universität Göttingen, 2013--2014. Kurse: 
-  * Prüfen und Prüfungsrecht (01/2013)  
+  * Prüfen und Prüfungsrecht (01/2013)  
   * Aktivierende Methoden (03/2013)  
   * Basiskompetenzen Hochschullehre 1 (03/2013)  
   * Präsentieren und Rhetorik (05/2013)  
@@ -82,10 +82,10 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 
 ## Organisatorische Aktivitäten
 * Leitung Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich (Fellow-Programm, In-House Workshops, Vorträge, Podiumsdiskussionen, Lesungen)  
-* In-House Workshop Land / Stadt als räumliche Ordnungen und Kategorien, 17.-18. Mai 2018, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
-* Organisation mit Dr. Sarah May und Dr. Johannes Müske, Vernetzt, entgrenzt, prekär? Arbeit im Wandel und in gesellschaftlicher Diskussion – kulturwissenschaftliche Perspektiven. 18. Arbeitstagung der dgv-Kommission Arbeitskulturen, 13. bis 14. September 2018 ([Call for Papers als PDF](http://www.stefangroth.com/assets/pdf/w07-arbeitskulturen-2018-program.pdf)).  
-* Organisation mit Dr. Christian Ritter (Collegium Helveticum, Zürich), Workshop Zusammenarbeit(en). Praktiken der Koordination, Kooperation und Repräsentation in kollaborativen Prozessen, 5.-6. Oktober 2017, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich / Collegium Helveticum, Zürich ([Call for Papers als PDF](http://www.stefangroth.com/assets/pdf/w06-zusammenarbeiten-2017-cfp.pdf) / [Programm als PDF](http://www.stefangroth.com/assets/pdf/w06-zusammenarbeiten-2017-program.pdf)).  
-* In-House Workshop Perspektiven ethnographischer Kulturanalyse, 4.-5. Mai 2017, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
+* In-House Workshop Land / Stadt als räumliche Ordnungen und Kategorien, 17.-18. Mai 2018, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich ([Programm als PDF](http://www.stefangroth.com/assets/pdf/iw02-stadt-land-2018-programm.pdf)).  
+* Organisation mit Dr. Sarah May und Dr. Johannes Müske, Vernetzt, entgrenzt, prekär? Arbeit im Wandel und in gesellschaftlicher Diskussion – kulturwissenschaftliche Perspektiven. 18. Arbeitstagung der dgv-Kommission Arbeitskulturen, 13. bis 14. September 2018 ([Call for Papers als PDF](http://www.stefangroth.com/assets/pdf/w07-arbeitskulturen-2018-cfp.pdf) / [Programm als PDF](http://www.stefangroth.com/assets/pdf/w07-arbeitskulturen-2018-programm.pdf)).  
+* Organisation mit Dr. Christian Ritter (Collegium Helveticum, Zürich), Workshop Zusammenarbeit(en). Praktiken der Koordination, Kooperation und Repräsentation in kollaborativen Prozessen, 5.-6. Oktober 2017, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich / Collegium Helveticum, Zürich ([Call for Papers als PDF](http://www.stefangroth.com/assets/pdf/w06-zusammenarbeiten-2017-cfp.pdf) / [Programm als PDF](http://www.stefangroth.com/assets/pdf/w06-zusammenarbeiten-2017-program.pdf) / [Tagungsbericht in der ÖZV](http://www.stefangroth.com/assets/pdf/w06-zusammenarbeiten-2017-tagungsbericht.pdf)).  
+* In-House Workshop Perspektiven ethnographischer Kulturanalyse, 4.-5. Mai 2017, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich ([Programm als PDF](http://www.stefangroth.com/assets/pdf/iw01-perspektiven-2017-programm.pdf)).  
 * Organisation mit Dr. Alejandro Esguerra (Potsdam) und Dr. Katja Freistein (Duisburg), Internationaler Workshop Micro-Moves in International Institutions, Standing Group Sociology of International Relations (AK SiB) / Deutsche Vereinigung für Politische Wissenschaft, February 9-10, 2017, Universität Potsdam ([Programm als PDF](https://stefangroth.com/assets/pdf/w04-micromoves-2017-program.pdf)). Keynotes von Karin Knorr-Cetina (Chicago) und Thomas Scheffer (Frankfurt).  
 * Organisation mit Dr. Katja Freistein (Duisburg) und Dr. Alejandro Esguerra Portocarrero (Duisburg), Interdisziplinärer Workshop Studying Micro-Practices in (International) Institutions: Chances and Limitations of Theory-Building, November 26-27, 2015, Centre for Global Cooperation Research (GCR), Duisburg ([Programm als PDF](https://stefangroth.com/assets/pdf/w03-micropractices-2015-program.pdf)).  
 * Organisation mit Prof. Dr. Charles Briggs (UC Berkeley) und Prof. Dr. Regina Bendix, International Working Conference Justice in Discourse, April 4–5, 2013, Göttingen ([Programm als PDF](https://stefangroth.com/assets/pdf/w02-justice-2013-program.pdf)). Mit Beiträgen von Prof. Dr. Srikant Sarangi (Cardiff), Prof. Dr. Jan Blommaert (Tilburg), Prof. Dr. Patrick Eisenlohr (Göttingen), Prof. Dr. Charles Briggs (Berkeley), Prof. Dr. Regina Bendix (Göttingen), Dr. Stefan Groth (Göttingen), Ruth Goldstein (Berkeley), Ina Lehmann (Bremen). ([Tagungsbericht auf H-Soz-Kult](http://www.hsozkult.de/conferencereport/id/tagungsberichte-4961))  
