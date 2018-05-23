@@ -80,6 +80,9 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 ### Gutachtertätigkeiten
 * International Journal of Heritage Studies  
 
+## Ausstellungen
+* Wissensorte. Ethnografische / künstlerische Erkundungen (05/2018, Zürcher Hochschule der Künste). Ausstellung aus dem Projektseminar Wissensorte (Kooperationsprojekt zwischen Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft mit der Zürcher Hochschule der Künste).  
+
 ## Organisatorische Aktivitäten
 * Leitung Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich (Fellow-Programm, In-House Workshops, Vorträge, Podiumsdiskussionen, Lesungen)  
 * In-House Workshop Land / Stadt als räumliche Ordnungen und Kategorien, 17.-18. Mai 2018, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich ([Programm als PDF](http://www.stefangroth.com/assets/pdf/iw02-stadt-land-2018-programm.pdf)).  
