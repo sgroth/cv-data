@@ -16,7 +16,7 @@ Homepage: https://www.stefangroth.com
 * **seit 09/2016**  
 Oberassistent / Leitung Labor Populäre Kulturen, ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen, Universität Zürich.
 
-## Frühere Stellen
+## Bisherige Tätigkeiten
 * **10/2015--08/2016**  
 Post-Doc, Kulturanthropologie / Volkskunde, Institut für Archäologie und Kulturanthropologie, Universität Bonn.   
 * **2014--2015**  
@@ -26,7 +26,7 @@ Post-Doc, Institut für Kulturanthropologie / Europäische Ethnologie, Georg-Aug
 * **2008--2011**  
 Wissenschaftlicher Mitarbeiter / Doktorand, Institut für Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen. Projekt: Kommunikationsmuster und Entscheidungsfindung über cultural property im internationalen Gremium World Intellectual Property Organization (Teilprojekt der Interdisziplinären DFG-Forschergruppe [Die Konstituierung von Cultural Property: Akteure, Diskurse, Kontexte, Regeln](http://www.cultural-property.org)).  
 
-## Ausbildung
+## Studium und akademische Abschlüsse
 * **2008--2011**  
 Dr. phil. in Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen (DE). Doktorarbeit: "Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property" (summa cum laude). Gutachter: Prof. Dr. Regina F. Bendix (Göttingen), Prof. Dr. Donald F. Brenneis (UC Santa Cruz).  
 * **10/2003--03/2008**  
@@ -62,20 +62,18 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 ## Forschungsschwerpunkte
 * Normative Dimensionen der Alltagskultur  
 * Methoden der Europäischen Ethnologie  
-* Sprachanalytische Ansätze  
-* Politische Anthropologie und Organisationsethnographie  
-* Kulturerbe und kulturelles Eigentum  
 * Kulturwissenschaftliche Sportforschung  
+* Politische Anthropologie und Organisationsethnographie  
+* Sprachanalytische Ansätze  
+* Kulturerbe und kulturelles Eigentum  
 
-## Professionelle Aktivitäten und Mitgliedschaften
-* Delegierter des Mittelbaus in der Kommission für Forschung und Nachwuchsförderung, Philosophische Fakultät der Universität Zürich (seit 2017)  
-* Sprecher der Kommission Arbeitskulturen in der Deutschen Gesellschaft für Volkskunde, zusammen mit Irene Götz (München), Sarah May (Freiburg), Johannes Müske (Zürich) und Manfred Seifert (Marburg) (seit 2017)  
-* [DFG-Netzwerk „Wettbewerb und Konkurrenz: Zur kulturellen Logik kompetitiver Figurationen“](http://www.konkurrenz.uni-kiel.de/de) (seit 2014)  
-* [H-Folk-Netzwerk, Editor](https://networks.h-net.org/h-folk) (seit 2013)  
-* [EASA Network “Anthropology of Law and Rights” (LAWNET)](http://easaonline.org/networks/lawnet/index.shtml) (seit 2008)  
-* Vorstand Institut für Archäologie und Kulturanthropologie, Universität Bonn (Gruppe der akademischen Mitarbeiter, Stellv.) (2015--2016)  
-* Zentrum für Theorie und Methodik der Kulturwissenschaften (ZTMK), Göttingen, Vorstand (2010--2014)  
-* Deutsche Gesellschaft für Volkskunde (DGV); Schweizerische Gesellschaft für Volkskunde, Sektion Zürich; European Association of Social Anthropologists (EASA); Societé Internationale d´Ethnologie et de Folklore (SIEF); SIEF Working Group Cultural Heritage and Property; Rheinische Vereinigung für Volkskunde (RVV)  
+## 
+* [DFG-Netzwerk „Wettbewerb und Konkurrenz: Zur kulturellen Logik kompetitiver Figurationen“](http://konkurrenz.uni-freiburg.de) (seit 2014)  
+* Deutsche Gesellschaft für Volkskunde (DGV)  
+* Schweizerische Gesellschaft für Volkskunde (SGV)  
+* European Association of Social Anthropologists (EASA), EASA Network “Anthropology of Law and Rights” (LAWNET)  
+* Societé Internationale d´Ethnologie et de Folklore (SIEF), SIEF Working Group Cultural Heritage and Property  
+* Rheinische Vereinigung für Volkskunde (RVV)  
 
 ### Gutachtertätigkeiten
 * International Journal of Heritage Studies  
@@ -83,7 +81,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 ## Ausstellungen
 * Wissensorte. Ethnografische / künstlerische Erkundungen (05/2018, Zürcher Hochschule der Künste). Ausstellung aus dem Projektseminar Wissensorte (Kooperationsprojekt zwischen Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft mit der Zürcher Hochschule der Künste).  
 
-## Organisatorische Aktivitäten
+## Planung, Organisation und Durchführung von Workshops, Panels, Tagungen
 * Leitung Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich (Konzeption und Durchführung, Fellow-Programm, Organisation von In-House-Workshops, Vorträgen, Podiumsdiskussionen, Lesungen)  
 * Organisation von Panels bei Fachkonferenzen (DGV, SIEF)  
 * In-House Workshop Forschungsförderung, Antrags- und Karriereplanung, 24. Mai 2018, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
@@ -120,7 +118,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Anstehend: "Antizipierender Vergleich. Zur zeitlichen Dimensionierung von Vergleichen am Beispiel von Handlungsorientierungen am Mittelmaß". DGV-Hochschultagung Planen – Hoffen – Befürchten: Zukunft als Gegenstand und Herausforderung der Alltagskulturforschung, Bonn (09/2018).
 * Anstehend: "Wissen, Ort, Vergleich. Praktiken des Wissens als Komparativ und Verortung". Institut für Kulturanthropologie / Europäische Ethnologie, Universität Göttingen, Göttingen (6/2018).
 * Anstehend: "Kommentar". Workshop des DFG-Projekts Partizipative Entwicklung ländlicher Regionen: Ländliche Alltagskulturen regieren. Perspektiven der Kulturanalyse politischer Prozesse in ländlichen Regionen, Bonn (6/2018).
-* Anstehend: "Optimierung bis zum Mittelmaß? Sozialkomparative Orientierungen an der Mitte aus alltagskultureller Perspektive". FRIAS Workshop Selbstoptimierung, Freiburg (6/2018).
+* "Optimierung bis zum Mittelmaß? Sozialkomparative Orientierungen an der Mitte aus alltagskultureller Perspektive". FRIAS Workshop Selbstoptimierung, Freiburg (6/2018).
 * "Narratologisches Doppel: Text und Kontext in Online-Archiven und Interaktionssituationen". Forschungsdesign 4.0. Datengenerierung und Wissenstransfer in interdisziplinärer Perspektive, Dresden (4/2018).
 * "Angemessen, maßvoll, ausreichend: Handlungsorientierungen an der „Mitte“ und ihre alltagskulturellen Dimensionen". Institut für Europäische Ethnologie, Universität Wien, Wien (1/2018).
   
