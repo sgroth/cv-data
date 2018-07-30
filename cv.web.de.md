@@ -1,4 +1,5 @@
 <!-- Curriculum Vitae Stefan Groth – https://www.stefangroth.com -->
+
 # Curriculum Vitae
 Dr. Stefan Groth  
 Oberassistent / Leitung Labor Populäre Kulturen  
@@ -67,7 +68,14 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Sprachanalytische Ansätze  
 * Kulturerbe und kulturelles Eigentum  
 
-## 
+## Gremienerfahrung 
+* Delegierter des Mittelbaus in der Kommission für Forschung und Nachwuchsförderung, Philosophische Fakultät der Universität Zürich (seit 2017)  
+* Sprecher der Kommission Arbeitskulturen in der Deutschen Gesellschaft für Volkskunde, zusammen mit Irene Götz (München), Sarah May (Freiburg), Johannes Müske (Zürich) und Manfred Seifert (Marburg) (seit 2017)  
+* [H-Folk-Netzwerk, Editor](https://networks.h-net.org/h-folk) (seit 2013)  
+* Vorstand Institut für Archäologie und Kulturanthropologie, Universität Bonn (Gruppe der akademischen Mitarbeiter, Stellv.) (2015--2016)  
+* Zentrum für Theorie und Methodik der Kulturwissenschaften (ZTMK), Göttingen, Vorstand (2010--2014)  
+
+## Mitgliedschaften 
 * [DFG-Netzwerk „Wettbewerb und Konkurrenz: Zur kulturellen Logik kompetitiver Figurationen“](http://konkurrenz.uni-freiburg.de) (seit 2014)  
 * Deutsche Gesellschaft für Volkskunde (DGV)  
 * Schweizerische Gesellschaft für Volkskunde (SGV)  
@@ -75,19 +83,16 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Societé Internationale d´Ethnologie et de Folklore (SIEF), SIEF Working Group Cultural Heritage and Property  
 * Rheinische Vereinigung für Volkskunde (RVV)  
 
-### Gutachtertätigkeiten
+## Gutachtertätigkeiten
 * International Journal of Heritage Studies  
-
-## Ausstellungen
-* Wissensorte. Ethnografische / künstlerische Erkundungen (05/2018, Zürcher Hochschule der Künste). Ausstellung aus dem Projektseminar Wissensorte (Kooperationsprojekt zwischen Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft mit der Zürcher Hochschule der Künste).  
 
 ## Planung, Organisation und Durchführung von Workshops, Panels, Tagungen
 * Leitung Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich (Konzeption und Durchführung, Fellow-Programm, Organisation von In-House-Workshops, Vorträgen, Podiumsdiskussionen, Lesungen)  
 * Organisation von Panels bei Fachkonferenzen (DGV, SIEF)  
+* Organisation mit Dr. Sarah May und Dr. Johannes Müske, Vernetzt, entgrenzt, prekär? Arbeit im Wandel und in gesellschaftlicher Diskussion – kulturwissenschaftliche Perspektiven. 18. Arbeitstagung der dgv-Kommission Arbeitskulturen, 13. bis 14. September 2018 ([Call for Papers als PDF](http://www.stefangroth.com/assets/pdf/w07-arbeitskulturen-2018-cfp.pdf) / [Programm als PDF](http://www.stefangroth.com/assets/pdf/w07-arbeitskulturen-2018-programm.pdf)).  
 * In-House Workshop Forschungsförderung, Antrags- und Karriereplanung, 24. Mai 2018, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
 * In-House Workshop Land / Stadt als räumliche Ordnungen und Kategorien, 17.-18. Mai 2018, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich ([Programm als PDF](http://www.stefangroth.com/assets/pdf/iw02-stadt-land-2018-programm.pdf)).  
 * In-House Workshop Historisch forschen, 12. April 2018, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
-* Organisation mit Dr. Sarah May und Dr. Johannes Müske, Vernetzt, entgrenzt, prekär? Arbeit im Wandel und in gesellschaftlicher Diskussion – kulturwissenschaftliche Perspektiven. 18. Arbeitstagung der dgv-Kommission Arbeitskulturen, 13. bis 14. September 2018 ([Call for Papers als PDF](http://www.stefangroth.com/assets/pdf/w07-arbeitskulturen-2018-cfp.pdf) / [Programm als PDF](http://www.stefangroth.com/assets/pdf/w07-arbeitskulturen-2018-programm.pdf)).  
 * Organisation mit Dr. Christian Ritter (Collegium Helveticum, Zürich), Workshop Zusammenarbeit(en). Praktiken der Koordination, Kooperation und Repräsentation in kollaborativen Prozessen, 5.-6. Oktober 2017, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich / Collegium Helveticum, Zürich ([Call for Papers als PDF](http://www.stefangroth.com/assets/pdf/w06-zusammenarbeiten-2017-cfp.pdf) / [Programm als PDF](http://www.stefangroth.com/assets/pdf/w06-zusammenarbeiten-2017-program.pdf) / [Tagungsbericht in der ÖZV (folgt)](http://www.stefangroth.com/assets/pdf/w06-zusammenarbeiten-2017-tagungsbericht.pdf)).  
 * In-House Workshop Perspektiven ethnographischer Kulturanalyse, 4.-5. Mai 2017, Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich ([Programm als PDF](http://www.stefangroth.com/assets/pdf/iw01-perspektiven-2017-programm.pdf)).  
 * Organisation mit Dr. Alejandro Esguerra (Potsdam) und Dr. Katja Freistein (Duisburg), Internationaler Workshop Micro-Moves in International Institutions, Standing Group Sociology of International Relations (AK SiB) / Deutsche Vereinigung für Politische Wissenschaft, February 9-10, 2017, Universität Potsdam ([Call for Papers als PDF](https://stefangroth.com/assets/pdf/w04-micromoves-2017-cfp.pdf) / [Programm als PDF](https://stefangroth.com/assets/pdf/w04-micromoves-2017-program.pdf)). Keynotes von Karin Knorr-Cetina (Chicago) und Thomas Scheffer (Frankfurt).  
@@ -95,7 +100,12 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Organisation mit Prof. Dr. Charles Briggs (UC Berkeley) und Prof. Dr. Regina Bendix, International Working Conference Justice in Discourse, April 4–5, 2013, Göttingen ([Programm als PDF](https://stefangroth.com/assets/pdf/w02-justice-2013-program.pdf)). Mit Beiträgen von Prof. Dr. Srikant Sarangi (Cardiff), Prof. Dr. Jan Blommaert (Tilburg), Prof. Dr. Patrick Eisenlohr (Göttingen), Prof. Dr. Charles Briggs (Berkeley), Prof. Dr. Regina Bendix (Göttingen), Dr. Stefan Groth (Göttingen), Ruth Goldstein (Berkeley), Ina Lehmann (Bremen). ([Tagungsbericht auf H-Soz-Kult](http://www.hsozkult.de/conferencereport/id/tagungsberichte-4961))  
 * Organisation mit Nadine Wagener-Böck M.A., Workshop „Subjektbegriffe der Europäischen Ethnologie“ (“Concepts of the ‘Subject’ in European Ethnology”), December 13-14, 2012, Göttingen ([Programm als PDF](https://stefangroth.com/assets/pdf/w01-subjektbegriffe-2012-program.pdf)). Mit Beiträgen von Prof. em. Dr. Johannes Fabian (Amsterdam), Prof. Dr. Andreas Schmidt (Kiel), PD Dr. Jochen Bonz (Bremen), Christine Öldorp M.A. (Zürich), Dr. Gerrit Herlyn (Hamburg), Julia Butschatskaja M.A. (Sankt Petersburg), Nadine Heymann M.A. (Berlin), Dr. Thomas Dörfler (Lüneburg), Martina Röthl M.A. (Innsbruck), Erdem Evren M.A. (Berlin), Maria Schwertl M.A. (Göttingen).  
 
+## Ausstellungen
+* Wissensorte. Ethnografische / künstlerische Erkundungen (05/2018, Zürcher Hochschule der Künste). Ausstellung aus dem Projektseminar Wissensorte (Kooperationsprojekt zwischen Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft mit der Zürcher Hochschule der Künste).  
+
 ## Lehrerfahrungen
+* Vorlesung Methodendialoge (Bachelor / Master), HS 2018. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
+* Stadt und Wohnen (Bachelor), HS 2018. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
 * Vorlesung Zyklen, Strukturen und Rhythmen: Ordnungen in Alltag und Gesellschaft, mit wechselnden ReferentInnen in Kooperation mit dem Seminar für Kulturwissenschaft und Europäische Ethnologie der Universität Basel, inklusive Coaching für vortragende DoktorandInnen und Publikation (Organisation und Vorträge) (Bachelor), FS 2018. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
 * mit Christian Ritter, Projektseminar Wissensorte – ReVisiting Black Mountain College (Master), HS/FS 2017/2018. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft (Kooperationsprojekt mit der Zürcher Hochschule der Künste, ZHdK), Universität Zürich.  
 * Qualitative Methoden (Alltagskulturen) (Bachelor), HS 2017. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.  
@@ -116,8 +126,8 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
   
 ### 2018
 * Anstehend: "Antizipierender Vergleich. Zur zeitlichen Dimensionierung von Vergleichen am Beispiel von Handlungsorientierungen am Mittelmaß". DGV-Hochschultagung Planen – Hoffen – Befürchten: Zukunft als Gegenstand und Herausforderung der Alltagskulturforschung, Bonn (09/2018).
-* Anstehend: "Wissen, Ort, Vergleich. Praktiken des Wissens als Komparativ und Verortung". Institut für Kulturanthropologie / Europäische Ethnologie, Universität Göttingen, Göttingen (6/2018).
-* Anstehend: "Kommentar". Workshop des DFG-Projekts Partizipative Entwicklung ländlicher Regionen: Ländliche Alltagskulturen regieren. Perspektiven der Kulturanalyse politischer Prozesse in ländlichen Regionen, Bonn (6/2018).
+* "Wissen, Ort, Vergleich. Praktiken des Wissens als Komparativ und Verortung". Institut für Kulturanthropologie / Europäische Ethnologie, Universität Göttingen, Göttingen (6/2018).
+* "Kommentar". Workshop des DFG-Projekts Partizipative Entwicklung ländlicher Regionen: Ländliche Alltagskulturen regieren. Perspektiven der Kulturanalyse politischer Prozesse in ländlichen Regionen, Bonn (6/2018).
 * "Optimierung bis zum Mittelmaß? Sozialkomparative Orientierungen an der Mitte aus alltagskultureller Perspektive". FRIAS Workshop Selbstoptimierung, Freiburg (6/2018).
 * "Narratologisches Doppel: Text und Kontext in Online-Archiven und Interaktionssituationen". Forschungsdesign 4.0. Datengenerierung und Wissenstransfer in interdisziplinärer Perspektive, Dresden (4/2018).
 * "Angemessen, maßvoll, ausreichend: Handlungsorientierungen an der „Mitte“ und ihre alltagskulturellen Dimensionen". Institut für Europäische Ethnologie, Universität Wien, Wien (1/2018).
