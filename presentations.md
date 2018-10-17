@@ -1,5 +1,5 @@
 ## 2019
-* "Durchschnitt als Trend: Orientierungen am Mittelmaß im Wohnen". Tagung: Wohnen jenseits der Normen. Historische und aktuelle Perspektiven, Marburg (4/2019).
+* Anstehend: "Durchschnitt als Trend: Orientierungen am Mittelmaß im Wohnen". Tagung: Wohnen jenseits der Normen. Historische und aktuelle Perspektiven, Marburg (4/2019).
 * Anstehend: "Comparison as Reflective and Affective Practice: Orientations Towards the Middle and Everyday Comparisons". SIEF-Kongress, Santiago de Compostela (4/2019).
 ## 2018
 * "Vergleich als Wissen / Wissensproduktion im Vergleich". Podiumsdiskussion Wissensalltag / Alltagswissen. Orte, Medien und Praktiken. Perspektiven aus Anthropologie und Kulturwissenschaft im Rahmen des Science Festivals 100 Ways of Thinking, Kunsthalle Zürich, Zürich (10/2018).
