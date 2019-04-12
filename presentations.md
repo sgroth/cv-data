@@ -1,6 +1,7 @@
 ## 2019
 * "Durchschnitt als Trend: Orientierungen am Mittelmaß im Wohnen". Tagung: Wohnen jenseits der Normen. Historische und aktuelle Perspektiven, Marburg (4/2019).
-* "Comparison as Reflective and Affective Practice: Orientations Towards the Middle and Everyday Comparisons". SIEF-Kongress, Santiago de Compostela (4/2019).  
+* "Comparison as Reflective and Affective Practice: Orientations Towards the Middle and Everyday Comparisons". SIEF-Kongress, Santiago de Compostela (4/2019).
+* "Akteure, Praktiken, Atmosphären: Elemente einer regionalen Konstellationsanalyse". Bewerbungsvortrag auf die W3-Professur für Kulturanthropologie und Europäische Ethnologie mit Schwerpunkt in regionaler Kulturanalyse, Universität Freiburg, Freiburg (2/2019).  
 
 ## 2018
 * "Vergleich als Wissen / Wissensproduktion im Vergleich". Podiumsdiskussion Wissensalltag / Alltagswissen. Orte, Medien und Praktiken. Perspektiven aus Anthropologie und Kulturwissenschaft im Rahmen des Science Festivals 100 Ways of Thinking, Kunsthalle Zürich, Zürich (10/2018).
