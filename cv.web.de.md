@@ -17,6 +17,25 @@ Homepage: https://www.stefangroth.com
 * **seit 09/2016**  
 Oberassistent / Leitung Labor Populäre Kulturen, ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen, Universität Zürich.
 
+## Forschungsschwerpunkte
+* Politische Anthropologie und Europäisierungsforschung  
+* Narratologie, linguistische Anthropologie und Kommunikationsethnografie  
+* Organisationsforschung  
+* Methoden der Empirischen Kulturwissenschaft  
+* Normative Dimensionen der Alltagskultur  
+* Kulturwissenschaftliche Sportforschung  
+* Kulturerbe und kulturelles Eigentum  
+
+## Forschungsprojekte
+* **seit 2019**  
+Political Narratives* **seit 2020**  
+Europe from Outside and from the Margins: The Production of Europe in Non-European Everyday Contexts and Practices* **2016--2020**  
+Mittelmaß als Praxis und Konstellation Orientierungen am Mittelmaß aus empirisch-kulturwissenschaftlicher Perspektive (Habilitationsschrift, eingereicht an der Philosophischen Fakultät der Universität Zürich im November 2019)* **seit 2013**  
+Dimensionen des breitensportlichen Rennradfahrens: Empirisch-kulturwissenschaftliche Perspektiven auf Sport und Freizeit* **seit 2014**  
+Qualitative Approaches to International Institutions (zusammen mit Katja Freistein, Alejandro Esguerra)* **2014--2015**  
+Culture as Resource and Diplomacy: Between Geopolitics and Issues-Based Policy (Post-Doc Fellowship Käte Hamburger Kolleg / Centre for Global Cooperation Research)* **2011--2014**  
+The Ethics of / in Negotiating and Regulating Cultural Property (Leitung: Prof. Dr. Regina F. Bendix, DFG-Forschergruppe Cultural Property)* **2008--2011**  
+Communication Patterns and Decision-Making about Cultural Property in the International Forum of the World Intellectual Property Organization (Disserationsprojekt, Leitung: Prof. Dr. Regina F. Bendix, DFG-Forschergruppe Cultural Property)
 ## Bisherige Tätigkeiten
 * **10/2015--08/2016**  
 Post-Doc, Kulturanthropologie / Volkskunde, Institut für Archäologie und Kulturanthropologie, Universität Bonn.   
@@ -59,15 +78,6 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
   * Kollegiales Praxisgespräch (11/2013)  
   * Beratung von Studierenden (01/2014)  
 
-
-## Forschungsschwerpunkte
-* Politische Anthropologie und Europäisierungsforschung  
-* Narratologie, linguistische Anthropologie und Kommunikationsethnografie  
-* Organisationsforschung  
-* Methoden der Empirischen Kulturwissenschaft  
-* Normative Dimensionen der Alltagskultur  
-* Kulturwissenschaftliche Sportforschung  
-* Kulturerbe und kulturelles Eigentum  
 
 ## Gremienerfahrung 
 * Mitarbeit in diversen universitäten, fakultären und institutsübergreifenden Arbeitsgruppen an der Universität Zürich (z. B. AG Sozialwissenschaften an der Phil. Fakultät / Studiengangsentwicklung, AG Methodenpool Qualitative Methoden an der UZH) (seit 2016)  
