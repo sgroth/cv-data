@@ -28,14 +28,22 @@ Oberassistent / Leitung Labor Populäre Kulturen, ISEK – Institut für Soziala
 
 ## Forschungsprojekte
 * **seit 2019**  
-Political Narratives* **seit 2020**  
-Europe from Outside and from the Margins: The Production of Europe in Non-European Everyday Contexts and Practices* **2016--2020**  
-Mittelmaß als Praxis und Konstellation Orientierungen am Mittelmaß aus empirisch-kulturwissenschaftlicher Perspektive (Habilitationsschrift, eingereicht an der Philosophischen Fakultät der Universität Zürich im November 2019)* **seit 2013**  
-Dimensionen des breitensportlichen Rennradfahrens: Empirisch-kulturwissenschaftliche Perspektiven auf Sport und Freizeit* **seit 2014**  
-Qualitative Approaches to International Institutions (zusammen mit Katja Freistein, Alejandro Esguerra)* **2014--2015**  
-Culture as Resource and Diplomacy: Between Geopolitics and Issues-Based Policy (Post-Doc Fellowship Käte Hamburger Kolleg / Centre for Global Cooperation Research)* **2011--2014**  
-The Ethics of / in Negotiating and Regulating Cultural Property (Leitung: Prof. Dr. Regina F. Bendix, DFG-Forschergruppe Cultural Property)* **2008--2011**  
-Communication Patterns and Decision-Making about Cultural Property in the International Forum of the World Intellectual Property Organization (Disserationsprojekt, Leitung: Prof. Dr. Regina F. Bendix, DFG-Forschergruppe Cultural Property)
+Political Narratives  
+* **seit 2020**  
+Europe from Outside and from the Margins: The Production of Europe in Non-European Everyday Contexts and Practices  
+* **2016--2020**  
+Mittelmaß als Praxis und Konstellation Orientierungen am Mittelmaß aus empirisch-kulturwissenschaftlicher Perspektive (Habilitationsschrift, eingereicht an der Philosophischen Fakultät der Universität Zürich im November 2019)  
+* **seit 2013**  
+Dimensionen des breitensportlichen Rennradfahrens: Empirisch-kulturwissenschaftliche Perspektiven auf Sport und Freizeit  
+* **seit 2014**  
+Qualitative Approaches to International Institutions (zusammen mit Katja Freistein, Alejandro Esguerra)  
+* **2014--2015**  
+Culture as Resource and Diplomacy: Between Geopolitics and Issues-Based Policy (Post-Doc Fellowship Käte Hamburger Kolleg / Centre for Global Cooperation Research)  
+* **2011--2014**  
+The Ethics of / in Negotiating and Regulating Cultural Property (Leitung: Prof. Dr. Regina F. Bendix, DFG-Forschergruppe Cultural Property)  
+* **2008--2011**  
+Communication Patterns and Decision-Making about Cultural Property in the International Forum of the World Intellectual Property Organization (Disserationsprojekt, Leitung: Prof. Dr. Regina F. Bendix, DFG-Forschergruppe Cultural Property)  
+
 ## Bisherige Tätigkeiten
 * **10/2015--08/2016**  
 Post-Doc, Kulturanthropologie / Volkskunde, Institut für Archäologie und Kulturanthropologie, Universität Bonn.   
