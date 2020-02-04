@@ -29,9 +29,9 @@ Wissenschaftlicher Mitarbeiter / Doktorand, Institut für Kulturanthropologie / 
 
 ## Studium und akademische Abschlüsse
 * **2008--2011**  
-Dr. phil. in Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen (DE). Doktorarbeit: "Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property" (summa cum laude). Gutachter: Prof. Dr. Regina F. Bendix (Göttingen), Prof. Dr. Donald F. Brenneis (UC Santa Cruz).  
+Dr. phil. in Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen (DE). Doktorarbeit: "Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property" (\emph{summa cum laude}). Gutachter: Prof. Dr. Regina F. Bendix (Göttingen), Prof. Dr. Donald F. Brenneis (UC Santa Cruz).  
 * **10/2003--03/2008**  
-M.A. in Soziologie, Fächer: Soziologie, Kulturanthropologie / Europäische Ethnologie, Wirtschafts- und Sozialpsychologie, Georg-August-Universität Göttingen (DE). Magisterarbeit: "Entwicklung von Open-Source-Software: Soziologische Diskussion einer spezifischen Form von Innovationsnetzwerk" (Sehr gut).  
+M.A. in Soziologie, Fächer: Soziologie, Kulturanthropologie / Europäische Ethnologie, Wirtschafts- und Sozialpsychologie, Georg-August-Universität Göttingen (DE). Magisterarbeit: "Entwicklung von Open-Source-Software: Soziologische Diskussion einer spezifischen Form von Innovationsnetzwerk" (\emph{Sehr gut}).  
 * **10/2006--01/2007**  
 Erasmus-Programm, Fächer: Public Relations, Università degli Studi di Udine (IT).   
 
@@ -61,9 +61,9 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 
 
 ## Forschungsschwerpunkte
-* Kommunikationsethnografie und linguistische Anthropologie  
-* Europäisierungsforschung  
-* Politische Anthropologie und Organisationsethnographie  
+* Politische Anthropologie und Europäisierungsforschung  
+* Narratologie, linguistische Anthropologie und Kommunikationsethnografie  
+* Organisationsforschung  
 * Methoden der Empirischen Kulturwissenschaft  
 * Normative Dimensionen der Alltagskultur  
 * Kulturwissenschaftliche Sportforschung  
