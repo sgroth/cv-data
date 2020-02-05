@@ -2,7 +2,7 @@
 
 # Curriculum Vitae
 Dr. Stefan Groth  
-Oberassistent / Leitung Labor Populäre Kulturen (seit 09/2016)  
+Oberassistent / Leitung Labor Populäre Kulturen  
 ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft  
 Populäre Kulturen  
 Universität Zürich  
@@ -12,10 +12,6 @@ CH-8050 Zürich
 E-Mail: stefan.groth@uzh.ch  
 Telefon: +41 44 634 92 96  
 Homepage: https://www.stefangroth.com  
-
-## Derzeitige Position
-* **seit 09/2016**  
-Oberassistent / Leitung Labor Populäre Kulturen, ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen, Universität Zürich.
 
 ## Forschungsschwerpunkte
 * Politische Anthropologie und Europäisierungsforschung  
@@ -36,6 +32,8 @@ Oberassistent / Leitung Labor Populäre Kulturen, ISEK – Institut für Soziala
 * **2008--2011:** Communication Patterns and Decision-Making about Cultural Property in the International Forum of the World Intellectual Property Organization (Disserationsprojekt, Leitung: Prof. Dr. Regina F. Bendix, DFG-Forschergruppe Cultural Property)  
 
 ## Bisherige Tätigkeiten
+* **seit 09/2016**  
+Oberassistent / Leitung Labor Populäre Kulturen, ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen, Universität Zürich.
 * **10/2015--08/2016**  
 Post-Doc, Kulturanthropologie / Volkskunde, Institut für Archäologie und Kulturanthropologie, Universität Bonn.   
 * **2014--2015**  
