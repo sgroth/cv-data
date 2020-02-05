@@ -2,7 +2,7 @@
 
 # Curriculum Vitae
 Dr. Stefan Groth  
-Oberassistent / Leitung Labor Populäre Kulturen  
+Oberassistent / Leitung Labor Populäre Kulturen (seit 09/2016)  
 ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft  
 Populäre Kulturen  
 Universität Zürich  
