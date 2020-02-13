@@ -45,9 +45,9 @@ Wissenschaftlicher Mitarbeiter / Doktorand, Institut für Kulturanthropologie / 
 
 ## Studium und akademische Abschlüsse
 * **2008--2011**  
-Dr. phil. in Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen (DE). Doktorarbeit: "Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property" (\emph{summa cum laude}). Gutachter: Prof. Dr. Regina F. Bendix (Göttingen), Prof. Dr. Donald F. Brenneis (UC Santa Cruz).  
+Dr. phil. in Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen (DE). Doktorarbeit: "Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property" (*summa cum laude*). Gutachter: Prof. Dr. Regina F. Bendix (Göttingen), Prof. Dr. Donald F. Brenneis (UC Santa Cruz).  
 * **10/2003--03/2008**  
-M.A. in Soziologie, Fächer: Soziologie, Kulturanthropologie / Europäische Ethnologie, Wirtschafts- und Sozialpsychologie, Georg-August-Universität Göttingen (DE). Magisterarbeit: "Entwicklung von Open-Source-Software: Soziologische Diskussion einer spezifischen Form von Innovationsnetzwerk" (\emph{Sehr gut}).  
+M.A. in Soziologie, Fächer: Soziologie, Kulturanthropologie / Europäische Ethnologie, Wirtschafts- und Sozialpsychologie, Georg-August-Universität Göttingen (DE). Magisterarbeit: "Entwicklung von Open-Source-Software: Soziologische Diskussion einer spezifischen Form von Innovationsnetzwerk" (*Sehr gut*).  
 * **10/2006--01/2007**  
 Erasmus-Programm, Fächer: Public Relations, Università degli Studi di Udine (IT).   
 
@@ -104,7 +104,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Zusammen mit Christine Hämmerling und Silke Meyer: Workshop Moralische Ökonomie(n) – Kosten und Nutzen. 21.-22. Mai 2019, Labor Populäre Kulturen, ISEK, Universität Zürich.  
 * Zusammen mit Markus Tauschek: Panel Comparison as Reflective and Affective Practice: Orientations Towards the Middle and Everyday Comparisons, SIEF-Kongress 2019, Santiago de Compostela, Spanien, 14-17. April 2019.  
 * Podiumsdiskussion Wissensalltag / Alltagswissen. Orte, Medien und Praktiken. Perspektiven aus Anthropologie und Kulturwissenschaft. Im Rahmen des Science Festivals 100 Ways of Thinking, Kunsthalle Zürich, 18. Oktober 2018.  
-* Organisation mit Dr. Sarah May und Dr. Johannes Müske, Vernetzt, entgrenzt, prekär? Arbeit im Wandel und in gesellschaftlicher Diskussion – kulturwissenschaftliche Perspektiven. 18. Arbeitstagung der dgv-Kommission Arbeitskulturen, 13. bis 14. September 2018 ([Call for Papers als PDF](http://www.stefangroth.com/assets/pdf/w07-arbeitskulturen-2018-cfp.pdf) / [Programm als PDF](http://www.stefangroth.com/assets/pdf/w07-arbeitskulturen-2018-programm.pdf)) / [Tagungsbericht als PDF](http://hsozkult.geschichte.hu-berlin.de/index.asp?id=8222&view=pdf&pn=tagungsberichte&type=tagungsberichte).  
+* Organisation mit Dr. Sarah May und Dr. Johannes Müske, Vernetzt, entgrenzt, prekär? Arbeit im Wandel und in gesellschaftlicher Diskussion – kulturwissenschaftliche Perspektiven. 18. Arbeitstagung der dgv-Kommission Arbeitskulturen, 13. bis 14. September 2018 ([Call for Papers als PDF](http://www.stefangroth.com/assets/pdf/w07-arbeitskulturen-2018-cfp.pdf) / [Programm als PDF](http://www.stefangroth.com/assets/pdf/w07-arbeitskulturen-2018-programm.pdf) / [Tagungsbericht als PDF](http://hsozkult.geschichte.hu-berlin.de/index.asp?id=8222&view=pdf&pn=tagungsberichte&type=tagungsberichte)).  
 * In-House-Workshop Forschungsförderung, Antrags- und Karriereplanung, mit Prof. em. Dr. Silke Göttsch-Elten, 24. Mai 2018, Labor Populäre Kulturen, ISEK, Universität Zürich.  
 * In-House-Workshop Land / Stadt als räumliche Ordnungen und Kategorien, u. a. mit Prof. em. Dr. Silke Göttsch-Elten, Prof. em. Dr. Rolf Lindner, JProf. Dr. Ove Sutter, 17.-18. Mai 2018, Labor Populäre Kulturen, ISEK, Universität Zürich ([Programm als PDF](http://www.stefangroth.com/assets/pdf/iw02-stadt-land-2018-programm.pdf)).  
 * In-House-Workshop Historisch forschen, mit Prof. em. Dr. Silke Göttsch-Elten, 12. April 2018, Labor Populäre Kulturen, ISEK, Universität Zürich.  
