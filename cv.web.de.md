@@ -86,7 +86,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 
 ## Mitgliedschaften 
 * Mitverantwortlicher für das Forschungsnetzwerk Cultural Citizenship. Kooperationsprojekt zwischen dem ISEK – Populäre Kulturen (Universität Zürich), dem Departement Kulturanalysen und Vermittlung (Zürcher Hochschule der Künste) und dem Departement Angewandte Linguistik (Zürcher Hochschule für Angewandte Wissenschaften). (seit 2018)  
-* [DFG-Netzwerk „Wettbewerb und Konkurrenz“](http://konkurrenz.uni-freiburg.de) (seit 2014)  
+* [DFG-Netzwerk „Wettbewerb und Konkurrenz“](http://konkurrenz.uni-freiburg.de) (2014-2018)  
 * Deutsche Gesellschaft für Volkskunde (DGV)  
 * Schweizerische Gesellschaft für Volkskunde (SGV), Sektion Zürich  
 * European Association of Social Anthropologists (EASA), EASA Network “Anthropology of Law, Rights and Governance” (LAWNET)  
