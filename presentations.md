@@ -1,5 +1,6 @@
 ## 2020
 * Anstehend: "Contesting 'Truthiness' and 'Stickiness': Narratological Approaches to Fact Checking, Counter-Narratives and Political Activism in Germany". EASA-Kongress, Panel 'Resisting Populism: Memes, Extreme Speech, and the Aesthetics of Affect and Defiance', Lissabon (7/2020).
+* Anstehend: "Selbstoptimierung als relationale Subjektivierung". Tagung Optimierung des Selbst (Graduiertenkolleg Ethnographien des Selbst in der Gegenwart), Mainz (09/2020).
 * Anstehend: "Of 'Truthiness' and 'Stickiness.' Narratological Approaches to Plausibility and Communicabilty in Digital Truth-Making". Tagung Digital Truth-Making (dgv-Kommission Digitization in Everyday Life), Berlin (10/2020).
 
 ## 2019
