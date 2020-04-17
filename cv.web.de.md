@@ -94,7 +94,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Rheinische Vereinigung für Volkskunde (RVV)  
 
 ## Gutachtertätigkeiten
-* Reviewer für Journals: International Journal of Heritage Studies (IJHS), Narrative Culture, Global Cooperation Research Papers  
+* Reviewer für Journals: International Journal of Heritage Studies (IJHS), Narrative Culture, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
 * Qualifikationsarbeiten auf Bachelor- und Masterniveau  
 
 ## Planung, Organisation und Durchführung von Workshops, Panels, Tagungen
