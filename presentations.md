@@ -1,9 +1,7 @@
 ## 2020
 * Anstehend: "Contesting 'Truthiness' and 'Stickiness': Narratological Approaches to Fact Checking, Counter-Narratives and Political Activism in Germany". EASA-Kongress, Panel 'Resisting Populism: Memes, Extreme Speech, and the Aesthetics of Affect and Defiance', Lissabon (7/2020).
-* Anstehend: "Kontext und politisches Erzählen". Tagung Politisches Erzählen. Narrative, Genres, Strategien (dgv-Kommission Erzählforschung), Freiburg (09/2020).
 * Anstehend: "Selbstoptimierung als relationale Subjektivierung". Tagung Optimierung des Selbst (Graduiertenkolleg Ethnographien des Selbst in der Gegenwart), Mainz (09/2020).
 * Anstehend: "Of 'Truthiness' and 'Stickiness.' Narratological Approaches to Plausibility and Communicabilty in Digital Truth-Making". Tagung Digital Truth-Making (dgv-Kommission Digitization in Everyday Life), Berlin (10/2020).
-* Anstehend: "Alltag als Konstante der Erfahrung?". Workshop: Erfahrung: Konzeptionen und Standortbestimmungen eines Schlüsselbegriffs der Europäischen Ethnologie, Kiel (11/2020).
 
 ## 2019
 * "Durchschnitt als Trend: Orientierungen am Mittelmaß im Wohnen". Tagung: Wohnen jenseits der Normen. Historische und aktuelle Perspektiven, Marburg (4/2019).
