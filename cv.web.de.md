@@ -23,7 +23,7 @@ Homepage: https://www.stefangroth.com
 
 ## Forschungsprojekte
 * **seit 2020:** Europe from Outside and from the Margins: The Production of Europe in Non-European Everyday Contexts and Practices  
-* **seit 2019:** Political Narratives  
+* **seit 2019:** Populäre Narrative des Politischen  
 * **2016--2020:** Mittelmaß als Praxis und Konstellation Orientierungen am Mittelmaß aus empirisch-kulturwissenschaftlicher Perspektive (Habilitationsschrift, eingereicht an der Philosophischen Fakultät der Universität Zürich im November 2019)  
 * **seit 2013:** Dimensionen des breitensportlichen Rennradfahrens: Empirisch-kulturwissenschaftliche Perspektiven auf Sport und Freizeit  
 * **seit 2014:** Qualitative Approaches to International Institutions (zusammen mit Katja Freistein, Alejandro Esguerra)  
