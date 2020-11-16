@@ -78,28 +78,30 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 
 ## Gremienerfahrung 
 * Mitarbeit in diversen universitäten, fakultären und institutsübergreifenden Arbeitsgruppen an der Universität Zürich (z. B. AG Sozialwissenschaften an der Phil. Fakultät / Studiengangsentwicklung, AG Methodenpool Qualitative Methoden an der UZH) (seit 2016)  
-* Delegierter des Mittelbaus in der Kommission für Forschung und Nachwuchsförderung, Philosophische Fakultät der Universität Zürich (seit 2017)  
+* Mitverantwortlicher für das Forschungsnetzwerk Cultural Citizenship. Kooperationsprojekt zwischen dem ISEK – Populäre Kulturen (Universität Zürich), dem Departement Kulturanalysen und Vermittlung (Zürcher Hochschule der Künste) und dem Departement Angewandte Linguistik (Zürcher Hochschule für Angewandte Wissenschaften) (seit 2018)  
 * Sprecher der Kommission Arbeitskulturen in der Deutschen Gesellschaft für Volkskunde, zusammen mit Irene Götz (München), Sarah May (Freiburg), Johannes Müske (Zürich) und Manfred Seifert (Marburg) (seit 2017)  
-* [H-Folk-Netzwerk, Editor](https://networks.h-net.org/h-folk) (seit 2013)  
+* Delegierter des Mittelbaus in der Kommission für Forschung und Nachwuchsförderung, Philosophische Fakultät der Universität Zürich (2017--2020)  
+* [H-Folk-Netzwerk, Editor](https://networks.h-net.org/h-folk) (2013--2019)  
 * Vorstand Institut für Archäologie und Kulturanthropologie, Universität Bonn (Gruppe der akademischen Mitarbeiter, Stellv.) (2015--2016)  
 * Zentrum für Theorie und Methodik der Kulturwissenschaften (ZTMK), Göttingen, Vorstand (2010--2014)  
 
 ## Mitgliedschaften 
-* Mitverantwortlicher für das Forschungsnetzwerk Cultural Citizenship. Kooperationsprojekt zwischen dem ISEK – Populäre Kulturen (Universität Zürich), dem Departement Kulturanalysen und Vermittlung (Zürcher Hochschule der Künste) und dem Departement Angewandte Linguistik (Zürcher Hochschule für Angewandte Wissenschaften). (seit 2018)  
-* [DFG-Netzwerk „Wettbewerb und Konkurrenz“](http://konkurrenz.uni-freiburg.de) (2014-2018)  
 * Deutsche Gesellschaft für Volkskunde (DGV)  
 * Schweizerische Gesellschaft für Volkskunde (SGV), Sektion Zürich  
-* European Association of Social Anthropologists (EASA), EASA Network “Anthropology of Law, Rights and Governance” (LAWNET)  
+* European Association of Social Anthropologists (EASA), EASA Networks Anthropology of Law, Rights and Governance (LAWNET); Linguistic Anthropology (ELAN)  
 * Societé Internationale d'Ethnologie et de Folklore (SIEF), SIEF Working Groups Narrative Cultures; Cultural Heritage and Property  
 * Rheinische Vereinigung für Volkskunde (RVV)  
+* [DFG-Netzwerk „Wettbewerb und Konkurrenz“](http://konkurrenz.uni-freiburg.de) (2014--2018)  
 
 ## Gutachtertätigkeiten
-* Reviewer für Journals: International Journal of Heritage Studies (IJHS), Narrative Culture, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
+* Reviewer für Journals: International Journal of Heritage Studies (IJHS), Anthropological Journal of European Cultures (AJEC), Narrative Culture, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
 * Qualifikationsarbeiten auf Bachelor- und Masterniveau  
 
 ## Planung, Organisation und Durchführung von Workshops, Panels, Tagungen
 * Leitung Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich (Konzeption und Durchführung, Fellow-Programm, Nachwuchsförderung, Organisation von Tagungen und In-House-Workshops, Vorträgen, Podiumsdiskussionen, Lesungen).  
 * Organisation von Panels bei Fachkonferenzen (Deutsche Gesellschaft für Volkskunde, Société Internationale d'Ethnologie et de Folklore).  
+* Anstehend: Zusammen mit Dr. Sarah May und Dr. Johannes Müske: Morality as Organizational Practice. 19th Workshop of the Section Cultures of Work of the German Association of Cultural Anthropology and Folklore Studies (dgv), Freiburg,22.–23. April 2021.  
+* Anstehend: Zusammen mit Anna Weichselbraun, Ph.D.: Panel Sprechen und Zeitlichkeit, dgv-Kongress 2021, Regensburg, 20.-23. September 2021.  
 * Zusammen mit Dr. Christine Hämmerling und Prof. Dr. Silke Meyer: Workshop Moralische Ökonomie(n) – Kosten und Nutzen. 21.-22. Mai 2019, Labor Populäre Kulturen, ISEK, Universität Zürich.  
 * Zusammen mit Prof. Dr. Markus Tauschek: Panel Comparison as Reflective and Affective Practice: Orientations Towards the Middle and Everyday Comparisons, SIEF-Kongress 2019, Santiago de Compostela, Spanien, 14-17. April 2019.  
 * Podiumsdiskussion Wissensalltag / Alltagswissen. Orte, Medien und Praktiken. Perspektiven aus Anthropologie und Kulturwissenschaft. Im Rahmen des Science Festivals 100 Ways of Thinking, Kunsthalle Zürich, 18. Oktober 2018.  

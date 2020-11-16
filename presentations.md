@@ -1,8 +1,9 @@
 ## 2020
+* Anstehend: "Populäre Narrative des Politischen: Europaskeptizismus aus der Sicht empirischer Kulturforschung". Probevortrag im Rahmen des Habilitationsverfahrens zur Erlangung der Venia Legendi in Empirische Kulturwissenschaft, Universität Zürich, Zürich (12/2020).
 * Verschoben auf 2021: "Kontext und politisches Erzählen". Tagung Politisches Erzählen. Narrative, Genres, Strategien (dgv-Kommission Erzählforschung), Freiburg (09/2020).
 * Verschoben auf 2021: "Selbstoptimierung als relationale Subjektivierung". Tagung Optimierung des Selbst (Graduiertenkolleg Ethnographien des Selbst in der Gegenwart), Mainz (09/2020).
 * Anstehend: "Alltag als Konstante der Erfahrung?". Workshop: Erfahrung: Konzeptionen und Standortbestimmungen eines Schlüsselbegriffs der Europäischen Ethnologie, Kiel (11/2020).
-* Anstehend: "Of 'Truthiness' and 'Stickiness.' Narratological Approaches to Plausibility and Communicabilty in Digital Truth-Making". Tagung Digital Truth-Making (dgv-Kommission Digitization in Everyday Life), Berlin (10/2020).
+* "Of 'Truthiness' and 'Stickiness.' Narratological Approaches to Plausibility and Communicabilty in Digital Truth-Making". Tagung Digital Truth-Making (dgv-Kommission Digitization in Everyday Life), Berlin (10/2020).
 
 ## 2019
 * "Durchschnitt als Trend: Orientierungen am Mittelmaß im Wohnen". Tagung: Wohnen jenseits der Normen. Historische und aktuelle Perspektiven, Marburg (4/2019).
