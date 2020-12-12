@@ -1,5 +1,5 @@
 ## 2020
-* Anstehend: "Populäre Narrative des Politischen: Europaskeptizismus aus der Sicht empirischer Kulturforschung". Probevortrag im Rahmen des Habilitationsverfahrens zur Erlangung der Venia Legendi in Empirische Kulturwissenschaft, Universität Zürich, Zürich (12/2020).
+* "Populäre Narrative des Politischen: Europaskeptizismus aus Sicht der Empirischen Kulturwissenschaft". Probevortrag im Rahmen des Habilitationsverfahrens zur Erlangung der Venia Legendi in Empirische Kulturwissenschaft, Universität Zürich, Zürich (12/2020).
 * Verschoben auf 2021: "Kontext und politisches Erzählen". Tagung Politisches Erzählen. Narrative, Genres, Strategien (dgv-Kommission Erzählforschung), Freiburg (09/2020).
 * Verschoben auf 2021: "Selbstoptimierung als relationale Subjektivierung". Tagung Optimierung des Selbst (Graduiertenkolleg Ethnographien des Selbst in der Gegenwart), Mainz (09/2020).
 * "Alltag als Konstante der Erfahrung?". Workshop: Erfahrung: Konzeptionen und Standortbestimmungen eines Schlüsselbegriffs der Europäischen Ethnologie, Kiel (11/2020).
