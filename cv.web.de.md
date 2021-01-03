@@ -14,12 +14,12 @@ Telefon: +41 44 634 92 96
 Homepage: https://www.stefangroth.com  
 
 ## Forschungsschwerpunkte
+* Kulturerbe und kulturelles Eigentum  
 * Politische Anthropologie und Europäisierungsforschung  
 * Narratologie, linguistische Anthropologie und Kommunikationsethnografie  
 * Organisationsforschung  
 * Methoden der Empirischen Kulturwissenschaft  
 * Kulturwissenschaftliche Sportforschung  
-* Kulturerbe und kulturelles Eigentum  
 
 ## Forschungsprojekte
 * **seit 2020:** Europe from Outside and from the Margins: The Production of Europe in Non-European Everyday Contexts and Practices  
@@ -44,6 +44,8 @@ Post-Doc, Institut für Kulturanthropologie / Europäische Ethnologie, Georg Aug
 Wissenschaftlicher Mitarbeiter / Doktorand, Institut für Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen. Projekt: Kommunikationsmuster und Entscheidungsfindung über Cultural Property im internationalen Gremium World Intellectual Property Organization (Teilprojekt der Interdisziplinären DFG-Forschergruppe [Die Konstituierung von Cultural Property: Akteure, Diskurse, Kontexte, Regeln](http://www.cultural-property.org)).  
 
 ## Studium und akademische Abschlüsse
+* **12/2020**  
+Abschluss des Habilitationsverfahrens zur Erlangung der Venia Legendi in Empirische Kulturwissenschaft, Universität Zürich (CH). Habilitation: "Mittelmaß als Praxis und Konstellation. Orientierungen am Mittelmaß aus empirisch-kulturwissenschaftlicher Perspektive".  
 * **2008--2011**  
 Dr. phil. in Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen (DE). Doktorarbeit: "Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property" (*summa cum laude*). Gutachter: Prof. Dr. Regina F. Bendix (Göttingen), Prof. Dr. Donald F. Brenneis (UC Santa Cruz).  
 * **10/2003--03/2008**  
