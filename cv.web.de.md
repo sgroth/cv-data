@@ -1,8 +1,8 @@
 <!-- Curriculum Vitae Stefan Groth – https://www.stefangroth.com -->
 
 # Curriculum Vitae
-Dr. phil. Stefan Groth  
-Oberassistent / Leitung Labor Populäre Kulturen  
+PD Dr. phil. Stefan Groth  
+Privatdozent / Leitung Labor Populäre Kulturen  
 ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft  
 Populäre Kulturen  
 Universität Zürich  
@@ -24,7 +24,7 @@ Homepage: https://www.stefangroth.com
 ## Forschungsprojekte
 * **seit 2020:** Europe from Outside and from the Margins: The Production of Europe in Non-European Everyday Contexts and Practices  
 * **seit 2019:** Populäre Narrative des Politischen  
-* **2016--2020:** Mittelmaß als Praxis und Konstellation Orientierungen am Mittelmaß aus empirisch-kulturwissenschaftlicher Perspektive (Habilitationsschrift, eingereicht an der Philosophischen Fakultät der Universität Zürich im November 2019)  
+* **2016--2020:** Mittelmaß als Praxis und Konstellation Orientierungen am Mittelmaß aus empirisch-kulturwissenschaftlicher Perspektive (Habilitationsprojekt)  
 * **seit 2013:** Dimensionen des breitensportlichen Rennradfahrens: Empirisch-kulturwissenschaftliche Perspektiven auf Sport und Freizeit  
 * **seit 2014:** Qualitative Approaches to International Institutions (zusammen mit Katja Freistein, Alejandro Esguerra)  
 * **2014--2015:** Culture as Resource and Diplomacy: Between Geopolitics and Issues-Based Policy (Post-Doc Fellowship Käte Hamburger Kolleg / Centre for Global Cooperation Research)  
@@ -33,7 +33,7 @@ Homepage: https://www.stefangroth.com
 
 ## Bisherige Tätigkeiten
 * **seit 09/2016**  
-Oberassistent / Leitung Labor Populäre Kulturen, ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen, Universität Zürich.
+Oberassistent / Leiter Labor Populäre Kulturen, ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen, Universität Zürich.
 * **10/2015--08/2016**  
 Post-Doc, Kulturanthropologie / Volkskunde, Institut für Archäologie und Kulturanthropologie, Universität Bonn.   
 * **2014--2015**  
@@ -44,8 +44,8 @@ Post-Doc, Institut für Kulturanthropologie / Europäische Ethnologie, Georg Aug
 Wissenschaftlicher Mitarbeiter / Doktorand, Institut für Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen. Projekt: Kommunikationsmuster und Entscheidungsfindung über Cultural Property im internationalen Gremium World Intellectual Property Organization (Teilprojekt der Interdisziplinären DFG-Forschergruppe [Die Konstituierung von Cultural Property: Akteure, Diskurse, Kontexte, Regeln](http://www.cultural-property.org)).  
 
 ## Studium und akademische Abschlüsse
-* **12/2020**  
-Abschluss des Habilitationsverfahrens zur Erlangung der Venia Legendi in Empirische Kulturwissenschaft, Universität Zürich (CH). Habilitation: "Mittelmaß als Praxis und Konstellation. Orientierungen am Mittelmaß aus empirisch-kulturwissenschaftlicher Perspektive".  
+* **03/2021**  
+Venia Legendi in Empirische Kulturwissenschaft, Universität Zürich (CH). Habilitation: "Mittelmaß als Praxis und Konstellation. Orientierungen am Mittelmaß aus empirisch-kulturwissenschaftlicher Perspektive (eingereicht 11/2019)".  
 * **2008--2011**  
 Dr. phil. in Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen (DE). Doktorarbeit: "Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property" (*summa cum laude*). Gutachter: Prof. Dr. Regina F. Bendix (Göttingen), Prof. Dr. Donald F. Brenneis (UC Santa Cruz).  
 * **10/2003--03/2008**  
@@ -96,7 +96,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * [DFG-Netzwerk „Wettbewerb und Konkurrenz“](http://konkurrenz.uni-freiburg.de) (2014--2018)  
 
 ## Gutachtertätigkeiten
-* Reviewer für Journals: International Journal of Heritage Studies (IJHS), Anthropological Journal of European Cultures (AJEC), Narrative Culture, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
+* Reviewer für Journals: International Journal of Heritage Studies (IJHS), Anthropological Journal of European Cultures (AJEC), Narrative Culture, Zeitschrift für Volkskunde, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
 * Qualifikationsarbeiten auf Bachelor- und Masterniveau  
 
 ## Planung, Organisation und Durchführung von Workshops, Panels, Tagungen

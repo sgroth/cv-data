@@ -1,6 +1,7 @@
 ## 2021
-* Anstehend: "Selbstoptimierung als relationale Subjektivierung". Tagung Optimierung des Selbst (Graduiertenkolleg Ethnographien des Selbst in der Gegenwart), Mainz (3/2021).
+* "Selbstoptimierung als relationale Subjektivierung". Tagung Optimierung des Selbst (Graduiertenkolleg Ethnographien des Selbst in der Gegenwart), Mainz (3/2021).
 * Anstehend: "Entangled Pasts, Dissonant Heritages: Heritage as Strategic Resource in EU External Relations". SIEF-Kongress, Helsinki (6/2021).
+* "Kontext und politisches Erzählen (Keynote)". Tagung Politisches Erzählen. Narrative, Genres, Strategien (dgv-Kommission Erzählforschung), Freiburg (08/2021).
 * Anstehend: "Zeitlichkeit und Aussensicht – Zeitebenen der Konstruktion Europas durch außereuropäische Akteure". dgv-Kongress, Regensburg (09/2021).
 
 ## 2020
@@ -77,7 +78,7 @@
 ## 2009
 * "Ideologies in Motion: Language, Power and Performance in International Institutions". Konferenz der American Anthropological Association (AAA), Philadelphia (12/2009).
 * "On Tradition and the Politics of Difference". International Symposium on Cultural Property, Interdisciplinary Research Unit on Cultural Property, Göttingen (11/2009).
-* "Negotiating Tradition, Representing Social Structure: Culture, Community, and Language in WIPO’s Committee on Traditional Knowledge and Folklore". International Summer University “Local Knowledge and Open Borders: Creativity and Heritage”, Tartu University, Tartu (7/2009).
+* "Negotiating Tradition, Representing Social Structure: Culture, Community, and Language in WIPO’s Committee on Traditional Knowledge and Folklore". International Summer University Local Knowledge and Open Borders: Creativity and Heritage, Tartu University, Tartu (7/2009).
 * "Tradition und Folklore in der Weltorganisation für Geistiges Eigentum (WIPO) – Eine kommunikationsethnographische Perspektive". Hamburger Gesellschaft für Volkskunde (HGV), Hamburg (5/2009).
 
 ## 2008
