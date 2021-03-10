@@ -1,7 +1,7 @@
 ## 2021
 * "Selbstoptimierung als relationale Subjektivierung". Tagung Optimierung des Selbst (Graduiertenkolleg Ethnographien des Selbst in der Gegenwart), Mainz (3/2021).
 * Anstehend: "Entangled Pasts, Dissonant Heritages: Heritage as Strategic Resource in EU External Relations". SIEF-Kongress, Helsinki (6/2021).
-* "Kontext und politisches Erzählen (Keynote)". Tagung Politisches Erzählen. Narrative, Genres, Strategien (dgv-Kommission Erzählforschung), Freiburg (08/2021).
+* Anstehend: "Kontext und politisches Erzählen (Keynote)". Tagung Politisches Erzählen. Narrative, Genres, Strategien (dgv-Kommission Erzählforschung), Freiburg (08/2021).
 * Anstehend: "Zeitlichkeit und Aussensicht – Zeitebenen der Konstruktion Europas durch außereuropäische Akteure". dgv-Kongress, Regensburg (09/2021).
 
 ## 2020
