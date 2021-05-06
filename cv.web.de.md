@@ -2,7 +2,7 @@
 
 # Curriculum Vitae
 PD Dr. phil. Stefan Groth  
-Privatdozent / Leitung Labor Populäre Kulturen  
+Privatdozent / Oberassistent / Leitung Labor Populäre Kulturen  
 ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft  
 Populäre Kulturen  
 Universität Zürich  
