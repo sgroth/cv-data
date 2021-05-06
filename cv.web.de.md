@@ -14,15 +14,15 @@ Telefon: +41 44 634 92 96
 Homepage: https://www.stefangroth.com  
 
 ## Forschungsschwerpunkte
-* Kulturerbe und kulturelles Eigentum  
 * Politische Anthropologie und Europäisierungsforschung  
 * Narratologie, linguistische Anthropologie und Kommunikationsethnografie  
-* Organisationsforschung  
+* Kulturerbe und kulturelles Eigentum  
 * Methoden der Empirischen Kulturwissenschaft  
 * Kulturwissenschaftliche Sportforschung  
+* Organisationsforschung  
 
 ## Forschungsprojekte
-* **seit 2020:** Europe from Outside and from the Margins: The Production of Europe in Non-European Everyday Contexts and Practices  
+* **seit 2021:** Europe from Outside and from the Margins: The Everyday Production of Europe in Borderlands and Non-European Contexts  
 * **seit 2019:** Populäre Narrative des Politischen  
 * **2016--2020:** Mittelmaß als Praxis und Konstellation Orientierungen am Mittelmaß aus empirisch-kulturwissenschaftlicher Perspektive (Habilitationsprojekt)  
 * **seit 2013:** Dimensionen des breitensportlichen Rennradfahrens: Empirisch-kulturwissenschaftliche Perspektiven auf Sport und Freizeit  
@@ -80,7 +80,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 
 ## Gremienerfahrung 
 * Mitarbeit in diversen universitäten, fakultären und institutsübergreifenden Arbeitsgruppen an der Universität Zürich (z. B. AG Sozialwissenschaften an der Phil. Fakultät / Studiengangsentwicklung, AG Methodenpool Qualitative Methoden an der UZH) (seit 2016)  
-* Mitverantwortlicher für das Forschungsnetzwerk Cultural Citizenship. Kooperationsprojekt zwischen dem ISEK – Populäre Kulturen (Universität Zürich), dem Departement Kulturanalysen und Vermittlung (Zürcher Hochschule der Künste) und dem Departement Angewandte Linguistik (Zürcher Hochschule für Angewandte Wissenschaften) (seit 2018)  
+* Mitverantwortlicher für das Forschungsnetzwerk Cultural Citizenship. Kooperationsprojekt zwischen dem ISEK – Populäre Kulturen (Universität Zürich), dem Departement Kulturanalysen und Vermittlung (Zürcher Hochschule der Künste) und dem Departement Angewandte Linguistik (Zürcher Hochschule für Angewandte Wissenschaften) (2018--2021)  
 * Sprecher der Kommission Arbeitskulturen in der Deutschen Gesellschaft für Volkskunde, zusammen mit Irene Götz (München), Sarah May (Freiburg), Johannes Müske (Zürich) und Manfred Seifert (Marburg) (seit 2017)  
 * Delegierter des Mittelbaus in der Kommission für Forschung und Nachwuchsförderung, Philosophische Fakultät der Universität Zürich (2017--2020)  
 * [H-Folk-Netzwerk, Editor](https://networks.h-net.org/h-folk) (2013--2019)  
