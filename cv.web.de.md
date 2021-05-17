@@ -93,7 +93,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * European Association of Social Anthropologists (EASA), EASA Networks Anthropology of Law, Rights and Governance (LAWNET); Linguistic Anthropology (ELAN)  
 * Societé Internationale d'Ethnologie et de Folklore (SIEF), SIEF Working Groups Narrative Cultures; Cultural Heritage and Property  
 * Rheinische Vereinigung für Volkskunde (RVV)  
-* [DFG-Netzwerk „Wettbewerb und Konkurrenz“](http://konkurrenz.uni-freiburg.de) (2014--2018)  
+* DFG-Netzwerk „Wettbewerb und Konkurrenz“ (2014--2018)  
 
 ## Gutachtertätigkeiten
 * Reviewer für Journals: International Journal of Heritage Studies (IJHS), Anthropological Journal of European Cultures (AJEC), Narrative Culture, Zeitschrift für Volkskunde, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
