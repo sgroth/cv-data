@@ -25,7 +25,7 @@ Homepage: https://www.stefangroth.com
 * **seit 2021:** Europe from Outside and from the Margins: The Everyday Production of Europe in Borderlands and Non-European Contexts  
 * **seit 2019:** Populäre Narrative des Politischen  
 * **2016--2020:** Mittelmaß als Praxis und Konstellation Orientierungen am Mittelmaß aus empirisch-kulturwissenschaftlicher Perspektive (Habilitationsprojekt)  
-* **seit 2013:** Dimensionen des breitensportlichen Rennradfahrens: Empirisch-kulturwissenschaftliche Perspektiven auf Sport und Freizeit  
+* **seit 2013:** Dimensionen des breitensportlichen Rennradfahrens und Laufens: Empirisch-kulturwissenschaftliche Perspektiven auf Sport und Freizeit  
 * **seit 2014:** Qualitative Approaches to International Institutions (zusammen mit Katja Freistein, Alejandro Esguerra)  
 * **2014--2015:** Culture as Resource and Diplomacy: Between Geopolitics and Issues-Based Policy (Post-Doc Fellowship Käte Hamburger Kolleg / Centre for Global Cooperation Research)  
 * **2011--2014:** The Ethics of / in Negotiating and Regulating Cultural Property (Leitung: Prof. Dr. Regina F. Bendix, DFG-Forschergruppe Cultural Property)  
@@ -49,9 +49,9 @@ Venia Legendi in Empirische Kulturwissenschaft, Universität Zürich (CH). Habil
 * **2008--2011**  
 Dr. phil. in Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen (DE). Doktorarbeit: "Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property" (*summa cum laude*). Gutachter: Prof. Dr. Regina F. Bendix (Göttingen), Prof. Dr. Donald F. Brenneis (UC Santa Cruz).  
 * **10/2003--03/2008**  
-M.A. in Soziologie, Fächer: Soziologie, Kulturanthropologie / Europäische Ethnologie, Wirtschafts- und Sozialpsychologie, Georg-August-Universität Göttingen (DE). Magisterarbeit: "Entwicklung von Open-Source-Software: Soziologische Diskussion einer spezifischen Form von Innovationsnetzwerk" (*Sehr gut*).  
+M.A. in Soziologie, Fächer: Soziologie (Hauptfach), Kulturanthropologie / Europäische Ethnologie, Wirtschafts- und Sozialpsychologie (Nebenfächer), Georg-August-Universität Göttingen (DE). Magisterarbeit: "Entwicklung von Open-Source-Software: Soziologische Diskussion einer spezifischen Form von Innovationsnetzwerk" (*Sehr gut*).  
 * **10/2006--01/2007**  
-Erasmus-Programm, Fächer: Public Relations, Università degli Studi di Udine (IT).   
+Studienaufenthalt im Rahmen des Erasmus-Programms, Fächer: Relazioni Pubbliche (Public Relations), Università degli Studi di Udine (IT).   
 
 ## Aufenthalte im Ausland
 * **03/2010--04/2010**  

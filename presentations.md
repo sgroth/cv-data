@@ -1,5 +1,5 @@
 ## 2021
-* Anstehend: "Zeitlichkeit und Aussensicht – Zeitebenen der Konstruktion Europas durch außereuropäische Akteure". dgv-Kongress, Regensburg (09/2021).
+* Verschopen auf 04/2022: "Zeitlichkeit und Aussensicht – Zeitebenen der Konstruktion Europas durch außereuropäische Akteure". dgv-Kongress, Regensburg (09/2021).
 * Anstehend: "Kontext und politisches Erzählen (Keynote)". Tagung Politisches Erzählen. Narrative, Genres, Strategien (dgv-Kommission Erzählforschung), Freiburg (08/2021).
 * Anstehend: "Entangled Pasts, Dissonant Heritages: Heritage as Strategic Resource in EU External Relations". SIEF-Kongress, Helsinki (6/2021).
 * "Podium Contribution: Ethnologies of the Future: Anthropology and the EU-Agenda". Civis-Workshop Studying European Culture and Society in Challenging Times, Tübingen (4/2021).
@@ -7,8 +7,8 @@
 
 ## 2020
 * "Populäre Narrative des Politischen: Europaskeptizismus aus Sicht der Empirischen Kulturwissenschaft". Probevortrag im Rahmen des Habilitationsverfahrens zur Erlangung der Venia Legendi in Empirische Kulturwissenschaft, Universität Zürich, Zürich (12/2020).
-* Verschoben auf 2021: "Kontext und politisches Erzählen". Tagung Politisches Erzählen. Narrative, Genres, Strategien (dgv-Kommission Erzählforschung), Freiburg (09/2020).
-* Verschoben auf 2021: "Selbstoptimierung als relationale Subjektivierung". Tagung Optimierung des Selbst (Graduiertenkolleg Ethnographien des Selbst in der Gegenwart), Mainz (09/2020).
+* Verschoben auf 2021: "Kontext und politisches Erzählen (Keynote)". Tagung Politisches Erzählen. Narrative, Genres, Strategien (dgv-Kommission Erzählforschung), Freiburg (09/2020).
+* Verschoben auf 2021: "Selbstoptimierung und Navigational Capacity". Tagung Optimierung des Selbst (Graduiertenkolleg Ethnographien des Selbst in der Gegenwart), Mainz (09/2020).
 * "Alltag als Konstante der Erfahrung?". Workshop: Erfahrung: Konzeptionen und Standortbestimmungen eines Schlüsselbegriffs der Europäischen Ethnologie, Kiel (11/2020).
 * "Of 'Truthiness' and 'Stickiness.' Narratological Approaches to Plausibility and Communicabilty in Digital Truth-Making". Tagung Digital Truth-Making (dgv-Kommission Digitization in Everyday Life), Berlin (10/2020).
 
