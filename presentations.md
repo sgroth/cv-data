@@ -1,5 +1,5 @@
 ## 2021
-* Verschopen auf 04/2022: "Zeitlichkeit und Aussensicht – Zeitebenen der Konstruktion Europas durch außereuropäische Akteure". dgv-Kongress, Regensburg (09/2021).
+* Verschoben auf 04/2022: "Zeitlichkeit und Aussensicht – Zeitebenen der Konstruktion Europas durch außereuropäische Akteure". dgv-Kongress, Regensburg (09/2021).
 * Anstehend: "Kontext und politisches Erzählen (Keynote)". Tagung Politisches Erzählen. Narrative, Genres, Strategien (dgv-Kommission Erzählforschung), Freiburg (08/2021).
 * Anstehend: "Entangled Pasts, Dissonant Heritages: Heritage as Strategic Resource in EU External Relations". SIEF-Kongress, Helsinki (6/2021).
 * "Podium Contribution: Ethnologies of the Future: Anthropology and the EU-Agenda". Civis-Workshop Studying European Culture and Society in Challenging Times, Tübingen (4/2021).
