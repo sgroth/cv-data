@@ -24,7 +24,7 @@ Homepage: https://www.stefangroth.com
 ## Forschungsprojekte
 * **seit 2021:** Europe from Outside and from the Margins: The Everyday Production of Europe in Borderlands and Non-European Contexts  
 * **seit 2019:** Populäre Narrative des Politischen  
-* **2016--2020:** Mittelmaß als Praxis und Konstellation Orientierungen am Mittelmaß aus empirisch-kulturwissenschaftlicher Perspektive (Habilitationsprojekt)  
+* **2016--2020:** Mittelmaß als Praxis und Konstellation: Orientierungen am Mittelmaß aus empirisch-kulturwissenschaftlicher Perspektive (Habilitationsprojekt)  
 * **seit 2013:** Dimensionen des breitensportlichen Rennradfahrens und Laufens: Empirisch-kulturwissenschaftliche Perspektiven auf Sport und Freizeit  
 * **seit 2014:** Qualitative Approaches to International Institutions (zusammen mit Katja Freistein, Alejandro Esguerra)  
 * **2014--2015:** Culture as Resource and Diplomacy: Between Geopolitics and Issues-Based Policy (Post-Doc Fellowship Käte Hamburger Kolleg / Centre for Global Cooperation Research)  
