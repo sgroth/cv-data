@@ -2,7 +2,7 @@
 
 # Curriculum Vitae
 PD Dr. phil. Stefan Groth  
-Privatdozent / Oberassistent / Leitung Labor Populäre Kulturen  
+Privatdozent  
 ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft  
 Populäre Kulturen  
 Universität Zürich  
@@ -28,20 +28,22 @@ Homepage: https://www.stefangroth.com
 * **seit 2013:** Dimensionen des breitensportlichen Rennradfahrens und Laufens: Empirisch-kulturwissenschaftliche Perspektiven auf Sport und Freizeit  
 * **seit 2014:** Qualitative Approaches to International Institutions (zusammen mit Katja Freistein, Alejandro Esguerra)  
 * **2014--2015:** Culture as Resource and Diplomacy: Between Geopolitics and Issues-Based Policy (Post-Doc Fellowship Käte Hamburger Kolleg / Centre for Global Cooperation Research)  
-* **2011--2014:** The Ethics of / in Negotiating and Regulating Cultural Property (Leitung: Prof. Dr. Regina F. Bendix, DFG-Forschergruppe Cultural Property)  
+* **2011--2014:** The Ethics of / in Negotiating and Regulating Cultural Property (Leitung: Prof. Dr. Regina F. Bendix, DFG-Forschergruppe Cultural Property)  
 * **2008--2011:** Communication Patterns and Decision-Making about Cultural Property in the International Forum of the World Intellectual Property Organization (Disserationsprojekt, Leitung: Prof. Dr. Regina F. Bendix, DFG-Forschergruppe Cultural Property)  
 
 ## Bisherige Tätigkeiten
-* **seit 09/2016**  
-Oberassistent / Leiter Labor Populäre Kulturen, ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen, Universität Zürich.
+* **seit 03/2021**  
+Privatdozent, <a href="https://www.isek.uzh.ch/de/populärekulturen.html">ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen</a>, , Universität Zürich.
+* **09/2016--08/2021**  
+Oberassistent / Leitung Labor Populäre Kulturen, Populäre Kulturen, ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.   
 * **10/2015--08/2016**  
 Post-Doc, Kulturanthropologie / Volkskunde, Institut für Archäologie und Kulturanthropologie, Universität Bonn.   
 * **2014--2015**  
-Post-Doctoral Fellow, [Käte Hamburger Kolleg / Centre for Global Cooperation Research](https://www.gcr21.org), Universität Duisburg–Essen. Projekt: Culture as Resource and Diplomacy: Between Geopolitics and Issues-Based Policy.  
+Post-Doctoral Fellow, <a href="https://www.gcr21.org">Käte Hamburger Kolleg / Centre for Global Cooperation Research</a>, Universität Duisburg–Essen. Projekt: Culture as Resource and Diplomacy: Between Geopolitics and Issues-Based Policy.  
 * **2011--2014**  
-Post-Doc, Institut für Kulturanthropologie / Europäische Ethnologie, Georg August Universität Göttingen. Projekt: The Ethics of / in Negotiating and Regulating Cultural Property (Teilprojekt der Interdisziplinären DFG-Forschergruppe [Die Konstituierung von Cultural Property: Akteure, Diskurse, Kontexte, Regeln](http://www.cultural-property.org)).  
+Post-Doc, Institut für Kulturanthropologie / Europäische Ethnologie, Georg August Universität Göttingen. Projekt: The Ethics of / in Negotiating and Regulating Cultural Property (Teilprojekt der Interdisziplinären DFG-Forschergruppe <a href="http://www.cultural-property.org">Die Konstituierung von Cultural Property: Akteure, Diskurse, Kontexte, Regeln</a>).  
 * **2008--2011**  
-Wissenschaftlicher Mitarbeiter / Doktorand, Institut für Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen. Projekt: Kommunikationsmuster und Entscheidungsfindung über Cultural Property im internationalen Gremium World Intellectual Property Organization (Teilprojekt der Interdisziplinären DFG-Forschergruppe [Die Konstituierung von Cultural Property: Akteure, Diskurse, Kontexte, Regeln](http://www.cultural-property.org)).  
+Wissenschaftlicher Mitarbeiter / Doktorand, Institut für Kulturanthropologie / Europäische Ethnologie, Georg-August-Universität Göttingen. Projekt: Kommunikationsmuster und Entscheidungsfindung über Cultural Property im internationalen Gremium World Intellectual Property Organization (Teilprojekt der Interdisziplinären DFG-Forschergruppe <a href="http://www.cultural-property.org">Die Konstituierung von Cultural Property: Akteure, Diskurse, Kontexte, Regeln</a>).  
 
 ## Studium und akademische Abschlüsse
 * **03/2021**  
@@ -79,7 +81,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 
 
 ## Gremienerfahrung 
-* Mitarbeit in diversen universitäten, fakultären und institutsübergreifenden Arbeitsgruppen an der Universität Zürich (z. B. AG Sozialwissenschaften an der Phil. Fakultät / Studiengangsentwicklung, AG Methodenpool Qualitative Methoden an der UZH) (seit 2016)  
+* Mitarbeit in diversen universitäten, fakultären und institutsübergreifenden Arbeitsgruppen an der Universität Zürich (z. B. AG Sozialwissenschaften an der Phil. Fakultät / Studiengangsentwicklung, AG Methodenpool Qualitative Methoden an der UZH) (seit 2016)  
 * Mitverantwortlicher für das Forschungsnetzwerk Cultural Citizenship. Kooperationsprojekt zwischen dem ISEK – Populäre Kulturen (Universität Zürich), dem Departement Kulturanalysen und Vermittlung (Zürcher Hochschule der Künste) und dem Departement Angewandte Linguistik (Zürcher Hochschule für Angewandte Wissenschaften) (2018--2021)  
 * Sprecher der Kommission Arbeitskulturen in der Deutschen Gesellschaft für Volkskunde, zusammen mit Irene Götz (München), Sarah May (Freiburg), Johannes Müske (Zürich) und Manfred Seifert (Marburg) (seit 2017)  
 * Delegierter des Mittelbaus in der Kommission für Forschung und Nachwuchsförderung, Philosophische Fakultät der Universität Zürich (2017--2020)  
@@ -93,32 +95,33 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * European Association of Social Anthropologists (EASA), EASA Networks Anthropology of Law, Rights and Governance (LAWNET); Linguistic Anthropology (ELAN)  
 * Societé Internationale d'Ethnologie et de Folklore (SIEF), SIEF Working Groups Narrative Cultures; Cultural Heritage and Property  
 * Rheinische Vereinigung für Volkskunde (RVV)  
-* DFG-Netzwerk „Wettbewerb und Konkurrenz“ (2014--2018)  
+* DFG-Netzwerk Erfahrung (ab 2021)  
+* DFG-Netzwerk Wettbewerb und Konkurrenz (2014--2018)  
 
 ## Gutachtertätigkeiten
-* Reviewer für Journals: International Journal of Heritage Studies (IJHS), Anthropological Journal of European Cultures (AJEC), Narrative Culture, Zeitschrift für Volkskunde, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
+* Reviewer für Journals: Critical Discourse Studies, American Ethnologist, International Journal of Heritage Studies, Anthropological Journal of European Cultures, Narrative Culture, Zeitschrift für Volkskunde, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
 * Qualifikationsarbeiten auf Bachelor- und Masterniveau  
 
 ## Planung, Organisation und Durchführung von Workshops, Panels, Tagungen
 * Leitung Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich (Konzeption und Durchführung, Fellow-Programm, Nachwuchsförderung, Organisation von Tagungen und In-House-Workshops, Vorträgen, Podiumsdiskussionen, Lesungen).  
 * Organisation von Panels bei Fachkonferenzen (Deutsche Gesellschaft für Volkskunde, Société Internationale d'Ethnologie et de Folklore).  
+* Anstehend: Zusammen mit Anna Weichselbraun, Ph.D.: Panel Sprechen und Zeitlichkeit, dgv-Kongress 2021, Regensburg, 20.-23. April 2022.  
 * Anstehend: Zusammen mit Dr. Sarah May und Dr. Johannes Müske: Morality as Organizational Practice. 19th Workshop of the Section Cultures of Work of the German Association of Cultural Anthropology and Folklore Studies (dgv), Freiburg, November 2021.  
-* Anstehend: Zusammen mit Anna Weichselbraun, Ph.D.: Panel Sprechen und Zeitlichkeit, dgv-Kongress 2021, Regensburg, 20.-23. September 2021.  
 * Zusammen mit Dr. Sarah May, Arbeitstreffen dgv-Kommission Arbeitskulturen, 27. November 2020.  
 * Zusammen mit Dr. Christine Hämmerling und Prof. Dr. Silke Meyer: Workshop Moralische Ökonomie(n) – Kosten und Nutzen. 21.-22. Mai 2019, Labor Populäre Kulturen, ISEK, Universität Zürich.  
 * Zusammen mit Prof. Dr. Markus Tauschek: Panel Comparison as Reflective and Affective Practice: Orientations Towards the Middle and Everyday Comparisons, SIEF-Kongress 2019, Santiago de Compostela, Spanien, 14-17. April 2019.  
 * Podiumsdiskussion Wissensalltag / Alltagswissen. Orte, Medien und Praktiken. Perspektiven aus Anthropologie und Kulturwissenschaft. Im Rahmen des Science Festivals 100 Ways of Thinking, Kunsthalle Zürich, 18. Oktober 2018.  
-* Organisation mit Dr. Sarah May und Dr. Johannes Müske, Vernetzt, entgrenzt, prekär? Arbeit im Wandel und in gesellschaftlicher Diskussion – kulturwissenschaftliche Perspektiven. 18. Arbeitstagung der dgv-Kommission Arbeitskulturen, 13. bis 14. September 2018 ([Call for Papers als PDF](http://www.stefangroth.com/assets/pdf/w07-arbeitskulturen-2018-cfp.pdf) / [Programm als PDF](http://www.stefangroth.com/assets/pdf/w07-arbeitskulturen-2018-programm.pdf) / [Tagungsbericht als PDF](http://hsozkult.geschichte.hu-berlin.de/index.asp?id=8222&view=pdf&pn=tagungsberichte&type=tagungsberichte)).  
+* Organisation mit Dr. Sarah May und Dr. Johannes Müske, Vernetzt, entgrenzt, prekär? Arbeit im Wandel und in gesellschaftlicher Diskussion – kulturwissenschaftliche Perspektiven. 18. Arbeitstagung der dgv-Kommission Arbeitskulturen, 13. bis 14. September 2018 (<a href="http://www.stefangroth.com/assets/pdf/w07-arbeitskulturen-2018-cfp.pdf">Call for Papers als PDF</a> / <a href="http://www.stefangroth.com/assets/pdf/w07-arbeitskulturen-2018-programm.pdf">Programm als PDF</a> / <a href="http://hsozkult.geschichte.hu-berlin.de/index.asp?id=8222&view=pdf&pn=tagungsberichte&type=tagungsberichte">Tagungsbericht als PDF</a>).  
 * In-House-Workshop Forschungsförderung, Antrags- und Karriereplanung, mit Prof. em. Dr. Silke Göttsch-Elten, 24. Mai 2018, Labor Populäre Kulturen, ISEK, Universität Zürich.  
-* In-House-Workshop Land / Stadt als räumliche Ordnungen und Kategorien, u. a. mit Prof. em. Dr. Silke Göttsch-Elten, Prof. em. Dr. Rolf Lindner, JProf. Dr. Ove Sutter, 17.-18. Mai 2018, Labor Populäre Kulturen, ISEK, Universität Zürich ([Programm als PDF](http://www.stefangroth.com/assets/pdf/iw02-stadt-land-2018-programm.pdf)).  
+* In-House-Workshop Land / Stadt als räumliche Ordnungen und Kategorien, u. a. mit Prof. em. Dr. Silke Göttsch-Elten, Prof. em. Dr. Rolf Lindner, JProf. Dr. Ove Sutter, 17.-18. Mai 2018, Labor Populäre Kulturen, ISEK, Universität Zürich (<a href="http://www.stefangroth.com/assets/pdf/iw02-stadt-land-2018-programm.pdf">Programm als PDF</a>).  
 * In-House-Workshop Historisch forschen, mit Prof. em. Dr. Silke Göttsch-Elten, 12. April 2018, Labor Populäre Kulturen, ISEK, Universität Zürich.  
-* Organisation mit Dr. Christian Ritter (Collegium Helveticum, Zürich), Workshop Zusammenarbeit(en). Praktiken der Koordination, Kooperation und Repräsentation in kollaborativen Prozessen, 5.-6. Oktober 2017, Labor Populäre Kulturen, ISEK, Universität Zürich / Collegium Helveticum, Zürich ([Call for Papers als PDF](http://www.stefangroth.com/assets/pdf/w06-zusammenarbeiten-2017-cfp.pdf) / [Programm als PDF](http://www.stefangroth.com/assets/pdf/w06-zusammenarbeiten-2017-program.pdf)).  
-* In-House-Workshop Perspektiven ethnographischer Kulturanalyse, u. a. mit Prof. em. Dr. Rolf Lindner, 4.-5. Mai 2017, Labor Populäre Kulturen, ISEK, Universität Zürich ([Programm als PDF](http://www.stefangroth.com/assets/pdf/iw01-perspektiven-2017-programm.pdf)).  
-* Organisation mit Dr. Alejandro Esguerra (Potsdam) und Dr. Katja Freistein (Duisburg), Internationaler Workshop Micro-Moves in International Institutions, Standing Group Sociology of International Relations (AK SiB) / Deutsche Vereinigung für Politische Wissenschaft, February 9-10, 2017, Universität Potsdam ([Call for Papers als PDF](https://stefangroth.com/assets/pdf/w04-micromoves-2017-cfp.pdf) / [Programm als PDF](https://stefangroth.com/assets/pdf/w04-micromoves-2017-program.pdf)). Keynotes von Karin Knorr-Cetina (Chicago) und Thomas Scheffer (Frankfurt).  
-* Organisation mit Dr. Katja Freistein (Duisburg) und Dr. Alejandro Esguerra Portocarrero (Duisburg), Interdisziplinärer Workshop Studying Micro-Practices in (International) Institutions: Chances and Limitations of Theory-Building, November 26-27, 2015, Centre for Global Cooperation Research (GCR), Duisburg ([Programm als PDF](https://stefangroth.com/assets/pdf/w03-micropractices-2015-program.pdf)).  
+* Organisation mit Dr. Christian Ritter (Collegium Helveticum, Zürich), Workshop Zusammenarbeit(en). Praktiken der Koordination, Kooperation und Repräsentation in kollaborativen Prozessen, 5.-6. Oktober 2017, Labor Populäre Kulturen, ISEK, Universität Zürich / Collegium Helveticum, Zürich (<a href="http://www.stefangroth.com/assets/pdf/w06-zusammenarbeiten-2017-cfp.pdf">Call for Papers als PDF</a> / <a href="http://www.stefangroth.com/assets/pdf/w06-zusammenarbeiten-2017-program.pdf">Programm als PDF</a>).  
+* In-House-Workshop Perspektiven ethnographischer Kulturanalyse, u. a. mit Prof. em. Dr. Rolf Lindner, 4.-5. Mai 2017, Labor Populäre Kulturen, ISEK, Universität Zürich (<a href="http://www.stefangroth.com/assets/pdf/iw01-perspektiven-2017-programm.pdf">Programm als PDF</a>).  
+* Organisation mit Dr. Alejandro Esguerra (Potsdam) und Dr. Katja Freistein (Duisburg), Internationaler Workshop Micro-Moves in International Institutions, Standing Group Sociology of International Relations (AK SiB) / Deutsche Vereinigung für Politische Wissenschaft, February 9-10, 2017, Universität Potsdam (<a href="https://stefangroth.com/assets/pdf/w04-micromoves-2017-cfp.pdf">Call for Papers als PDF</a> / <a href="https://stefangroth.com/assets/pdf/w04-micromoves-2017-program.pdf">Programm als PDF</a>). Keynotes von Karin Knorr-Cetina (Chicago) und Thomas Scheffer (Frankfurt).  
+* Organisation mit Dr. Katja Freistein (Duisburg) und Dr. Alejandro Esguerra Portocarrero (Duisburg), Interdisziplinärer Workshop Studying Micro-Practices in (International) Institutions: Chances and Limitations of Theory-Building, November 26-27, 2015, Centre for Global Cooperation Research (GCR), Duisburg (<a href="https://stefangroth.com/assets/pdf/w03-micropractices-2015-program.pdf">Programm als PDF</a>).  
 * Organisation mit Yonca Krahn (Zürich): Panel Sport und Sinne, dgv-Kongress 2015, Zürich, 22.-25. Juli 2015.  
-* Organisation mit Prof. Dr. Charles Briggs (UC Berkeley) und Prof. Dr. Regina Bendix, International Working Conference Justice in Discourse, April 4–5, 2013, Göttingen ([Programm als PDF](https://stefangroth.com/assets/pdf/w02-justice-2013-program.pdf)). Mit Beiträgen u. a. von Prof. Dr. Srikant Sarangi (Cardiff), Prof. Dr. Jan Blommaert (Tilburg), Prof. Dr. Patrick Eisenlohr (Göttingen), Prof. Dr. Charles Briggs (Berkeley), Prof. Dr. Regina Bendix (Göttingen). ([Tagungsbericht auf H-Soz-Kult](http://www.hsozkult.de/conferencereport/id/tagungsberichte-4961))  
-* Organisation mit Nadine Wagener-Böck M.A., Workshop „Subjektbegriffe der Europäischen Ethnologie“ (“Concepts of the ‘Subject’ in European Ethnology”), December 13-14, 2012, Göttingen ([Programm als PDF](https://stefangroth.com/assets/pdf/w01-subjektbegriffe-2012-program.pdf)). Mit Beiträgen von u. a. Prof. em. Dr. Johannes Fabian (Amsterdam), Prof. Dr. Andreas Schmidt (Kiel), PD Dr. Jochen Bonz (Bremen).  
+* Organisation mit Prof. Dr. Charles Briggs (UC Berkeley) und Prof. Dr. Regina Bendix, International Working Conference Justice in Discourse, April 4–5, 2013, Göttingen (<a href="https://stefangroth.com/assets/pdf/w02-justice-2013-program.pdf">Programm als PDF</a>). Mit Beiträgen u. a. von Prof. Dr. Srikant Sarangi (Cardiff), Prof. Dr. Jan Blommaert (Tilburg), Prof. Dr. Patrick Eisenlohr (Göttingen), Prof. Dr. Charles Briggs (Berkeley), Prof. Dr. Regina Bendix (Göttingen). (<a href="http://www.hsozkult.de/conferencereport/id/tagungsberichte-4961">Tagungsbericht auf H-Soz-Kult</a>)  
+* Organisation mit Nadine Wagener-Böck M.A., Workshop „Subjektbegriffe der Europäischen Ethnologie“ (“Concepts of the ‘Subject’ in European Ethnology”), December 13-14, 2012, Göttingen (<a href="https://stefangroth.com/assets/pdf/w01-subjektbegriffe-2012-program.pdf">Programm als PDF</a>). Mit Beiträgen von u. a. Prof. em. Dr. Johannes Fabian (Amsterdam), Prof. Dr. Andreas Schmidt (Kiel), PD Dr. Jochen Bonz (Bremen).  
 
 ## Ausstellungen
 * Wissensorte. Ethnografische / künstlerische Erkundungen (05/2018, Zürcher Hochschule der Künste). Ausstellung aus dem Projektseminar Wissensorte (Kooperationsprojekt zwischen ISEK – Populäre Kulturen mit der Zürcher Hochschule der Künste).  
