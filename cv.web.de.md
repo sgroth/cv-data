@@ -32,8 +32,6 @@ Homepage: https://www.stefangroth.com
 * **2008--2011:** Communication Patterns and Decision-Making about Cultural Property in the International Forum of the World Intellectual Property Organization (Disserationsprojekt, Leitung: Prof. Dr. Regina F. Bendix, DFG-Forschergruppe Cultural Property)  
 
 ## Bisherige Tätigkeiten
-* **seit 03/2021**  
-Privatdozent, <a href="https://www.isek.uzh.ch/de/populärekulturen.html">ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen</a>, , Universität Zürich.
 * **09/2016--08/2021**  
 Oberassistent / Leitung Labor Populäre Kulturen, Populäre Kulturen, ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.   
 * **10/2015--08/2016**  
