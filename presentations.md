@@ -1,5 +1,5 @@
 ## 2022
-* Anstehend: "Narrative Truthiness and Stickiness: The Aesthetics of Fact Checking, Counter-Narratives and Political Activism in Germany". Populisms and their Aesthetics: Truthmaking, Faking, and the Politics of Affect in Audiovisual (Digital) Media, Heidelberg (3/2022).
+* Anstehend: "Aesthetic Felicity: Narratological Approaches to the Aesthetics of Fact Checking, Counter-Narratives and Political Activism in Germany". Populisms and their Aesthetics: Truthmaking, Faking, and the Politics of Affect in Audiovisual (Digital) Media, Heidelberg (3/2022).
 
 ## 2021
 * Anstehend: "Zeitlichkeit und Aussensicht – Zeitebenen der Konstruktion Europas durch außereuropäische Akteure". dgv-Kongress, Regensburg (09/2021).
