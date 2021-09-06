@@ -31,10 +31,11 @@
 ## Friedrich-Wilhelms-Universität Bonn
 
 ### 2016
+* Projektseminar (Entwicklung Masterarbeitsthemen), Seminar Master, SS2016. Friedrich-Wilhelms-Universität Bonn, Institut für Archäologie und Kulturanthropologie, Abteilung Kulturanthropologie / Volkskunde. 
 * Empirische Kulturanalyse des Alltags, Methodenseminar Master, SS2016. Friedrich-Wilhelms-Universität Bonn, Institut für Archäologie und Kulturanthropologie, Abteilung Kulturanthropologie / Volkskunde. 
 
 ### 2015
-* Projektseminar (Entwicklung Masterarbeitsthemen), Seminar Master, SS2015. Friedrich-Wilhelms-Universität Bonn, Institut für Archäologie und Kulturanthropologie, Abteilung Kulturanthropologie / Volkskunde. Durchführung 2015 und 2016.
+* Projektseminar (Entwicklung Masterarbeitsthemen), Seminar Master, SS2015. Friedrich-Wilhelms-Universität Bonn, Institut für Archäologie und Kulturanthropologie, Abteilung Kulturanthropologie / Volkskunde. 
 * Kulturerbe und kulturelles Eigentum, Seminar Master, WS2015. Friedrich-Wilhelms-Universität Bonn, Institut für Archäologie und Kulturanthropologie, Abteilung Kulturanthropologie / Volkskunde. 
 
 ## Georg-August-Universität Göttingen
