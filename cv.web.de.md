@@ -4,6 +4,8 @@
 PD Dr. phil. Stefan Groth  
 *Privatdozent*, <a href="https://www.isek.uzh.ch/de/populärekulturen.html">ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen</a>, Universität Zürich (seit 03/2021).  
 
+*Senior Fellow*, <a href="https://www.gcr21.org">Käte Hamburger Kolleg / Centre for Global Cooperation Research</a>, Universität Duisburg–Essen (ab 11/2021).  
+
 **Dienstanschrift:**  
 ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft  
 Populäre Kulturen  
@@ -24,6 +26,8 @@ Homepage: https://www.stefangroth.com
 * Organisationsforschung  
 
 ## Forschungsprojekte
+* **2021--2023:** Everyday Narratives of (De-)Legitimation: How Stories about Migration Policies and Expert Regimes are told in Everyday Contexts (Senior Fellowship Käte Hamburger Kolleg / Centre for Global Cooperation Research)  
+* **seit 2021:** Alltag: Kulturwissenschaftliche Zugänge (Buchprojekt)  
 * **seit 2021:** Europe from Outside and from the Margins: The Everyday Production of Europe in Borderlands and Non-European Contexts  
 * **seit 2019:** Populäre Narrative des Politischen  
 * **2016--2020:** Mittelmaß als Praxis und Konstellation: Orientierungen am Mittelmaß aus empirisch-kulturwissenschaftlicher Perspektive (Habilitationsprojekt)  
