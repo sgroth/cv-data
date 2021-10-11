@@ -104,7 +104,8 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Reviewer für Journals: Critical Discourse Studies, American Ethnologist, International Journal of Heritage Studies, Anthropological Journal of European Cultures, Narrative Culture, Zeitschrift für Volkskunde, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
 * Qualifikationsarbeiten auf Bachelor- und Masterniveau  
 
-## Planung, Organisation und Durchführung von Workshops, Panels, Tagungen
+## Organisation
+Planung, Organisation und Durchführung von Workshops, Panels, Tagungen
 * Leitung Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich (Konzeption und Durchführung, Fellow-Programm, Nachwuchsförderung, Organisation von Tagungen und In-House-Workshops, Vorträgen, Podiumsdiskussionen, Lesungen).  
 * Organisation von Panels bei Fachkonferenzen (Deutsche Gesellschaft für Volkskunde, Société Internationale d'Ethnologie et de Folklore).  
 * Anstehend: Zusammen mit Anna Weichselbraun, Ph.D.: Panel Sprechen und Zeitlichkeit, dgv-Kongress 2021, Regensburg, 20.-23. April 2022.  
