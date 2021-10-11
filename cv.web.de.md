@@ -2,9 +2,8 @@
 
 # Curriculum Vitae
 PD Dr. phil. Stefan Groth  
-*Privatdozent*, <a href="https://www.isek.uzh.ch/de/populärekulturen.html">ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen</a>, Universität Zürich (seit 03/2021).  
-
-*Senior Fellow*, <a href="https://www.gcr21.org">Käte Hamburger Kolleg / Centre for Global Cooperation Research</a>, Universität Duisburg–Essen (ab 11/2021).  
+* *Privatdozent*, <a href="https://www.isek.uzh.ch/de/populärekulturen.html">ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen</a>, Universität Zürich (seit 03/2021).  
+* *Senior Fellow*, <a href="https://www.gcr21.org">Käte Hamburger Kolleg / Centre for Global Cooperation Research</a>, Universität Duisburg–Essen (ab 11/2021).  
 
 **Dienstanschrift:**  
 ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft  
