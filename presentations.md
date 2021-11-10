@@ -1,10 +1,13 @@
 ## 2022
-* Anstehend: "Aesthetic Felicity: Narratological Approaches to the Aesthetics of Fact Checking, Counter-Narratives and Political Activism in Germany". Populisms and their Aesthetics: Truthmaking, Faking, and the Politics of Affect in Audiovisual (Digital) Media, Heidelberg (3/2022).
 * Anstehend: "Zeitlichkeit und Aussensicht – Zeitebenen der Konstruktion Europas durch außereuropäische Akteure". dgv-Kongress, Regensburg (4/2022).
+* Anstehend: "Aesthetic Felicity: Narratological Approaches to the Aesthetics of Fact Checking, Counter-Narratives and Political Activism in Germany". Populisms and their Aesthetics: Truthmaking, Faking, and the Politics of Affect in Audiovisual (Digital) Media, Heidelberg (3/2022).
+* Anstehend: "Utopian Investments: Notes on the Pragmatics of Crypto Twitter". ELAN Workshop Series, Online (2/2022).
 
 ## 2021
+* Anstehend: "Alltägliche Narrative Europas an den Rändern". Bewerbungsvortrag auf die Laufbahnstelle Europäische Ethnologie, Universität Innsbruck, Innsbruck (12/2021).
 * Anstehend: "Roundtable Participation: Narratives of Global Cooperation". Midterm Conference New Avenues of Global Cooperation Research, Centre for Global Cooperation Research, Duisburg (11/2021).
 * Anstehend: mit Sarah May und Johannes Müske, "Morality as Organizational Practice (Introduction)". Tagung Morality as Organizational Practice (dgv-Kommission Arbeitskulturen), Freiburg (11/2021).
+* "Comment on Andrew Graan: Diplomatic Commentary and the Sovereignty Trap: Rethinking Political Reform Macedonia". ELAN Workshop Series, Online (11/2021).
 * "Kontext und politisches Erzählen (Keynote)". Tagung Politisches Erzählen. Narrative, Genres, Strategien (dgv-Kommission Erzählforschung), Freiburg (08/2021).
 * "Entangled Pasts, Dissonant Heritages: Heritage as Strategic Resource in EU External Relations". SIEF-Kongress, Helsinki (6/2021).
 * "Podium Contribution: Ethnologies of the Future: Anthropology and the EU-Agenda". Civis-Workshop Studying European Culture and Society in Challenging Times, Tübingen (4/2021).
