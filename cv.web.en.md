@@ -26,7 +26,7 @@ Homepage: https://www.stefangroth.com
 
 ## Research Projects
 * **2021--2023:** Everyday Narratives of (De-)Legitimation: How Stories about Migration Policies and Expert Regimes are told in Everyday Contexts (Senior Fellowship Centre for Global Cooperation Research)  
-* **Since 2021:** The Everyday: Perspectives from Empirical Cultural Studies (Book Project)  
+* **since 2021:** The Everyday: Perspectives from Empirical Cultural Studies (Book Project)  
 * **since 2021:** Europe from Outside and from the Margins: The Everyday Production of Europe in Borderlands and Non-European Contexts  
 * **since 2019:** Popular Narratives of the Political  
 * **2016--2020:** The Middle as Practice and Constellation: Orientations towards the Middle from the Perspective of Empirical Cultural Studies (Habilitation)  
