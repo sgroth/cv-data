@@ -54,7 +54,7 @@ Venia Legendi Empirical Cultural Studies (Privatdozent), University of Zurich (C
 * **2008–2011**  
 Dr. phil. in Cultural Anthropology / European Ethnology, Georg-August-University Göttingen (DE). PhD thesis: "Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property" (*summa cum laude*). Advisor: Prof. Dr. Regina F. Bendix (Göttingen), Prof. Dr. Donald F. Brenneis (UC Santa Cruz).  
 * **10/2003—03/2008**  
-M.A. in Sociology, Subjects: Sociology, Cultural Anthropology / European Ethnology, Social & Economic Psychology, Georg-August-University Göttingen (DE). MA thesis: "Open-Source-Software Engineering: Sociological Discussion of a Specific Form of Innovation Networks (Entwicklung von Open-Source-Software: Soziologische Diskussion einer spezifischen Form von Innovationsnetzwerk)" (*Sehr gut*).  
+M.A. in Sociology, Subjects: Sociology, Cultural Anthropology / European Ethnology, Social and Economic Psychology, Georg-August-University Göttingen (DE). MA thesis: "Open-Source-Software Engineering: Sociological Discussion of a Specific Form of Innovation Networks (Entwicklung von Open-Source-Software: Soziologische Diskussion einer spezifischen Form von Innovationsnetzwerk)" (*Sehr gut*).  
 * **10/2006–01/2007**  
 Erasmus Student Exchange Programme, Subjects: Relazioni Pubbliche (Public Relations), Università degli Studi di Udine (IT).   
 
