@@ -81,7 +81,6 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
   * Kollegiales Praxisgespräch (11/2013)  
   * Beratung von Studierenden (01/2014)  
 
-
 ## Gremienerfahrung 
 * Mitarbeit in diversen universitäten, fakultären und institutsübergreifenden Arbeitsgruppen an der Universität Zürich (z. B. AG Sozialwissenschaften an der Phil. Fakultät / Studiengangsentwicklung, AG Methodenpool Qualitative Methoden an der UZH) (seit 2016)  
 * Mitverantwortlicher für das Forschungsnetzwerk Cultural Citizenship. Kooperationsprojekt zwischen dem ISEK – Populäre Kulturen (Universität Zürich), dem Departement Kulturanalysen und Vermittlung (Zürcher Hochschule der Künste) und dem Departement Angewandte Linguistik (Zürcher Hochschule für Angewandte Wissenschaften) (2018--2021)  
@@ -105,7 +104,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Qualifikationsarbeiten auf Bachelor- und Masterniveau  
 
 ## Organisation
-Planung, Organisation und Durchführung von Workshops, Panels, Tagungen
+Planung, Organisation und Durchführung von Workshops, Panels, Tagungen  
 * Leitung Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich (Konzeption und Durchführung, Fellow-Programm, Nachwuchsförderung, Organisation von Tagungen und In-House-Workshops, Vorträgen, Podiumsdiskussionen, Lesungen).  
 * Organisation von Panels bei Fachkonferenzen (Deutsche Gesellschaft für Volkskunde, Société Internationale d'Ethnologie et de Folklore).  
 * Anstehend: Zusammen mit Anna Weichselbraun, Ph.D.: Panel Sprechen und Zeitlichkeit, dgv-Kongress 2021, Regensburg, 20.-23. April 2022.  
