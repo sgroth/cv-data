@@ -1,3 +1,11 @@
+## Universität Tübingen
+  
+### 2022
+* Anstehend: Narrative Europas in Alltag, Medien und Politik, Seminar Bachelor, SoSe2022. Universität Tübingen, Ludwig-Uhland-Institut für Empirische Kulturwissenschaft. 
+* Anstehend: Europäische Infrastrukturen, Exkursionsseminar Bachelor, SoSe2022. Universität Tübingen, Ludwig-Uhland-Institut für Empirische Kulturwissenschaft. 
+* Anstehend: Visuelle Dimensionen des Populismus, Seminar Bachelor, SoSe2022. Universität Tübingen, Ludwig-Uhland-Institut für Empirische Kulturwissenschaft. 
+* Anstehend: Quantified Self: Materielle und visuelle Dimensionen am Beispiel von Freizeitsport und Fitness, Seminar Bachelor, SoSe2022. Universität Tübingen, Ludwig-Uhland-Institut für Empirische Kulturwissenschaft. 
+
 ## Universität Zürich
   
 ### 2021
