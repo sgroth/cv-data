@@ -100,6 +100,14 @@ Erasmus Student Exchange Programme, Public Relations, Università degli Studi di
 * DFG-Network on Experientiality (since 2021)  
 * DFG-Network on Competition (2014--2018)  
 
+## Teaching Activities 
+A full list of taught courses is available at: [https://github.com/sgroth/teaching](https://github.com/sgroth/teaching)  
+* Empirical Cultural Studies, University of Tübingen, Germany (2022)  
+* Cultural Studies / Anthropology, University of Zurich, Switzerland (2016--2021)  
+* Cultural Studies / European Ethnology, University of Bonn, Germany (2015--2016)  
+* Erasmus Teaching Staff Mobility Grant, Cultural Heritage, University of Basel, Switzerland (2012)  
+* Cultural Anthropology / European Ethnology, University of Göttingen, Germany (2009--2013)  
+
 ## Reviewer for
 * Reviewer for Journals: International Journal of Heritage Studies (IJHS), Anthropological Journal of European Cultures (AJEC), Narrative Culture, Zeitschrift für Volkskunde, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
 * BA Theses  

@@ -99,6 +99,14 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * DFG-Netzwerk Erfahrung (ab 2021)  
 * DFG-Netzwerk Wettbewerb und Konkurrenz (2014--2018)  
 
+## Lehraktivitäten 
+Eine vollständige Liste gehaltener Lehrveranstaltungen ist verfügbar unter: [https://github.com/sgroth/teaching](https://github.com/sgroth/teaching)  
+* Empirische Kulturwissenschaft, Universität Tübingen (2022)  
+* Populäre Kulturen / Empirische Kulturwissenschaft, Universität Zürich (2016--2021)  
+* Kulturanthropologie / Europäische Ethnologie, Universität Bonn (2015--2016)  
+* Kulturerbe / Kulturwissenschaft und Europäische Ethnologie, Universität Basel (2012)  
+* Kulturanthropologie / Europäische Ethnologie, Universität Göttingen (2009--2013)  
+
 ## Gutachtertätigkeiten
 * Reviewer für Journals: Critical Discourse Studies, Diskurs, American Ethnologist, International Journal of Heritage Studies, Anthropological Journal of European Cultures, Narrative Culture, Zeitschrift für Volkskunde, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
 * Qualifikationsarbeiten auf Bachelor- und Masterniveau  
