@@ -18,7 +18,7 @@ Homepage: https://www.stefangroth.com
 
 ## Research Interests
 * Political Anthropology and Europeanization Studies  
-* Narratology, Linguistic Anthropology and Ethnography of Communication  
+* Narratology and Linguistic Anthropology  
 * Cultural Heritage and Cultural Property  
 * Methods in Empirical Cultural Studies  
 * Sport as Cultural Practice  

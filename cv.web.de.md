@@ -18,7 +18,7 @@ Homepage: https://www.stefangroth.com
 
 ## Forschungsschwerpunkte
 * Politische Anthropologie und Europäisierungsforschung  
-* Narratologie, linguistische Anthropologie und Kommunikationsethnografie  
+* Narratologie und linguistische Anthropologie  
 * Kulturerbe und kulturelles Eigentum  
 * Methoden der Empirischen Kulturwissenschaft  
 * Kulturwissenschaftliche Sportforschung  

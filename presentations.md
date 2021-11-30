@@ -6,7 +6,7 @@
 ## 2021
 * Anstehend: "Alltägliche Narrative Europas an den Rändern". Bewerbungsvortrag auf die Laufbahnstelle Europäische Ethnologie, Universität Innsbruck, Innsbruck (12/2021).
 * Anstehend: "Roundtable Participation: Narratives of Global Cooperation". Midterm Conference New Avenues of Global Cooperation Research, Centre for Global Cooperation Research, Duisburg (11/2021).
-* Anstehend: mit Sarah May und Johannes Müske, "Morality as Organizational Practice (Introduction)". Tagung Morality as Organizational Practice (dgv-Kommission Arbeitskulturen), Freiburg (11/2021).
+* mit Sarah May und Johannes Müske, "Morality as Organizational Practice (Introduction)". Tagung Morality as Organizational Practice (dgv-Kommission Arbeitskulturen), Freiburg (11/2021).
 * "Comment on Andrew Graan: Diplomatic Commentary and the Sovereignty Trap: Rethinking Political Reform Macedonia". ELAN Workshop Series, Online (11/2021).
 * "Kontext und politisches Erzählen (Keynote)". Tagung Politisches Erzählen. Narrative, Genres, Strategien (dgv-Kommission Erzählforschung), Freiburg (08/2021).
 * "Entangled Pasts, Dissonant Heritages: Heritage as Strategic Resource in EU External Relations". SIEF-Kongress, Helsinki (6/2021).
