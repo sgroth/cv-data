@@ -31,7 +31,6 @@ Homepage: https://www.stefangroth.com
 * **since 2019:** Popular Narratives of the Political  
 * **2016--2020:** The Middle as Practice and Constellation: Orientations towards the Middle from the Perspective of Empirical Cultural Studies (Habilitation)  
 * **since 2013:** Dimensions of Popular Sports: Cycling and Running as Sport and Leisure from the Perspective of Empirical Cultural Studies  
-* **since 2014:** Qualitative Approaches to International Institutions (with Katja Freistein, Alejandro Esguerra)  
 * **2014--2015:** Culture as Resource and Diplomacy: Between Geopolitics and Issues-Based Policy (Post-Doc Fellowship Käte Hamburger Kolleg / Centre for Global Cooperation Research)  
 * **2011--2014:** The Ethics of / in Negotiating and Regulating Cultural Property (PI: Prof. Dr. Regina F. Bendix, DFG-Research Unit Cultural Property)  
 * **2008--2011:** Communication Patterns and Decision-Making about Cultural Property in the International Forum of the World Intellectual Property Organization (PhD Project, PI: Prof. Dr. Regina F. Bendix, DFG-Research Unit Cultural Property)  
