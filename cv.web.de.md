@@ -95,7 +95,6 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Schweizerische Gesellschaft für Volkskunde (SGV), Sektion Zürich  
 * European Association of Social Anthropologists (EASA), EASA Networks Anthropology of Law, Rights and Governance (LAWNET); Linguistic Anthropology (ELAN)  
 * Societé Internationale d'Ethnologie et de Folklore (SIEF), SIEF Working Groups Narrative Cultures; Cultural Heritage and Property  
-* Rheinische Vereinigung für Volkskunde (RVV)  
 * DFG-Netzwerk Erfahrung (ab 2021)  
 * DFG-Netzwerk Wettbewerb und Konkurrenz (2014--2018)  
 

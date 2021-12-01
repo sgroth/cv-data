@@ -91,11 +91,10 @@ Erasmus Student Exchange Programme, Public Relations, Università degli Studi di
 * Board Member, Center for Theory of Culture and Society, University of Göttingen, Germany  (2010--2014)  
 
 ## Memberships 
-* German Society for Empirical Cultural Studies (DGV)  
+* German Society for Empirical Cultural Studies (DGEKW)  
 * Swiss Association for European Ethnology (SGV), Section Zurich  
 * European Association of Social Anthropologists (EASA), EASA Networks Anthropology of Law, Rights and Governance (LAWNET); Linguistic Anthropology (ELAN)  
 * Societé Internationale d'Ethnologie et de Folklore (SIEF), SIEF Working Groups Narrative Cultures; Cultural Heritage and Property  
-* Rheinische Vereinigung für Volkskunde (RVV)  
 * DFG-Network on Experientiality (since 2021)  
 * DFG-Network on Competition (2014--2018)  
 
@@ -108,7 +107,7 @@ A full list of taught courses is available at: [https://github.com/sgroth/teachi
 * Cultural Anthropology / European Ethnology, University of Göttingen, Germany (2009--2013)  
 
 ## Reviewer for
-* Reviewer for Journals: International Journal of Heritage Studies (IJHS), Anthropological Journal of European Cultures (AJEC), Narrative Culture, Zeitschrift für Volkskunde, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
+* Reviewer for Journals: Critical Discourse Studies, Diskurs, American Ethnologist, International Journal of Heritage Studies, Anthropological Journal of European Cultures, Narrative Culture, Zeitschrift für Volkskunde, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
 * BA Theses  
 * MA Theses: 2 Master Students (1 co-advised); Faculty of Arts and Social Sciences, Institute of Social Anthropology and Cultural Studies, University of Zurich, Switzerland; 1 Master Student (co-advised); Faculty of Arts, Department for Cultural Anthropology, University of Bonn, Germany; 1 Master Student; Faculty of Humanities, Institute of Cultural Anthropology/European Ethnology, Göttingen University, Germany  
 
