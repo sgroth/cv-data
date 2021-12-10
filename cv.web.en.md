@@ -7,7 +7,7 @@ PD Dr. phil. Stefan Groth
 * *Upcoming: Visiting Professor (spring term 2022)*, Ludwig-Uhland-Institute for Empirical Cultural Studies, University Tübingen (04/2022--09/2022).  
 
 **Work Address:**  
-Centre for Global Cooperation Research  
+Käte Hamburger Kolleg / Centre for Global Cooperation Research  
 University Duisburg-Essen  
 Schifferstraße 44  
 DE-47059 Duisburg  
