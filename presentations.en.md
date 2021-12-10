@@ -28,10 +28,10 @@
 * "Akteure, Praktiken, Atmosphären: Elemente einer regionalen Konstellationsanalyse". Bewerbungsvortrag auf die W3-Professur für Kulturanthropologie und Europäische Ethnologie mit Schwerpunkt in regionaler Kulturanalyse, Universität Freiburg, Freiburg (2/2019).
 
 ## 2018
-* "Vergleich als Wissen / Wissensproduktion im Vergleich". Podiumsdiskussion Wissensalltag / Alltagswissen. Orte, Medien und Praktiken. Perspektiven aus Anthropologie und Kulturwissenschaft im Rahmen des Science Festivals 100 Ways of Thinking, Kunsthalle Zürich, Zürich (10/2018).
+* "Vergleich als Wissen/Wissensproduktion im Vergleich". Podiumsdiskussion Wissensalltag/Alltagswissen. Orte, Medien und Praktiken. Perspektiven aus Anthropologie und Kulturwissenschaft im Rahmen des Science Festivals 100 Ways of Thinking, Kunsthalle Zürich, Zürich (10/2018).
 * "Antizipierender Vergleich. Zur zeitlichen Dimensionierung von Vergleichen am Beispiel von Handlungsorientierungen am Mittelmaß". DGV-Hochschultagung Planen – Hoffen – Befürchten: Zukunft als Gegenstand und Herausforderung der Alltagskulturforschung, Bonn (09/2018).
 * with Sarah May, Johannes Müske, "Vernetzt, entgrenzt, prekär? Arbeit im Wandel und in gesellschaftlicher Diskussion. Eine Einführung". Arbeitstagung der dgv-Kommission Arbeitskulturen, Zürich (09/2018).
-* "Wissen, Ort, Vergleich. Praktiken des Wissens als Komparativ und Verortung". Institute of Cultural Anthropology / European Ethnology, Universität Göttingen, Göttingen (6/2018).
+* "Wissen, Ort, Vergleich. Praktiken des Wissens als Komparativ und Verortung". Institute of Cultural Anthropology/European Ethnology, Universität Göttingen, Göttingen (6/2018).
 * "Schlusskommentar". Workshop des DFG-Projekts Partizipative Entwicklung ländlicher Regionen: Ländliche Alltagskulturen regieren. Perspektiven der Kulturanalyse politischer Prozesse in ländlichen Regionen, Bonn (6/2018).
 * "Optimierung bis zum Mittelmaß? Sozialkomparative Orientierungen an der Mitte aus alltagskultureller Perspektive". FRIAS Workshop Selbstoptimierung, Freiburg (6/2018).
 * "Narratologisches Doppel: Text und Kontext in Online-Archiven und Interaktionssituationen". Forschungsdesign 4.0. Datengenerierung und Wissenstransfer in interdisziplinärer Perspektive, Dresden (4/2018).
@@ -55,13 +55,13 @@
 * with Katja Freistein, Alejandro Esguerra, "Observing Micro-Practices, Making Generalizations: A Concept Note". Workshop Studying Micro-Practices in (International) Institutions: Chances and Limitations of Theory-Building, Duisburg (11/2015).
 * "Kein sichereres Mittel existirt zur Abwehr von allem Lupengesindel‘: Zur Technisierung und Legitimierung von Sicherheits- und Kontrollregimen um 1900". Tagung „Der Alltag der (Un)Sicherheit. Ethnographisch-kulturwissenschaftliche Perspektiven auf die Sicherheitsgesellschaft“, Graz (11/2015).
 * "Subjektiver Sinn, objektive Indikatoren? Zum Verhältnis von Wahrnehmung und Vermessung im freizeitsportlichen Rennradsport". Kongress der Deutschen Gesellschaft für Volkskunde (DGV), Zürich (7/2015).
-* "The Pragmatics of Multilateral Negotiations". Midterm Conference Käte Hamburger Kolleg\u2009/\u2009Centre for Global Cooperation Research, Duisburg (7/2015).
+* "The Pragmatics of Multilateral Negotiations". Midterm Conference Käte Hamburger Kolleg/Centre for Global Cooperation Research, Duisburg (7/2015).
 * "Recognition and Multiculturalism: German Heritage Discourse in the European Context". SIEF-Kongress, Zagreb (6/2015).
-* "Culture Concepts and Normative Principles: On the Framing and Justification of Cultural Property in EU-Conventions". Käte Hamburger Kolleg\u2009/\u2009Centre for Global Cooperation Research, Duisburg (5/2015).
+* "Culture Concepts and Normative Principles: On the Framing and Justification of Cultural Property in EU-Conventions". Käte Hamburger Kolleg/Centre for Global Cooperation Research, Duisburg (5/2015).
 * "Kultur als “Soft Power”? Zur Rahmung und Rechtfertigung von Kulturerbe in der Europäischen Union". Department for Cultural Anthropology, Bonn (5/2015).
 
 ## 2014
-* "Modalities of Normative Claims to Culture in Multilateral Negotiations". Käte Hamburger Kolleg\u2009/\u2009Centre for Global Cooperation Research, Duisburg (11/2014).
+* "Modalities of Normative Claims to Culture in Multilateral Negotiations". Käte Hamburger Kolleg/Centre for Global Cooperation Research, Duisburg (11/2014).
 * "Kooperation als Ressource: Zur Produktion kooperativen Alltagshandelns". Tagung „Zum Umgang mit begrenzten Ressourcen”, Kiel (11/2014).
 * "Producing Stability: On the Pragmatics of Multilateral Negotiations". WISC, Frankfurt (08/2014).
 * "Normative Forderungen über Kultur als Themenfeld transnationaler Kooperation". Workshops "Mosaike der Legitimität", Konstanz (7/2014).
@@ -84,7 +84,7 @@
 ## 2010
 * "Metapragmatics on the Global Stage: The Multiplicity of Meaning in International Negotiations". Workshop zur Anthropology of International Institutions: How Ethnography Contributes to Understanding Mechanisms of Global Governance, Paris (6/2010).
 * "Language Ideologies and International Institutions: The Case of the Intergovernmental Committee on Intellectual Property and Traditional Knowledge". Department of Anthropology, UC Santa Cruz, Santa Cruz (4/2010).
-* "Cultural Property als kulturanthropologisches Forschungsthema". Institute of Cultural Anthropology\u2009/\u2009European Ethnology der Universität Göttingen, Göttingen (1/2010).
+* "Cultural Property als kulturanthropologisches Forschungsthema". Institute of Cultural Anthropology/European Ethnology der Universität Göttingen, Göttingen (1/2010).
 
 ## 2009
 * "Ideologies in Motion: Language, Power and Performance in International Institutions". Konferenz der American Anthropological Association (AAA), Philadelphia (12/2009).

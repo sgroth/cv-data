@@ -7,7 +7,7 @@ PD Dr. phil. Stefan Groth
 * *Upcoming: Visiting Professor (spring term 2022)*, Ludwig-Uhland-Institute for Empirical Cultural Studies, University Tübingen (04/2022--09/2022).  
 
 **Work Address:**  
-Käte Hamburger Kolleg / Centre for Global Cooperation Research  
+Käte Hamburger Kolleg/Centre for Global Cooperation Research  
 University Duisburg-Essen  
 Schifferstraße 44  
 DE-47059 Duisburg  
@@ -31,29 +31,29 @@ Homepage: https://www.stefangroth.com
 * **since 2019:** Popular Narratives of the Political  
 * **2016--2020:** The Middle as Practice and Constellation: Orientations towards the Middle from the Perspective of Empirical Cultural Studies (Habilitation)  
 * **since 2013:** Dimensions of Popular Sports: Cycling and Running as Sport and Leisure from the Perspective of Empirical Cultural Studies  
-* **2014--2015:** Culture as Resource and Diplomacy: Between Geopolitics and Issues-Based Policy (Post-Doc Fellowship Käte Hamburger Kolleg / Centre for Global Cooperation Research)  
-* **2011--2014:** The Ethics of / in Negotiating and Regulating Cultural Property (PI: Prof. Dr. Regina F. Bendix, DFG-Research Unit Cultural Property)  
+* **2014--2015:** Culture as Resource and Diplomacy: Between Geopolitics and Issues-Based Policy (Post-Doc Fellowship Käte Hamburger Kolleg/Centre for Global Cooperation Research)  
+* **2011--2014:** The Ethics of/in Negotiating and Regulating Cultural Property (PI: Prof. Dr. Regina F. Bendix, DFG-Research Unit Cultural Property)  
 * **2008--2011:** Communication Patterns and Decision-Making about Cultural Property in the International Forum of the World Intellectual Property Organization (PhD Project, PI: Prof. Dr. Regina F. Bendix, DFG-Research Unit Cultural Property)  
 
 ## Positions Held
 * **09/2016--08/2021**  
-Head Laboratory Popular Culture Studies / Senior Research and Teaching Fellow, Popular Culture Studies, Institute of Social Anthropology and Cultural Studies (ISEK), University of Zurich.   
+Head Laboratory Popular Culture Studies/Senior Research and Teaching Fellow, Popular Culture Studies, Institute of Social Anthropology and Cultural Studies (ISEK), University of Zurich.   
 * **10/2015--08/2016**  
-Post-Doc, Cultural Anthropology / Folklore Studies, Institute of Archeology and Cultural Anthropology, University of Bonn.   
+Post-Doc, Cultural Anthropology/Folklore Studies, Institute of Archeology and Cultural Anthropology, University of Bonn.   
 * **2014--2015**  
-Post-Doctoral Fellow, <a href="https://www.gcr21.org">Käte Hamburger Kolleg / Centre for Global Cooperation Research</a>, University Duisburg–Essen.. Project: Culture as Resource and Diplomacy: Between Geopolitics and Issues-Based Policy.  
+Post-Doctoral Fellow, <a href="https://www.gcr21.org">Käte Hamburger Kolleg/Centre for Global Cooperation Research</a>, University Duisburg–Essen.. Project: Culture as Resource and Diplomacy: Between Geopolitics and Issues-Based Policy.  
 * **2011--2014**  
-Post-Doc, Institute of Cultural Anthropology / European Ethnology, Georg-August-University Göttingen. Project: The Ethics of/in Negotiating and Regulating Cultural Property (Sub-Project, Interdisciplinary DFG Research Unit <a href="http://www.cultural-property.org">“The Constituting of Cultural Property: Actors, Discourses, Contexts, Rules”</a>).  
+Post-Doc, Institute of Cultural Anthropology/European Ethnology, Georg-August-University Göttingen. Project: The Ethics of/in Negotiating and Regulating Cultural Property (Sub-Project, Interdisciplinary DFG Research Unit <a href="http://www.cultural-property.org">“The Constituting of Cultural Property: Actors, Discourses, Contexts, Rules”</a>).  
 * **2008--2011**  
-Research Associate/Ph.D. Candidate, Institute of Cultural Anthropology / European Ethnology, Georg-August-University Göttingen. Project: Communication Patterns and Decision-Making about Cultural Property in the International Forum of the World Intellectual Property Organization (Sub-Project, <a href="http://www.cultural-property.org">“The Constituting of Cultural Property: Actors, Discourses, Contexts, Rules”</a>).  
+Research Associate/Ph.D. Candidate, Institute of Cultural Anthropology/European Ethnology, Georg-August-University Göttingen. Project: Communication Patterns and Decision-Making about Cultural Property in the International Forum of the World Intellectual Property Organization (Sub-Project, <a href="http://www.cultural-property.org">“The Constituting of Cultural Property: Actors, Discourses, Contexts, Rules”</a>).  
 
 ## Education
 * **03/2021**  
 Venia Legendi Empirical Cultural Studies (Privatdozent), University of Zurich (CH). Habilitation: "The Middle as Practice and Constellation: Orientations towards the Middle from the Perspective of Empirical Cultural Studies (submitted 11/2019)".  
 * **2008–2011**  
-Dr. phil. in Cultural Anthropology / European Ethnology, Georg-August-University Göttingen (DE). PhD thesis: "Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property" (*summa cum laude*). Advisor: Prof. Dr. Regina F. Bendix (Göttingen), Prof. Dr. Donald F. Brenneis (UC Santa Cruz).  
+Dr. phil. in Cultural Anthropology/European Ethnology, Georg-August-University Göttingen (DE). PhD thesis: "Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property" (*summa cum laude*). Advisor: Prof. Dr. Regina F. Bendix (Göttingen), Prof. Dr. Donald F. Brenneis (UC Santa Cruz).  
 * **10/2003—03/2008**  
-M.A. in Sociology, Subjects: Sociology, Cultural Anthropology / European Ethnology, Social and Economic Psychology, Georg-August-University Göttingen (DE). MA thesis: "Open-Source-Software Engineering: Sociological Discussion of a Specific Form of Innovation Networks (Entwicklung von Open-Source-Software: Soziologische Diskussion einer spezifischen Form von Innovationsnetzwerk)" (*Sehr gut*).  
+M.A. in Sociology, Subjects: Sociology, Cultural Anthropology/European Ethnology, Social and Economic Psychology, Georg-August-University Göttingen (DE). MA thesis: "Open-Source-Software Engineering: Sociological Discussion of a Specific Form of Innovation Networks (Entwicklung von Open-Source-Software: Soziologische Diskussion einer spezifischen Form von Innovationsnetzwerk)" (*Sehr gut*).  
 * **10/2006–01/2007**  
 Erasmus Student Exchange Programme, Subjects: Relazioni Pubbliche (Public Relations), Università degli Studi di Udine (IT).   
 
@@ -82,7 +82,7 @@ Erasmus Student Exchange Programme, Public Relations, Università degli Studi di
   * Advising Students (01/2014)  
 
 ## Work in committees 
-* Membership in Various University-, Faculty-, and Institute-Wide Working Groups at the University of Zurich (Working Group Social Sciences, Faculty of Arts and Social Sciences, Zurich (2016–2021) / Development of Degree Courses, Working Group Qualitative Methods at the UZH) (2016--2021)  
+* Membership in Various University-, Faculty-, and Institute-Wide Working Groups at the University of Zurich (Working Group Social Sciences, Faculty of Arts and Social Sciences, Zurich (2016–2021)/Development of Degree Courses, Working Group Qualitative Methods at the UZH) (2016--2021)  
 * Board Member, Research Network Cultural Citizenship (University of Zurich, Zurich University of the Arts, Zurich University of Applied Science) (2018--2021)  
 * Co-Speaker, Section Cultures of Work, German Society of Folklore (dgv) (2017--2021)  
 * Delegate, Commission for Research and Promotion of Junior Researchers, Faculty of Arts and Social Sciences, Zurich (2017--2020)  
@@ -101,10 +101,10 @@ Erasmus Student Exchange Programme, Public Relations, Università degli Studi di
 ## Teaching Activities 
 A full list of taught courses is available at: [https://github.com/sgroth/teaching](https://github.com/sgroth/teaching)  
 * Empirical Cultural Studies, University of Tübingen, Germany (2022)  
-* Cultural Studies / Anthropology, University of Zurich, Switzerland (2016--2021)  
-* Cultural Studies / European Ethnology, University of Bonn, Germany (2015--2016)  
+* Cultural Studies/Anthropology, University of Zurich, Switzerland (2016--2021)  
+* Cultural Studies/European Ethnology, University of Bonn, Germany (2015--2016)  
 * Erasmus Teaching Staff Mobility Grant, Cultural Heritage, University of Basel, Switzerland (2012)  
-* Cultural Anthropology / European Ethnology, University of Göttingen, Germany (2009--2013)  
+* Cultural Anthropology/European Ethnology, University of Göttingen, Germany (2009--2013)  
 
 ## Reviewer for
 * Reviewer for Journals: Critical Discourse Studies, Diskurs, American Ethnologist, International Journal of Heritage Studies, Anthropological Journal of European Cultures, Narrative Culture, Zeitschrift für Volkskunde, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
@@ -123,7 +123,7 @@ Planning, organisation, and execution of workshops, panels, and conferences
 * Panel Debate Everyday Knowledge. Places, Media, and Practices. Perspectives from Anthropology. Science Festivals 100 Ways of Thinking, Kunsthalle Zurich, Oktober 2018.  
 * Organisation with Dr. Sarah May and Dr. Johannes Müske, Networked, Unbounded, Precarious? Work in Social Discourse. 19th Workshop of the Section Cultures of Work of the German Association of Cultural Anthropology and Folklore Studies (dgv), September 2018. Zurich.  
 * In-House-Workshop Research Support, with Prof. em. Dr. Silke Göttsch-Elten, May 2018, Laboratory Popular Culture Studies, Zurich University.  
-* In-House-Workshop Rurality / Urbanity as Spatial Orders and Categories, May 2018, Laboratory Popular Culture Studies, Zurich University.  
+* In-House-Workshop Rurality/Urbanity as Spatial Orders and Categories, May 2018, Laboratory Popular Culture Studies, Zurich University.  
 * In-House-Workshop Researching Historically. April 2018, Labor Populäre Kulturen, ISEK, Universität Zürich.  
 * Organisation with Dr. Christian Ritter (Collegium Helveticum, Zürich), Workshop Working Together. Practices of Coordination, Cooperation, and Representation in Collaborative Processes, October 2017, Laboratory Popular Culture Studies, Zurich University.  
 * In-House-Workshop Perspectives of Ethnographic Cultural Analysis May 2017, Labor Populäre Kulturen, ISEK, Universität Zürich.  
@@ -134,5 +134,5 @@ Planning, organisation, and execution of workshops, panels, and conferences
 * Organisation with Nadine Wagener-Böck M.A., Workshop „Subjektbegriffe der Europäischen Ethnologie“ (“Concepts of the ‘Subject’ in European Ethnology”), December 13-14, 2012, Göttingen.  
 
 ## Expositions
-* Places of Knowledge. Ethnographic / Artistic Explorations (05/2018, Zurich University of the Arts).  
+* Places of Knowledge. Ethnographic/Artistic Explorations (05/2018, Zurich University of the Arts).  
 
