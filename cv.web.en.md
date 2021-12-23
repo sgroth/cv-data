@@ -2,8 +2,8 @@
 
 # Curriculum Vitae
 PD Dr. phil. Stefan Groth  
-* *Privatdozent*, <a href="https://www.isek.uzh.ch/de/populärekulturen.html">Institute of Social Anthropology and Cultural Studies (ISEK) -- Popular Culture Studies</a>, University of Zurich (since 03/2021).  
 * *Senior Research Fellow*, <a href="https://www.gcr21.org">Centre for Global Cooperation Research</a>, University Duisburg–Essen (since 11/2021).  
+* *Privatdozent*, <a href="https://www.isek.uzh.ch/de/populärekulturen.html">Institute of Social Anthropology and Cultural Studies (ISEK) -- Popular Culture Studies</a>, University of Zurich (since 03/2021).  
 * *Upcoming: Visiting Professor (spring term 2022)*, Ludwig-Uhland-Institute for Empirical Cultural Studies, University Tübingen (04/2022--09/2022).  
 
 **Work Address:**  
