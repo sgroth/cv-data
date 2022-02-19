@@ -115,7 +115,8 @@ Planung, Organisation und Durchführung von Workshops, Panels, Tagungen
 * Leitung Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich (Konzeption und Durchführung, Fellow-Programm, Nachwuchsförderung, Organisation von Tagungen und In-House-Workshops, Vorträgen, Podiumsdiskussionen, Lesungen).  
 * Organisation von Panels bei Fachkonferenzen (Deutsche Gesellschaft für Volkskunde, Société Internationale d'Ethnologie et de Folklore).  
 * Anstehend: Zusammen mit Anna Weichselbraun, Ph.D.: Panel Sprechen und Zeitlichkeit, dgv-Kongress 2021, Regensburg, 20.-23. April 2022.  
-* Anstehend: Zusammen mit Dr. Sarah May und Dr. Johannes Müske: Morality as Organizational Practice. 19th Workshop of the Section Cultures of Work of the German Association of Cultural Anthropology and Folklore Studies (dgv), Freiburg, November 2021.  
+* Anstehend: Discursivities of Cooperation. Authors' Workshop, Duisburg. März 2022  
+* Zusammen mit Dr. Sarah May und Dr. Johannes Müske: Morality as Organizational Practice. 19th Workshop of the Section Cultures of Work of the German Association of Cultural Anthropology and Folklore Studies (dgv), Freiburg, November 2021.  
 * Zusammen mit Dr. Sarah May, Arbeitstreffen dgv-Kommission Arbeitskulturen, 27. November 2020.  
 * Zusammen mit Dr. Christine Hämmerling und Prof. Dr. Silke Meyer: Workshop Moralische Ökonomie(n) – Kosten und Nutzen. 21.-22. Mai 2019, Labor Populäre Kulturen, ISEK, Universität Zürich.  
 * Zusammen mit Prof. Dr. Markus Tauschek: Panel Comparison as Reflective and Affective Practice: Orientations Towards the Middle and Everyday Comparisons, SIEF-Kongress 2019, Santiago de Compostela, Spanien, 14-17. April 2019.  
