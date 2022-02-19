@@ -7,7 +7,6 @@
 * Anstehend: "Populäre Narrative des Politischen: Europaskeptizismus aus Sicht der Empirischen Kulturwissenschaft". Antrittsvorlesung als Privatdozent an der Universität Zürich, Zürich (3/2022).
 
 ## 2021
-* Anstehend: "Alltägliche Narrative Europas an den Rändern". Bewerbungsvortrag auf die Laufbahnstelle Europäische Ethnologie, Universität Innsbruck, Innsbruck (12/2021).
 * "Roundtable Participation: Narratives of Global Cooperation". Midterm Conference New Avenues of Global Cooperation Research, Centre for Global Cooperation Research, Duisburg (11/2021).
 * mit Sarah May und Johannes Müske, "Morality as Organizational Practice (Introduction)". Tagung Morality as Organizational Practice (dgv-Kommission Arbeitskulturen), Freiburg (11/2021).
 * "Comment on Andrew Graan: Diplomatic Commentary and the Sovereignty Trap: Rethinking Political Reform Macedonia". ELAN Workshop Series, Online (11/2021).
