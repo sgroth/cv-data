@@ -3,7 +3,7 @@
 # Curriculum Vitae
 PD Dr. phil. Stefan Groth  
 * *Vertretungsprofessor (Sommersemester 2022)*, <a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/empirische-kulturwissenschaft/institut/">Ludwig-Uhland-Institut für Empirische Kulturwissenschaft</a>, Universität Tübingen (04/2022--09/2022).  
-* *Senior Research Fellow*, <a href="https://www.gcr21.org">Käte Hamburger Kolleg / Centre for Global Cooperation Research</a>, Universität Duisburg–Essen (11/2022--03/2021, 10/2022--04/2023).  
+* *Senior Research Fellow*, <a href="https://www.gcr21.org">Käte Hamburger Kolleg / Centre for Global Cooperation Research</a>, Universität Duisburg–Essen (11/21--3/22, 10/22--4/23).  
 * *Privatdozent*, <a href="https://www.isek.uzh.ch/de/populärekulturen.html">ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen</a>, Universität Zürich (seit 03/2021).  
 
 **Dienstanschrift:**  
