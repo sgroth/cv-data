@@ -93,7 +93,7 @@ Erasmus-Programm, Public Relations, Università degli Studi di Udine, Italien.
 * Zentrum für Theorie und Methodik der Kulturwissenschaften (ZTMK), Göttingen, Vorstand (2010--2014)  
 
 ## Mitgliedschaften 
-* Deutsche Gesellschaft für Volkskunde (DGV)  
+* Deutsche Gesellschaft für Empirische Kulturwissenschaft (DGEKW)  
 * Schweizerische Gesellschaft für Volkskunde (SGV), Sektion Zürich  
 * European Association of Social Anthropologists (EASA), EASA Networks Anthropology of Law, Rights and Governance (LAWNET); Linguistic Anthropology (ELAN)  
 * Societé Internationale d'Ethnologie et de Folklore (SIEF), SIEF Working Groups Narrative Cultures; Cultural Heritage and Property  
