@@ -37,7 +37,7 @@ Homepage: https://www.stefangroth.com
 
 ## Bisherige Tätigkeiten
 * **2021--2023**  
-, <a href="https://www.gcr21.org">Käte Hamburger Kolleg / Centre for Global Cooperation Research</a>, Universität Duisburg–Essen.   
+Senior Research Fellow, <a href="https://www.gcr21.org">Käte Hamburger Kolleg / Centre for Global Cooperation Research</a>, Universität Duisburg–Essen.   
 * **09/2016--08/2021**  
 Oberassistent / Leitung Labor Populäre Kulturen, Populäre Kulturen, ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.   
 * **10/2015--08/2016**  
