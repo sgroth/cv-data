@@ -9,8 +9,8 @@ PD Dr. phil. Stefan Groth
 **Dienstanschrift:**  
 Ludwig-Uhland-Institut für Empirische Kulturwissenschaft  
 Universität Tübingen  
-Schifferstraße 44  
-DE-47059 Duisburg  
+Burgsteige 11  
+DE-72070 Tübingen  
 
 E-Mail: stefangroth@me.com  
 Telefon: +49 203 379 5267  
