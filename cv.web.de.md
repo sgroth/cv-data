@@ -2,7 +2,7 @@
 
 # Curriculum Vitae
 PD Dr. phil. Stefan Groth  
-* *Vertretungsprofessor (Sommersemester 2022)*, Ludwig-Uhland-Institut für Empirische Kulturwissenschaft, Universität Tübingen (04/2022--09/2022).  
+* *Vertretungsprofessor (Sommersemester 2022)*, <a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/empirische-kulturwissenschaft/institut/">Ludwig-Uhland-Institut für Empirische Kulturwissenschaft</a>, Universität Tübingen (04/2022--09/2022).  
 * *Senior Research Fellow*, <a href="https://www.gcr21.org">Käte Hamburger Kolleg / Centre for Global Cooperation Research</a>, Universität Duisburg–Essen (seit 11/2021).  
 * *Privatdozent*, <a href="https://www.isek.uzh.ch/de/populärekulturen.html">ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen</a>, Universität Zürich (seit 03/2021).  
 
@@ -36,6 +36,8 @@ Homepage: https://www.stefangroth.com
 * **2008--2011:** Communication Patterns and Decision-Making about Cultural Property in the International Forum of the World Intellectual Property Organization (Disserationsprojekt, Leitung: Prof. Dr. Regina F. Bendix, DFG-Forschergruppe Cultural Property)  
 
 ## Bisherige Tätigkeiten
+* **2021--2023**  
+, <a href="https://www.gcr21.org">Käte Hamburger Kolleg / Centre for Global Cooperation Research</a>, Universität Duisburg–Essen.   
 * **09/2016--08/2021**  
 Oberassistent / Leitung Labor Populäre Kulturen, Populäre Kulturen, ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.   
 * **10/2015--08/2016**  
@@ -115,7 +117,7 @@ Planung, Organisation und Durchführung von Workshops, Panels, Tagungen
 * Leitung Labor Populäre Kulturen, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich (Konzeption und Durchführung, Fellow-Programm, Nachwuchsförderung, Organisation von Tagungen und In-House-Workshops, Vorträgen, Podiumsdiskussionen, Lesungen).  
 * Organisation von Panels bei Fachkonferenzen (Deutsche Gesellschaft für Volkskunde, Société Internationale d'Ethnologie et de Folklore).  
 * Anstehend: Zusammen mit Anna Weichselbraun, Ph.D.: Panel Sprechen und Zeitlichkeit, dgv-Kongress 2021, Regensburg, 20.-23. April 2022.  
-* Anstehend: Discursivities of Cooperation. Authors' Workshop, Duisburg. März 2022  
+* Discursivities of Cooperation. Authors' Workshop, Duisburg. März 2022  
 * Zusammen mit Dr. Sarah May und Dr. Johannes Müske: Morality as Organizational Practice. 19th Workshop of the Section Cultures of Work of the German Association of Cultural Anthropology and Folklore Studies (dgv), Freiburg, November 2021.  
 * Zusammen mit Dr. Sarah May, Arbeitstreffen dgv-Kommission Arbeitskulturen, 27. November 2020.  
 * Zusammen mit Dr. Christine Hämmerling und Prof. Dr. Silke Meyer: Workshop Moralische Ökonomie(n) – Kosten und Nutzen. 21.-22. Mai 2019, Labor Populäre Kulturen, ISEK, Universität Zürich.  
