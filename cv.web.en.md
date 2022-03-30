@@ -117,8 +117,8 @@ A full list of taught courses is available at: [https://github.com/sgroth/teachi
 Planning, organisation, and execution of workshops, panels, and conferences  
 * Head Laboratory Popular Culture Studies, Institute of Social Anthropology and Cultural Studies (ISEK), Zurich University (Conception and Execution, Senior Fellow-Program, Promotion of Young Scholars, Organisation of Conferences and In House-Workshops, Lectures, Panel Debates).  
 * Organisation of Panels at Conferences (Deutsche Gesellschaft für Volkskunde, Société Internationale d'Ethnologie et de Folklore).  
-* Upcoming: With Anna Weichselbraun, Ph.D.: Panel Talk and Temporality, dgv-Congress 2021, Regensburg, April 2022.  
-* Upcoming: Discursivities of Cooperation. Authors' Workshop, Duisburg, March 2022.  
+* With Anna Weichselbraun, Ph.D.: Panel Talk and Temporality, dgv-Congress 2021, Regensburg, April 2022.  
+* Discursivities of Cooperation. Authors' Workshop, Duisburg, March 2022.  
 * With Dr. Sarah May and Dr. Johannes Müske: Morality as Organizational Practice. 19th Workshop of the Section Cultures of Work of the German Association of Cultural Anthropology and Folklore Studies (dgv), Freiburg, November 2021.  
 * With Dr. Sarah May, Work Meeting dgv-Section Cultures of Work,November 2020.  
 * With Dr. Christine Hämmerling and Prof. Dr. Silke Meyer: Workshop Moral Economy, May 2019, Laboratory Popular Culture Studies, Zurich University.  

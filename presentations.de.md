@@ -1,6 +1,7 @@
 ## 2022
 * Anstehend: "Enactment of Futures: Crypto Twitter as Imaginary Practice". Digital Futures in the Making: Imaginaries, Politics, and Materialities (Conference of the DGEKW Section “Digitisation in Everyday Life”), Hamburg (09/2022).
 * Anstehend: "Prognose und Utopie: „Crypto Twitter“ als populärkultureller Finanz- und Zukunftsdiskurs". Zukunftsentwürfe in der Populärkultur, Freiburg (6/2022).
+* Anstehend: "Everyday Narratives of Migration Regimes". Centre for Global Cooperation Research Colloquium Series, Duisburg (5/2022).
 * Anstehend: "Promise as Contingent and Anticipatory Practice: Tracing Futures in Multilateral Negotiations". Making and Keeping Promises in Politics and Culture, Dresden (5/2022).
 * Anstehend: "Utopian Investments: Notes on the Pragmatics of Crypto Twitter". ELAN Workshop Series, Online (5/2022).
 * "Zeitlichkeit und Aussensicht – Zeitebenen der Konstruktion Europas durch außereuropäische Akteure". dgv-Kongress, Regensburg (4/2022).
