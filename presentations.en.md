@@ -1,10 +1,10 @@
 ## 2022
 * Upcoming: "Enactment of Futures: Crypto Twitter as Imaginary Practice". Digital Futures in the Making: Imaginaries, Politics, and Materialities (Conference of the DGEKW Section “Digitisation in Everyday Life”), Hamburg (09/2022).
 * Upcoming: "Prognose und Utopie: „Crypto Twitter“ als populärkultureller Finanz- und Zukunftsdiskurs". Zukunftsentwürfe in der Populärkultur, Freiburg (6/2022).
+* Anstehend: "Die Bitcoin Bubble: Zur Pragmatik von Crypto Twitter". Kolloquium Ludwig-Uhland-Institut Tübingen, Tübingen (7/2022).
 * Upcoming: "Everyday Narratives of Migration Regimes". Centre for Global Cooperation Research Colloquium Series, Duisburg (5/2022).
 * Upcoming: "Promise as Contingent and Anticipatory Practice: Tracing Futures in Multilateral Negotiations". Making and Keeping Promises in Politics and Culture, Dresden (5/2022).
 * Upcoming: "Utopian Investments: Notes on the Pragmatics of Crypto Twitter". ELAN Workshop Series, Online (5/2022).
-* "Zeitlichkeit und Aussensicht – Zeitebenen der Konstruktion Europas durch außereuropäische Akteure". dgv-Kongress, Regensburg (4/2022).
 * "Aesthetic Felicity: Narratological Approaches to the Aesthetics of Fact Checking, Counter-Narratives and Political Activism in Germany". Populisms and their Aesthetics: Truthmaking, Faking, and the Politics of Affect in Audiovisual (Digital) Media, Heidelberg (3/2022).
 * "Populäre Narrative des Politischen: Europaskeptizismus aus Sicht der Empirischen Kulturwissenschaft". Antrittsvorlesung als Privatdozent an der Universität Zürich, Zürich (3/2022).
 
