@@ -110,6 +110,7 @@ Eine vollständige Liste gehaltener Lehrveranstaltungen ist verfügbar unter: [h
 
 ## Gutachtertätigkeiten
 * Reviewer für Journals: Critical Discourse Studies, Diskurs, American Ethnologist, International Journal of Heritage Studies, Anthropological Journal of European Cultures, Narrative Culture, Zeitschrift für Volkskunde, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
+* Reviewer für Anträge: Marietta Blau Grant, OeAD (Austrian Agency for International Cooperation in Education and Research)  
 * Qualifikationsarbeiten auf Bachelor- und Masterniveau  
 
 ## Organisation

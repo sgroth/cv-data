@@ -110,6 +110,7 @@ A full list of taught courses is available at: [https://github.com/sgroth/teachi
 
 ## Reviewer for
 * Reviewer for Journals: Critical Discourse Studies, Diskurs, American Ethnologist, International Journal of Heritage Studies, Anthropological Journal of European Cultures, Narrative Culture, Zeitschrift für Volkskunde, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
+* Reviewer for Grant Applications: Marietta Blau Grant, OeAD (Austrian Agency for International Cooperation in Education and Research)  
 * BA Theses  
 * MA Theses: 2 Master Students (1 co-advised); Faculty of Arts and Social Sciences, Institute of Social Anthropology and Cultural Studies, University of Zurich, Switzerland; 1 Master Student (co-advised); Faculty of Arts, Department for Cultural Anthropology, University of Bonn, Germany; 1 Master Student; Faculty of Humanities, Institute of Cultural Anthropology/European Ethnology, Göttingen University, Germany  
 
