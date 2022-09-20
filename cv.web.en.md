@@ -2,18 +2,16 @@
 
 # Curriculum Vitae
 PD Dr. phil. Stefan Groth  
-* *Visiting Professor (spring term 2022)*, <a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/empirische-kulturwissenschaft/institut/">Ludwig-Uhland-Institute for Empirical Cultural Studies</a>, University Tübingen (04/2022--09/2022).  
 * *Senior Research Fellow*, <a href="https://www.gcr21.org">Centre for Global Cooperation Research</a>, University Duisburg–Essen (11/21--3/22, 10/22--4/23).  
 * *Privatdozent*, <a href="https://www.isek.uzh.ch/de/populärekulturen.html">Institute of Social Anthropology and Cultural Studies (ISEK) -- Popular Culture Studies</a>, University of Zurich (since 03/2021).  
 
 **Work Address:**  
-Ludwig-Uhland-Institute for Empirical Cultural Studies  
-University Tübingen  
-Burgsteige 11  
-DE-72070 Tübingen  
+Käte Hamburger Kolleg / Centre for Global Cooperation Research  
+Universität Duisburg–Essen  
+Schifferstraße 44  
+DE-47059 Duisburg  
 
-Email: stefangroth@me.com  
-Phone: +49 203 379 5267  
+Email: stefan@stefangroth.com  
 Homepage: https://www.stefangroth.com  
 
 ## Research Interests
@@ -36,8 +34,8 @@ Homepage: https://www.stefangroth.com
 * **2008--2011:** Communication Patterns and Decision-Making about Cultural Property in the International Forum of the World Intellectual Property Organization (PhD Project, PI: Prof. Dr. Regina F. Bendix, DFG-Research Unit Cultural Property)  
 
 ## Positions Held
-* **2021--2023**  
-Senior Research Fellow, <a href="https://www.gcr21.org">Käte Hamburger Kolleg / Centre for Global Cooperation Research</a>, University Duisburg–Essen.   
+* ****  
+Visiting Professor (spring term 2022), <a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/empirische-kulturwissenschaft/institut/">Ludwig-Uhland-Institute for Empirical Cultural Studies</a>, University Tübingen.   
 * **09/2016--08/2021**  
 Head Laboratory Popular Culture Studies/Senior Research and Teaching Fellow, Popular Culture Studies, Institute of Social Anthropology and Cultural Studies (ISEK), University of Zurich.   
 * **10/2015--08/2016**  
@@ -109,7 +107,7 @@ A full list of taught courses is available at: [https://github.com/sgroth/teachi
 * Cultural Anthropology/European Ethnology, University of Göttingen, Germany (2009--2013)  
 
 ## Reviewer for
-* Reviewer for Journals: Critical Discourse Studies, Diskurs, American Ethnologist, International Journal of Heritage Studies, Anthropological Journal of European Cultures, Narrative Culture, Zeitschrift für Volkskunde, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
+* Reviewer for Journals: Tourism Geographies, Critical Discourse Studies, Diskurs, American Ethnologist, International Journal of Heritage Studies, Anthropological Journal of European Cultures, Narrative Culture, Zeitschrift für Volkskunde, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
 * Reviewer for Grant Applications: Marietta Blau Grant, OeAD (Austrian Agency for International Cooperation in Education and Research)  
 * BA Theses  
 * MA Theses: 2 Master Students (1 co-advised); Faculty of Arts and Social Sciences, Institute of Social Anthropology and Cultural Studies, University of Zurich, Switzerland; 1 Master Student (co-advised); Faculty of Arts, Department for Cultural Anthropology, University of Bonn, Germany; 1 Master Student; Faculty of Humanities, Institute of Cultural Anthropology/European Ethnology, Göttingen University, Germany  

@@ -2,18 +2,16 @@
 
 # Curriculum Vitae
 PD Dr. phil. Stefan Groth  
-* *Vertretungsprofessor (Sommersemester 2022)*, <a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/empirische-kulturwissenschaft/institut/">Ludwig-Uhland-Institut für Empirische Kulturwissenschaft</a>, Universität Tübingen (04/2022--09/2022).  
 * *Senior Research Fellow*, <a href="https://www.gcr21.org">Käte Hamburger Kolleg / Centre for Global Cooperation Research</a>, Universität Duisburg–Essen (11/21--3/22, 10/22--4/23).  
 * *Privatdozent*, <a href="https://www.isek.uzh.ch/de/populärekulturen.html">ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen</a>, Universität Zürich (seit 03/2021).  
 
 **Dienstanschrift:**  
-Ludwig-Uhland-Institut für Empirische Kulturwissenschaft  
-Universität Tübingen  
-Burgsteige 11  
-DE-72070 Tübingen  
+Käte Hamburger Kolleg / Centre for Global Cooperation Research  
+Universität Duisburg–Essen  
+Schifferstraße 44  
+DE-47059 Duisburg  
 
-E-Mail: stefangroth@me.com  
-Telefon: +49 203 379 5267  
+E-Mail: stefan@stefangroth.com  
 Homepage: https://www.stefangroth.com  
 
 ## Forschungsschwerpunkte
@@ -36,8 +34,8 @@ Homepage: https://www.stefangroth.com
 * **2008--2011:** Communication Patterns and Decision-Making about Cultural Property in the International Forum of the World Intellectual Property Organization (Disserationsprojekt, Leitung: Prof. Dr. Regina F. Bendix, DFG-Forschergruppe Cultural Property)  
 
 ## Bisherige Tätigkeiten
-* **2021--2023**  
-Senior Research Fellow, <a href="https://www.gcr21.org">Käte Hamburger Kolleg / Centre for Global Cooperation Research</a>, Universität Duisburg–Essen.   
+* ****  
+Vertretungsprofessor (Sommersemester 2022), <a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/empirische-kulturwissenschaft/institut/">Ludwig-Uhland-Institut für Empirische Kulturwissenschaft</a>, Universität Tübingen.   
 * **09/2016--08/2021**  
 Oberassistent / Leitung Labor Populäre Kulturen, Populäre Kulturen, ISEK – Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Universität Zürich.   
 * **10/2015--08/2016**  
@@ -109,7 +107,7 @@ Eine vollständige Liste gehaltener Lehrveranstaltungen ist verfügbar unter: [h
 * Kulturanthropologie / Europäische Ethnologie, Universität Göttingen (2009--2013)  
 
 ## Gutachtertätigkeiten
-* Reviewer für Journals: Critical Discourse Studies, Diskurs, American Ethnologist, International Journal of Heritage Studies, Anthropological Journal of European Cultures, Narrative Culture, Zeitschrift für Volkskunde, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
+* Reviewer für Journals: Tourism Geographies, Critical Discourse Studies, Diskurs, American Ethnologist, International Journal of Heritage Studies, Anthropological Journal of European Cultures, Narrative Culture, Zeitschrift für Volkskunde, Jahrbuch für Europäische Ethnologie, Global Cooperation Research Papers  
 * Reviewer für Anträge: Marietta Blau Grant, OeAD (Austrian Agency for International Cooperation in Education and Research)  
 * Qualifikationsarbeiten auf Bachelor- und Masterniveau  
 

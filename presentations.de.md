@@ -1,7 +1,8 @@
 ## 2022
-* Anstehend: "Enactment of Futures: Crypto Twitter as Imaginary Practice". Digital Futures in the Making: Imaginaries, Politics, and Materialities (Conference of the DGEKW Section “Digitisation in Everyday Life”), Hamburg (09/2022).
-* Anstehend: "Prognose und Utopie: „Crypto Twitter“ als populärkultureller Finanz- und Zukunftsdiskurs". Zukunftsentwürfe in der Populärkultur, Freiburg (6/2022).
-* Anstehend: "Die Bitcoin Bubble: Zur Pragmatik von Crypto Twitter". Kolloquium Ludwig-Uhland-Institut Tübingen, Tübingen (7/2022).
+* "'Authentic’ Texts and ‘Original’ Ideas: On the Interpretation of Foundational EU Frameworks". Workshop Re-imagining the Past (Die neue Rückbesinnung), Centre for Global Cooperation Research, Duisburg (10/2022).
+* "Enactment of Futures: Crypto Twitter as Imaginary Practice". Digital Futures in the Making: Imaginaries, Politics, and Materialities (Conference of the DGEKW Section “Digitisation in Everyday Life”), Hamburg (09/2022).
+* "Die Bitcoin Bubble: Zur Pragmatik von Crypto Twitter". Kolloquium Ludwig-Uhland-Institut Tübingen, Tübingen (7/2022).
+* "Prognose und Utopie: „Crypto Twitter“ als populärkultureller Finanz- und Zukunftsdiskurs". Zukunftsentwürfe in der Populärkultur, Freiburg (6/2022).
 * "Narrative Legitimacy: A Narrative Approach to EU–Ukraine Relations in German Online Debate". Centre for Global Cooperation Research Colloquium Series, Duisburg (5/2022).
 * "Promise as Contingent and Anticipatory Practice: Tracing Futures in Multilateral Negotiations". Making and Keeping Promises in Politics and Culture, Dresden (5/2022).
 * "Aesthetic Felicity: Narratological Approaches to the Aesthetics of Fact Checking, Counter-Narratives and Political Activism in Germany". Populisms and their Aesthetics: Truthmaking, Faking, and the Politics of Affect in Audiovisual (Digital) Media, Heidelberg (3/2022).
