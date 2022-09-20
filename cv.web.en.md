@@ -34,8 +34,10 @@ Homepage: https://www.stefangroth.com
 * **2008--2011:** Communication Patterns and Decision-Making about Cultural Property in the International Forum of the World Intellectual Property Organization (PhD Project, PI: Prof. Dr. Regina F. Bendix, DFG-Research Unit Cultural Property)  
 
 ## Positions Held
-* ****  
+* **04/2022--09/2022**  
 Visiting Professor (spring term 2022), <a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/empirische-kulturwissenschaft/institut/">Ludwig-Uhland-Institute for Empirical Cultural Studies</a>, University Tübingen.   
+* **11/2021--3/2022**  
+Senior Research Fellow, <a href="https://www.gcr21.org">Käte Hamburger Kolleg / Centre for Global Cooperation Research</a>, Universität Duisburg–Essen.   
 * **09/2016--08/2021**  
 Head Laboratory Popular Culture Studies/Senior Research and Teaching Fellow, Popular Culture Studies, Institute of Social Anthropology and Cultural Studies (ISEK), University of Zurich.   
 * **10/2015--08/2016**  
