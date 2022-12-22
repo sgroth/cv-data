@@ -1,5 +1,7 @@
 ## 2022
+* with Katja Freistein, Frank Gadinger, "Narratives in International Relations". Centre for Global Cooperation Research Colloquium Series, Duisburg (12/2022).
 * "'Authentic’ Texts and ‘Original’ Ideas: On the Interpretation of Foundational EU Frameworks". Workshop Re-imagining the Past (Die neue Rückbesinnung), Centre for Global Cooperation Research, Duisburg (10/2022).
+* "Social Media Narratives at Europe’s Margins: The Case of Ireland/Northern Ireland". Authors’ Workshop World Ordering from the Margins, Centre for Global Cooperation Research, Duisburg (10/2022).
 * "Enactment of Futures: Crypto Twitter as Imaginary Practice". Digital Futures in the Making: Imaginaries, Politics, and Materialities (Conference of the DGEKW Section “Digitisation in Everyday Life”), Hamburg (09/2022).
 * "Die Bitcoin Bubble: Zur Pragmatik von Crypto Twitter". Kolloquium Ludwig-Uhland-Institut Tübingen, Tübingen (7/2022).
 * "Prognose und Utopie: „Crypto Twitter“ als populärkultureller Finanz- und Zukunftsdiskurs". Zukunftsentwürfe in der Populärkultur, Freiburg (6/2022).
