@@ -1,3 +1,6 @@
+## 2023
+* "The Poetics of Fact Checking and Counter-Narratives". Centre for Global Cooperation Research Colloquium Series, Duisburg (2/2023).
+
 ## 2022
 * mit Katja Freistein, Frank Gadinger, "Narratives in International Relations". Centre for Global Cooperation Research Colloquium Series, Duisburg (12/2022).
 * "'Authentic’ Texts and ‘Original’ Ideas: On the Interpretation of Foundational EU Frameworks". Workshop Re-imagining the Past (Die neue Rückbesinnung), Centre for Global Cooperation Research, Duisburg (10/2022).

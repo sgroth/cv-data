@@ -24,7 +24,7 @@ Homepage: https://www.stefangroth.com
 
 ## Forschungsprojekte
 * **2021--2023:** Everyday Narratives of (De-)Legitimation: How Stories about Migration Policies and Expert Regimes are told in Everyday Contexts (Senior Fellowship Käte Hamburger Kolleg / Centre for Global Cooperation Research)  
-* **seit 2021:** Alltag: Kulturwissenschaftliche Zugänge (Buchprojekt)  
+* **seit 2022:** Alltag: Kulturwissenschaftliche Zugänge (Buchprojekt)  
 * **seit 2021:** Europe from Outside and from the Margins: The Everyday Production of Europe in Borderlands and Non-European Contexts  
 * **seit 2019:** Populäre Narrative des Politischen  
 * **2016--2020:** Mittelmaß als Praxis und Konstellation: Orientierungen am Mittelmaß aus empirisch-kulturwissenschaftlicher Perspektive (Habilitationsprojekt)  
