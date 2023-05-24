@@ -2,14 +2,13 @@
 
 # Curriculum Vitae
 PD Dr. phil. Stefan Groth  
-* *Senior Research Fellow*, <a href="https://www.gcr21.org">Centre for Global Cooperation Research</a>, University Duisburg–Essen (11/21--3/22, 10/22--4/23).  
 * *Privatdozent*, <a href="https://www.isek.uzh.ch/de/populärekulturen.html">Institute of Social Anthropology and Cultural Studies (ISEK) -- Popular Culture Studies</a>, University of Zurich (since 03/2021).  
 
 **Work Address:**  
-Käte Hamburger Kolleg / Centre for Global Cooperation Research  
-Universität Duisburg–Essen  
-Schifferstraße 44  
-DE-47059 Duisburg  
+Institute of Social Anthropology and Cultural Studies (ISEK) -- Popular Culture Studies  
+University of Zurich  
+Affolternstrasse 56  
+CH-8050 Zurich  
 
 Email: stefan@stefangroth.com  
 Homepage: https://www.stefangroth.com  
@@ -34,6 +33,8 @@ Homepage: https://www.stefangroth.com
 * **2008--2011:** Communication Patterns and Decision-Making about Cultural Property in the International Forum of the World Intellectual Property Organization (PhD Project, PI: Prof. Dr. Regina F. Bendix, DFG-Research Unit Cultural Property)  
 
 ## Positions Held
+* **10/2022--4/2023**  
+Senior Research Fellow, <a href="https://www.gcr21.org">Käte Hamburger Kolleg / Centre for Global Cooperation Research</a>, Universität Duisburg–Essen.   
 * **04/2022--09/2022**  
 Visiting Professor (spring term 2022), <a href="https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/empirische-kulturwissenschaft/institut/">Ludwig-Uhland-Institute for Empirical Cultural Studies</a>, University Tübingen.   
 * **11/2021--3/2022**  
